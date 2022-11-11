@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install Dependencies
-        run: pip3 install -r requirements. txt
+        run: pip3 install -r requirements.txt
       - name: Run Archiver
         run: python3 main.py
       - name: Publish Archive

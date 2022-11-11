@@ -1,0 +1,20 @@
+name: Post Archiver
+
+on:
+  schedule:
+    - cron:  '00 5 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Dependencies
+        run: pip3 install -r requirements. txt
+      - name: Run Archiver
+        run: python3 main.py
+      - name: Publish Archive
+        uses: actions/upload-artifact@v3
+        with:
+          name: post-archive
+          path: $(Get-Date -Format "MM-dd-yyyy.txt")

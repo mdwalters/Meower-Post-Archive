@@ -14,7 +14,8 @@ jobs:
       - name: Run Archiver
         run: python3 main.py
       - name: Publish Archive
-        uses: actions/upload-artifact@v3
+        uses: EndBug/add-and-commit@v9
         with:
-          name: post-archive
-          path: $(Get-Date -Format "MM-dd-yyyy.txt")
+          default_author: mdwalters
+          message: "Upload archive"
+          add: $(Get-Date -Format "MM-dd-yyyy.txt")

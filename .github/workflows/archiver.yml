@@ -16,6 +16,7 @@ jobs:
       - name: Publish Archive
         uses: EndBug/add-and-commit@v9
         with:
-          default_author: mdwalters
+          committer_name: mdwalters
+          committer_email: mail@mdwalters.ml
           message: "Upload archive"
           add: $(Get-Date -Format "MM-dd-yyyy.txt")

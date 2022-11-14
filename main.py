@@ -3,7 +3,7 @@ import datetime
 
 date = datetime.datetime.now()
 
-for i in range(1, 30):
+for i in range(1, 100):
     meower.change_page(i)
     for i in range(0, 25):
         print(meower.get_post(meower.find_post(i)))

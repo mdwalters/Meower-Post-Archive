@@ -1,0 +1,749 @@
+axestudios: Lol imagine selling the design to tesla and the rename it to Tesla screen
+axestudios: Of course, the only problem is affording to create a tiny circuit with liquid crystals carefully placed on top
+axestudios: I plan on calling it liquid crystal paper
+axestudios: Ez photoshop
+Discord: theotherhades: i could cut it up and say i have dual monitors
+Discord: theotherhades: i would buy it
+axestudios: @theotherhades basically a really bendy monitor that feels like paper
+Discord: theotherhades: i have no idea what that is
+axestudios: I just decided to design a flexible reflective LCD paper textured display
+axestudios: @theotherhades lmao
+Discord: theotherhades: I'm markiplier
+axestudios: Hi guys
+Bloctans: gn
+JoshAtticus: will not let me merge any branch except master into bettermeower
+JoshAtticus: github loves being a pain
+Bloctans: @JoshAtticus theres a couple issues with 1.5 that i dont wanna fix and i dont think can fix but go for it
+Discord: theotherhades: write the svelte code manually into bettermeower
+JoshAtticus: How do I merge a branch from svelte into a branch on bettermeower
+JoshAtticus: I'm gonna get to work on BetterMeower 1.5
+JoshAtticus: It's driving me insane so I'm gonna refresh
+JoshAtticus: I now get 2 notifications for every message
+JoshAtticus: Otherwise the notifications multiply
+JoshAtticus: Oh hey @m I found an issue with your notifications.js thing, you need to initialise it once the website loads, not every time someone logs in
+JoshAtticus: But spinning grey meowy on bettermeower
+JoshAtticus: Why does theotherhades have spinning text as a pfp on vanilla?
+JoshAtticus: Cool
+Discord: tnix: prod worked, I'm going to remove the gh action now since it isn't really needed anymore
+Discord: theotherhades: lmao
+JoshAtticus: It feels weird telling tnix how to do something, when it's usually tnix telling me how to do something
+JoshAtticus: Alright
+Discord: tnix: it's doing it on the master branch now, it should work
+JoshAtticus: Did you remember to add the commands and variable?
+Discord: tnix: so I need to delete the current prod deployment and remake it
+JoshAtticus: They are counted as two completely different things to cloudflare
+Discord: tnix: I did, but I also changed the branch from gh-pages to master
+JoshAtticus: You need to add variables to both the preview and production things
+Discord: tnix: prod didn't work
+JoshAtticus: Nice this dev build
+Discord: tnix: re-deploying prod now
+Discord: tnix: it worked, nice
+Discord: tnix: hopefully it works, I'm testing it on bloctan's branch first
+JoshAtticus: yes
+Discord: tnix: do I put that in the env variables?
+JoshAtticus: After I figured out you needed to add the NODE_VERSION variable, it literally took me 4 minutes to move to cloudflare from gh pages
+Discord: tnix: we will probably switch to cf building soon, as long as CST approves of it
+JoshAtticus: Well it isn't that hard to move to cf pages
+JoshAtticus: WHY IS SPOT BLOCKED
+Discord: tnix: because it was setup like that for gh pages, but then we switched to cf
+JoshAtticus: Building on cloudflare is super fast, and more simple because it's all in one s****
+JoshAtticus: Why though?
+Discord: tnix: we don't build on cloudflare, github builds and then is deployed on cf
+JoshAtticus: Literally feels like it's been forever since I last used any form of code dev tool on this laptop, because i've been using github.dev and codespaces for the past 2 months.
+JoshAtticus: Otherwise the preview branches will not work
+JoshAtticus: @tnix, you need to add the NODE_VERSION = 17 enviroment variable and build commands/outputs to preview branches on Cloudflare
+Bloctans: check pull
+JoshAtticus: I get a white screen
+JoshAtticus: Why can't I open Svelte 1.5 dev preview?
+Vetzla: m
+Vetzla: n
+Vetzla: a
+Vetzla: d
+Vetzla: it filters **** but it doesn't filter
+Vetzla: btw that was daxmn
+Vetzla: **** shouldve asked him for the links
+Vetzla: yeah, and the owner of that part of my object show history refuses to share it
+Discord: tnix: it's good for privacy, but sad to see such an old exploit go away
+Discord: tnix: yeah, scratch started requiring project tokens a few days ago
+Vetzla: and now i cant cuz half of it's unshared
+Vetzla: i was trying to uncover my old object show history using turbowarp
+Vetzla: well well well, today we say goodbye to unshared projects
+Bloctans: because of how i made images, there is an issue where if you send a 1x4096 image (now 4096x1) it sorta breaks home
+Discord: tnix: what
+Bloctans: can you somehow figure out how i can fix the issue where i can send a 1x4096 px or 4096x1 image and for the home to break
+Discord: tnix: and you basically just take all the attachments from an array on the message object, no regex
+Snx: ill be back in a few
+Discord: tnix: @Bloctans#0000 yeah, the images thing should be fixed in b6 since you will only need to allow one hostname
+Bloctans: you = tnix
+Bloctans: also with cst and you helping less im kinda at a lost cause
+Snx: @tnix *casually doesnt speak computer science* uh yeah i have no idea what you mean
+Bloctans: @tnix its not that, its because i dont understand regex and am adding features the client doesnt fully support
+Discord: tnix: we'll probably need to do a big refactor for svelte for b6, just because the code quality has gone down and more and more bugs are showing with it
+Snx: (yeah ik this is coming from the person who is notorious for not being able to code but i want to be encouraging)
+Bloctans: actually like 90%
+Bloctans: 25% of the bugs i cant fix needing fixing
+Bloctans: bugs everywhere, half i cant fix
+Snx: @Bloctans dont give up!
+Bloctans: i cant deal with this
+Bloctans: im about to give up on svelte
+Bloctans: @tnix if i allowed meower.org then go.meower.org would be allowed
+Bloctans: i could not **** it from the post content
+Bloctans: since i have to remove the embed image text after rendering the post
+Bloctans: issue 2 is impossible for me
+Bloctans: @tnix ok i fixed issue 1 (sorta), there is another issue that comes along with it that i wont and will never fix because idk how to
+Bloctans: the scrolling modals is an issue with image sizing, idk how to really fix that without allowing for exploiting the system
+Bloctans: how am i supposed to reset a post's content without messing up the rendering
+Bloctans: im not fixing either
+Bloctans: i give up
+Bloctans: @tnix ill fix issue 2 but not one ):
+Discord: tnix: @Bloctans#0000 well, having bugs is not ideal, so it probably won't be merged until fixed
+Snx: remember when i was cat block
+Bloctans: issue 1 idk how to fix
+issue 2 is because of the way i added images
+Discord: tnix: hey
+Snx: hi
+Discord: williamhorning: smh
+Discord: tnix: and images break within modals [image.png: https://go.meower.org/5734f578]
+tnix: it should, just not on go.meower.org or other links that redirect
+tnix: so meower.org doesn't work at all
+tnix: [imagetest2.png: https://u.cubeupload.com/tnix100/a.png]
+tnix: [imagetest.png: https://meower.org/assets/meowerlogo-white.svg]
+Discord: tnix: @Bloctans why are you able to scroll on modals in 1.5? [image.png: https://go.meower.org/78e2801d]
+JoshAtticus: I'll be gone for about and hour, bye
+JoshAtticus: btw the xml sitemap doesn't contain any site info, so we'll need a second script to go through the links and get their metadata
+JoshAtticus: nooooooooo github started rate limiting me
+JoshAtticus: It uses the XML sitemap standard
+JoshAtticus: In an XML sitemap
+Bloctans: how is the indexed sites stored
+Bloctans: uh
+JoshAtticus: **7
+JoshAtticus: Oh yeah each core has an average speed of 8 urls scanned per second
+JoshAtticus: how
+Bloctans: *indexs
+Bloctans: ok you should make a search engine using the idexes tbh
+JoshAtticus: That's almost 100 iPhone 4's
+JoshAtticus: of 2010 tech
+JoshAtticus: eleven, thousand, dollars
+JoshAtticus: It's a computer worth around US$150 in today, but cost my dad almost A$11000 back in 2010
+JoshAtticus: not proccessor
+JoshAtticus: **server
+JoshAtticus: This intel xeon in my processor has 24
+JoshAtticus: It is running on 16 cores
+Bloctans: 2 weeks and 100000 github repos???
+JoshAtticus: It also found my Github profile and bettermeower yesterday too
+JoshAtticus: almost 2 weeks
+Bloctans: how long has it been running
+JoshAtticus: From which it also got the Meower website
+JoshAtticus: It found the Meower Twitter and Discord from Github
+JoshAtticus: @Bloctans Github, Twitter and Discord
+JoshAtticus: So only 3
+Bloctans: @JoshAtticus how did it find meower tho
+JoshAtticus: Oh wait indirectly from bing.com
+JoshAtticus: It's seen the Meower website 4 times, from github.com, twitter.com, discord.com, and bing.com, I never knew it uses bing to find sites
+Bloctans: how does google reindex over a billion documents
+JoshAtticus: Wow it found the Meower website yesterday
+JoshAtticus: @Bloctans I don't know how, I just like sitemaps, although if you made a frontend and backend, I could do the crawling
+JoshAtticus: It's set to go 100% performance at night when no one is using internet, and 25% during the day
+Bloctans: you should use that indexed data to create a search engine
+JoshAtticus: So not a problem
+JoshAtticus: But we have unlimited data
+JoshAtticus: And it uses around 19GB of data a week
+Bloctans: you could make your own search engine with the indexer
+JoshAtticus: I leave the crawler running 24/7 on my server
+JoshAtticus: from github.com
+JoshAtticus: Just checked
+JoshAtticus: Oh wait it's currently at 73,934
+JoshAtticus: And it keeps growing
+Bloctans: wow
+JoshAtticus: That's over 50,000 websites currently being scanned
+JoshAtticus: It has also started scanning over 50,000 off links
+Bloctans: what would be a good site to start indexing from
+JoshAtticus: And it's still growing
+JoshAtticus: Github's sitemap is over 100MB
+Bloctans: no i wanna make my own indexer
+JoshAtticus: I have saved over 1,000,000 github links since 2 weeks ago
+JoshAtticus: That creates XML sitemaps
+JoshAtticus: I have a site crawler
+JoshAtticus: I can do indexing
+JoshAtticus: base it off of the remnants of meower web
+Bloctans: i wanna make my own search engine
+JoshAtticus: Oh yeah I'm gonna run that Meower post archive thing
+JoshAtticus: Can you take MDWalters125 offline?
+JoshAtticus: @m
+MDWalters125: Hello, JoshAtticus!
+MDBot: Hello, JoshAtticus!
+JoshAtticus: ~hello
+JoshAtticus: Idk tbh
+MDBot: MDBot is now online! Use ~help to see a list of commands. MDWalters125 instance hosted by JoshAtticus. Last updated 10:18am AWST 14 Oct 2022
+Discord: theotherhades: what does md stand for 🤔
+JoshAtticus: gah
+MDBot: MDBot is now online!/nUse ~help to see a list of commands./nMDWalters125 instance hosted by JoshAtticus./nLast updated 10:18am AWST 14 Oct 2022
+JoshAtticus: ~credits
+MDWalters125: Creator: M.D. Walters
+Hosting: M.D. Walters (MDWalters125), JoshAtticus (MDBot)
+MDBot: Creator: M.D. Walters
+Hosting: M.D. Walters (MDWalters125), JoshAtticus (MDBot)
+MDBot: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+JoshAtticus: ~help
+MDBot: MDBot is now online! Use ~help to see a list of commands. MDWalters125 instance hosted by JoshAtticus. Last updated 10:18am AWST 14 Oct 2022
+pizzafox: @pizzafox (hello there, this is English)
+pizzafox: Heehrulloughe tcheehrrhrlehr, tcheeiyzse eiyzse Ehrnlegheulleiyzsehe!
+JoshAtticus: i bet mods with my IP are trying to get in now lol
+JoshAtticus: it's port forwarded too :3
+JoshAtticus: if you somehow get into my internet go to https://192.168.1.13:9090
+m: gtg
+m: i'm at the part in this warrior cats book where one cat gets scratched
+JoshAtticus: @theotherhades That's ONE city that is known for breeding emus in north west australia, I live in south west australia
+m: yes
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+m: /j
+m: i'm josh now
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+Discord: theotherhades: 🤔 [image.png: https://go.meower.org/9c11cc8b]
+m: i was so impatient that i implemented automatic posting when you come online and accidentally left it on me
+JoshAtticus: Where I can't reach them
+JoshAtticus: They are all in captivity
+JoshAtticus: @theotherhades None, there are no native emus in Western Australia
+JoshAtticus: I can turn that on assuming my mum hasn't turned off my sever like she did yesterday
+Discord: theotherhades: how many emus have you killed in your lifetime
+JoshAtticus: oh yeah the bot
+m: e
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+JoshAtticus: I didn't google that
+MDWalters124: ok
+JoshAtticus: **about
+JoshAtticus: Out of 27 million people
+JoshAtticus: There's a lot of native languages in Australia, if you include Aboriginal and Torres Strait Islander people, although only 3.4% of people can speak ONE of those.
+MDWalters124: i may gtg now
+pizzafox: that turns English cursed
+pizzafox: im gonna go make a cursed English thing
+Bloctans: TNIX BAN ROBLOX's SCHOOL IP
+Discord: theotherhades: ah yes i love britain
+Discord: theotherhades: 50k out of 5 million people 💀
+Discord: theotherhades: @williamhorning  [image.png: https://go.meower.org/86a970c8]
+JoshAtticus: a
+MDWalters124: you were used
+MDWalters124: @Atomic
+Discord: williamhorning: but thats true
+JoshAtticus: atomic bombed
+Discord: tnix: yeah, barely any just speak maori
+MDWalters124: @theotherhades eurouped
+Discord: williamhorning: maori still exists
+Discord: theotherhades: the british came and europed the māori
+MDWalters124: @william rip
+JoshAtticus: It's almost like I have unrestricted internet access since I was 10 lol
+Discord: theotherhades: @william false, it's just english
+MDWalters124: @theotherhades yay!
+JoshAtticus: I know
+Discord: theotherhades: when we finally take over meower will be the new twitter
+Discord: williamhorning: english and maori
+Discord: williamhorning: @JoshAtticus there're two languages officially spoken in NZ
+Discord: theotherhades: *good
+JoshAtticus: I know that means "Tnix likes to steal ur mom's browsing history"
+MDWalters124: meower is in bad hands
+MDWalters124: the security guy, head of theft
+JoshAtticus: lmao
+Discord: theotherhades: tnix is head of data theft
+JoshAtticus: i have my external keyboard for some reason lol
+MDWalters124: :gasp:
+JoshAtticus: isdjs it hsdis lanbyaege thaet i tpye whne  i plurg int mywe extenale keutbaord?
+Discord: theotherhades: we're like the illuminati, we control the world and keep it secret with our language
+MDWalters124: :shocked_face:
+Discord: theotherhades: no you don't know it, it's a secret language only new zealand citizens can speak
+JoshAtticus: Because I can talk to tnix
+JoshAtticus: I must be really good at New Zealandian even though I never remember learning it
+MDWalters124: @tnix please confirm
+JoshAtticus: My friend still thinks that people in New Zealand speak New Zealandian 🤣🤣🤣
+MDWalters124: yay another canadian
+Bloctans: @MDWalters124 ye why
+MDWalters124: @Bloctans you're canadian?
+MDWalters124: i hope everything would be sorted out soon
+MDWalters124: ok
+JoshAtticus: I have no one to talk to about this
+JoshAtticus: I hope you understand
+MDWalters124: thats so sad tbh
+MDWalters124: rip
+JoshAtticus: Because my parents won't listen to me and take him to the vet
+JoshAtticus: and then my cat is also sick, which is making me sad
+MDWalters124: ok
+MDWalters124: *oh
+JoshAtticus: School is like my only escape
+JoshAtticus: @MDWalters124 No sorry, I've been really busy lately and I've been having a really hard time at home, my parents are always arguing and fighting and it's stressing me out
+tnix: @pizzafox hi pizzafox
+MDWalters124: @JoshAtticus did you see my bettermeower pr?
+pizzafox: i haven't been here in a while lol
+MDWalters124: hi
+pizzafox: ello
+JoshAtticus: I just opened it and am now getting sooooo many notifications
+MDWalters124: @JoshAtticus alr did
+MDWalters124: https://scratch.mit.edu/projects/761018373/#comments-299401268 why
+JoshAtticus: you should terminate his forums account
+tnix: @JoshAtticus I just terminated one of @Roblox888i's alts that is impersonating
+JoshAtticus: who's approving my reports lol
+JoshAtticus: so thats context
+Bloctans: https://scratch.mit.edu/users/Roblox888i/#comments-235027349 you sure buddy?
+JoshAtticus: ohhhhhh ok
+MDWalters124: and is now crying about it on forums
+MDWalters124: and got ip banned for 3 days
+MDWalters124: roblox888i was being stalker on meower
+Bloctans: im just gonna act clueless
+MDWalters124: so
+JoshAtticus: ikr
+zedthehedgehog: what the hell is roblox888i's projects lmao
+JoshAtticus: i need context for everything
+Bloctans: @zedthehedgehog https://scratch.mit.edu/users/bloctans_4/#comments-235027195
+defend me
+JoshAtticus: i love how everyone sees me online when I'm trying to read older messages
+MDWalters124: i forgot to update bot :skull:
+zedthehedgehog: lmao
+Bloctans: https://scratch.mit.edu/users/Roblox888i/#comments-235027044
+XD LOOK AT THIS
+zedthehedgehog: AKS
+zedthehedgehog: welcome back to the HELLHOK,E TWIUHTUHweitrEAWUFRADF
+zedthehedgehog: Hi josh
+MDWalters124: FINALLY
+zedthehedgehog: oh
+MDWalters124: JOSH IS HERE
+zedthehedgehog: WHAT
+MDWalters124: HE'S HERE
+zedthehedgehog: Imagine being MD
+Bloctans: imagine using meower
+MDWalters124: YES
+MDWalters124: FINALLY
+zedthehedgehog: Imagine being zedthehedgehog
+MDWalters124: imagine having a bot
+zedthehedgehog: The hell did I do?
+Bloctans: imagine being a hypocrite
+MDWalters124: imagine having a tux pfp
+zedthehedgehog: ???
+Bloctans: @zedthehedgehog says you
+zedthehedgehog: Says you
+MDWalters124: imagine being a furry
+zedthehedgehog: Imagine using Scratch
+Bloctans: im just gonna say hi with no context on roblox888i's scratch
+MDWalters124: @theotherhades i alr finished testing
+zedthehedgehog: ~8ball should roblox888i be banned for ever
+MDWalters125: Yes.
+zedthehedgehog: ~8ball is roblox'
+MDWalters125: My sources say no.
+MDWalters125: Anything added dilutes everything else.
+zedthehedgehog: ~zen **** you
+Discord: theotherhades: @m please test that in a group chat i can see that flooding home lol
+MDWalters125: Anything added dilutes everything else.
+zedthehedgehog: ~zen
+zedthehedgehog: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+Bloctans: bro roblox888i is subbed to fgteev 💀
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+m: @MDWalters125 i'm not josh
+Bloctans: @zedthehedgehog weird
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+zedthehedgehog: @Bloctans Pages and modals in Svelte 1.5 can scroll down more for some reason
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Bloctans: thats showier
+Discord: theotherhades: so his accounts don't have the badges any more
+Discord: theotherhades: oh yeah whoever owns the botlist should probably remove his bot and username from it
+MDWalters124: reminds me of someone...
+Discord: tnix: yeah, it's a lot of accounts that Roblox has
+MDWalters124: google
+Discord: theotherhades: like a billion
+MDWalters124: fbi
+MDWalters124: uhh
+Bloctans: what other accounts does roblox have
+Discord: theotherhades: 💀
+MDWalters124: i'm gonna make a script that pings josh when he's online
+Bloctans: @tnix ok
+Discord: tnix: @Bloctans#0000 don't do that, that's just annoying, I suspended for 2 days
+MDWalters124: JOSH WHERE ARE YOU
+MDWalters124: ok
+Bloctans: he had to revalidate his email
+Bloctans: ye
+MDWalters124: on forums?
+Bloctans: @MDWalters124 and i also deactivated his account 
+MDWalters124: ban from forums as well
+MDWalters124: lmao
+MDWalters124: ****
+Discord: theotherhades: **** [image.png: https://go.meower.org/cbc788b2]
+Discord: theotherhades: @bloctans yes
+Discord: theotherhades: lmao he's throwing a tantrum [image.png: https://go.meower.org/c67a1e19]
+Bloctans: (and enable "This is an official warning.")?
+Bloctans: https://cdn.discordapp.com/attachments/963182181377789992/1041527105852285059/image.png
+shall i send?
+MDWalters124: NOW SERVER NEEDS RESTART
+MDWalters124: PR GOT MERGED
+MDWalters124: @zedthehedgehog ok
+Bloctans: @zedthehedgehog what is the exact reason for his ip ban
+helloitsme: Gtg
+zedthehedgehog: Tnix made a script to auto-login and unban on 11/16/2022 at 8:28:40 PM EST
+Discord: tnix: @MikeDEV https://github.com/meower-media-co/Meower-Server/pull/120
+MDWalters124: @zedthehedgehog ok sorta big brain
+Bloctans: ok
+zedthehedgehog: Yes
+Bloctans: you ip banned him for 3 days?
+zedthehedgehog: 72 hours is 24 times 3
+zedthehedgehog: @MDWalters124 3 days
+MDWalters124: @zedthehedgehog huge brain calulation: 2 days
+Bloctans: @tnix can you ip ban roblox for:
+- begging for a badge
+- chat spam
+- gc spam
+- whatever else he did
+helloitsme: @MDWalters124 ok
+MDWalters124: @helloitsme yeah i used it to make a crazy error video, and it's safe
+zedthehedgehog: Roblox888i's IP has been banned for 72 hours
+Discord: theotherhades: also they were begging for badges or something
+Discord: theotherhades: i mean chat spam
+helloitsme: @MDWalters124 is onworks safe
+Bloctans: thats considered spam
+Discord: theotherhades: weren't they like spamming a while ago on an alt or something as well
+Bloctans: ok yeah
+MDWalters124: they keep creating gcs and deleting them
+Bloctans: @MDWalters124 why is roblox annoying again?
+FBI: Hi
+FBI: Dont ip ban roblox88i he wont do it again
+MDWalters124: fr
+Discord: theotherhades: yeah this roblox kid annoying af
+Bloctans: also md why
+Bloctans: tnix can you ip ban roblox?
+MDWalters124: ~help
+MDWalters124: ~help
+MDWalters124: ip ban
+Bloctans: @Roblox888i3 planned ban envaison.
+MDWalters124: ugh onworks was too slow
+helloitsme: @tnix what command can I use to install python
+Bloctans: @MDWalters124 ye
+MDWalters124: but you deserve ban still
+Bloctans: maybe
+Roblox888i: ARE YOU NOT GONNA BAN ME IF I DONT DO IT ANYMORE
+Bloctans: @MDWalters124 no, i do not
+Roblox888i: @zedthehedgehog I WONT DO IT ANYMORE
+Bloctans: @MDWalters124 ?
+FBI: Hey you all meower users, if you are reading this dont *ERROR* ima get it back up
+zedthehedgehog: @mod ban Roblox888i
+FBI: MUHAHHA
+Roblox888i: prob yes
+FBI: Hes now tied up :)
+MDWalters124: do you mods like when normal meower users are suffering because of someone?
+FBI: Silly roblox888i
+FBI: AH-
+FBI: If you are reading this im trying to    fbi    up
+Bloctans: /j
+Bloctans: keep that a promise
+or i will ban your bot
+Bloctans: @FBI FINALLY
+FBI: HEHHEHE
+FBI: You may have tried to get FBI banned, but today is the day its gonna get banned
+MDWalters124: they keep adding us to gc and deleting them
+Discord: tnix: adding this little bit to the server code [image.png: https://go.meower.org/786eb4d0]
+Bloctans: you are m tho
+MDWalters124: @Bloctans m isn't online
+FBI: You tried to use @Roblox888i bot commands, welll ima disable the commands >:)
+MDWalters124: @zedthehedgehog https://u.cubeupload.com/MDWalters/N6fPz6.png
+FBI: IM MEOWER KILLER< I WILL HAVE MY REVENGE
+Bloctans: m why did you ask if roblox could be banned
+FBI: Hehhehehe
+FBI: Help-
+helloitsme: @tnix how do I even install python? In the machine I was using it just kept reopening (probably some python only sandbox) so I switched to another Linux machine and now I’m stuck. However it does work like a normal Linux machine
+FBI: EVENT STARTING NOW!
+MDWalters124: https://u.cubeupload.com/MDWalters/N6fPz6.png
+FBI: EVENT STARTING IN 1 seconds!
+Discord: cat: oops caps
+Discord: cat: SEND A SCREENSHOT OF THE GROUPS CHAT PAGE TOO
+Discord: tnix: @cat sadly it doesn't, I should've added that information
+Bloctans: m why did you ask if roblox could be banned
+FBI: EVENT STARTING IN 10 seconds!
+Discord: cat: It doesn't tell you who added them
+Roblox888i: I did not do any recently
+zedthehedgehog: I will switch to Meower Scratch
+zedthehedgehog: Yes
+tnix: or report the inbox messages so we can see them in the report queue
+Discord: cat: and of the group chats creen pls
+zedthehedgehog: I want to see how many group chats Roblox888i has made
+Roblox888i: i havent made anything yet
+zedthehedgehog: Could you send me screenshots of your Inbox
+Roblox888i: No
+MDWalters124: yes
+zedthehedgehog: Is it still happening MD?
+FBI: EVENT STARTING IN 20 seconds!
+Bloctans: posting doesnt even work cuz of the json bug
+zedthehedgehog: Why
+zedthehedgehog: Lmao
+Bloctans: im on svelte 1.0
+Bloctans: oh god
+zedthehedgehog: I've always used quit() lol
+zedthehedgehog: Oh
+tnix: @zedthehedgehog I didn't even know you could do quit() until then, I always just used exit()
+zedthehedgehog: Event?
+FBI: EVENT STARTING IN 1 minute!
+tnix: and then run 'pip install cloudlink'
+helloitsme: @tnix ok
+zedthehedgehog: quit()
+tnix: just do 'exit()'
+tnix: oh, ok
+helloitsme: @tnix without gui
+helloitsme: @tnix any way to exit python shell 
+zedthehedgehog: ?
+helloitsme: @tnix I can’t open apps
+tnix: you'll find terminal by opening the apps list or whatever
+helloitsme: @tnix how do I get to the terminal
+FBI: Signs point to maybe
+zedthehedgehog: ?8ball will I die on november 18
+tnix: @helloitsme alright, try opening a terminal and just doing 'pip install cloudlink'
+FBI: Tesla
+zedthehedgehog: Oh
+helloitsme: @tnix I’m using something called NixOS and it’s a Linux distribution 
+FBI: Signs point to no
+Roblox888i: ?8ball roblox
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+Roblox888i: ?help
+MDWalters124: finally
+kjhgfd: gtg
+Discord: tnix: @zedthehedgehog huh, ig I did something wrong
+helloitsme: @MDWalters124 ok
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+helloitsme: @tnix I’m using NixOS
+MDWalters124: slow online vm
+Roblox888i: ?help
+helloitsme: @MDWalters124 what is onworks
+Discord: zedthehedgehog: @Tnix (NZDT) [DiscordCanary_MWf52dTnXi.gif: https://go.meower.org/322bf568]
+Roblox888i: https://scratch.mit.edu/projects/761034957/
+MDWalters124: onworks is painfully slow
+Discord: zedthehedgehog: *your
+Discord: zedthehedgehog: @helloitsme#0000 How do you not know you're OS??
+Roblox888i: for meowstream
+Roblox888i: wanna see my test of search bar
+helloitsme: @tnix I’m gonna go check
+helloitsme: @tnix  I have no idea
+Roblox888i: B.....K. have it  your way
+tnix: @helloitsme what OS (operating system) are you on?
+helloitsme: @tnix print worked
+Discord: tnix: @Bloctans#0000 get CST to review it, I'm not the owner of svelte
+kjhgfd: @kjhgfd hi
+Roblox888i: @kjhgfd hi bro
+helloitsme: @tnix it worked
+kjhgfd: my bother said he is coming
+Discord: zedthehedgehog: @Tnix (NZDT) I found out why the sound effects option has not been working at all [image.png: https://go.meower.org/d727a2fd]
+Bloctans: @tnix https://github.com/meower-media-co/Meower-Svelte/pull/45
+helloitsme: @tnix ok
+kjhgfd: come in my gc
+tnix: if it works, then it's the Python shell
+tnix: @helloitsme try doing print("hello")
+helloitsme: @tnix i don’t know if I’m in terminal or python shell
+tnix: @zedthehedgehog no, CL3 scratch clients
+zedthehedgehog: *as in
+zedthehedgehog: @tnix Legacy clients are in old cached versions of Meower Svelte?
+MDWalters124: NOBODY USE A LEGACY CLIENT
+tnix: @MDWalters124 yeah, the server does that, it's because of people using legacy clients and the server getting confused, that is gonna be fixed in CL4 port
+helloitsme: If I’m in shell or terminal
+helloitsme: @tnix idk
+MDWalters124: lmao even meower svelte is suffering from string bug
+kjhgfd: he said ok
+zedthehedgehog: In which we could take action.
+tnix: @zedthehedgehog no, but it is spam, just please stop doing it @Roblox888i
+zedthehedgehog: Though if it continues, it could be considered spam
+tnix: @helloitsme are you in the Python shell or a normal terminal?
+zedthehedgehog: I don't believe adding to sus group chats is really a bannable offense
+helloitsme: @tnix Syntax error: invalid syntax is what I get when I use pip install cloudlink 
+MDWalters124: it's slow
+tnix: https://u.cubeupload.com/tnix100/a.png
+MDWalters124: hello from onworks
+zedthehedgehog: Oh.
+kjhgfd: BAD BROTHER
+tnix: @Roblox888i I now have console logs of you adding me to a group chat and immediately deleting it lmao
+MDWalters124: i'm try onworks to see console
+Bloctans: i found out how to apply a transformation matrix to a pygame surface
+tnix: @MDWalters124 there might be a way to see posts in the group chat even if it's deleted, but Mike would need to do it
+zedthehedgehog: @helloitsme Oh.
+MDWalters124: wait
+helloitsme: @tnix Something to do with File “<stdn>”
+MDWalters124: roblox888i be playing with us
+zedthehedgehog: if "install" is the error you need to exit Python.
+MDWalters124: @tnix rip
+tnix: @MDWalters124 sadly not really, since when a group chat is deleted it's deleted from the db
+kjhgfd: i found kfc recipe https://www.youtube.com/watch?v=KTABK8Il4Ko
+MDWalters124: if that helps
+MDWalters124: uh i found a deleted id from mdwalters125 logs: 1a1033e9-4be9-4c19-9ddc-0ed86bf7ab03, 0be63a56-319f-4c5e-86cc-ec3907a47700
+tnix: what OS are you on btw?
+helloitsme: @tnix hang on I’m gonna find it
+tnix: what's the error?
+helloitsme: @tnix didn’t work
+tnix: @helloitsme pip install cloudlink
+helloitsme: How do I use pip to install cloudlink I forgot the command
+zedthehedgehog: For whatever reason
+zedthehedgehog: @MDWalters124 That won't happen anytime soon, unless HTML5 is deprecated in some way.
+MDWalters124: @zedthehedgehog what happens when scratch 4.0
+helloitsme: @zedthehedgehog exactly 
+kjhgfd: ok
+zedthehedgehog: Cloudlink is a free and open-source, websocket-powered API optimized for Scratch 3.0.
+kjhgfd: ok
+helloitsme: @kjhgfd it has to do with servers and the cloud
+helloitsme: @kjhgfd something
+kjhgfd: ik some coding from my bro
+kjhgfd: what is cloudlink
+zedthehedgehog: @MDWalters124 Oh.
+helloitsme: I’m gonna go make some cloudlink test thing idk
+MDWalters124: You have been added to the group chat 'MD BAD'!
+zedthehedgehog: @MDWalters124 I concur.
+MDWalters124: and acts smart all the time
+MDWalters124: kkjahfkgahfgashfgajs is annoying
+zedthehedgehog: What is it, MD?
+MDWalters124: OH MY GOD
+zedthehedgehog: I mean
+kjhgfd: yeah, we got the same device for christmas
+zedthehedgehog: Are you and Roblox888i using the same device?
+kjhgfd: its fun
+kjhgfd: i like roblox
+MDWalters124: @tnix lmao
+helloitsme: @tnix ddos? (I’m joking)
+kjhgfd: not my bro
+kjhgfd: oh you talking about roblox.com
+kjhgfd: @tnix you doomed us all
+tnix: @kjhgfd roblox.com's IP is 128.116.114.3, there you go
+MDWalters124: rip
+helloitsme: @MDWalters124 mobile
+MDWalters124: @helloitsme ctrl+shift+i
+helloitsme: Guys I just got a new gc
+tnix: @kjhgfd ipv6 is just saying the version of the IP address, it's not an actual IP lol
+zedthehedgehog: I don't understand how that is related to roblox
+kjhgfd: is it the same for my brother
+helloitsme: I have a new gc
+zedthehedgehog: IPv6 Is Internet Protocol Version 6
+helloitsme: That*
+MDWalters124: can you read
+kjhgfd: is it ipv6
+helloitsme: @kjhgfd why would you ask thay
+zedthehedgehog: @kjhgfd What?
+helloitsme: @kjhgfd …
+kjhgfd: what is roblox ip
+zedthehedgehog: It is against moderator policy
+zedthehedgehog: Meower never will reveal IPs ever
+helloitsme: @kjhgfd bruh what
+zedthehedgehog: @kjhgfd I was not planning to do so
+kjhgfd: i dont wanna get kidnapped
+yourmother: @kjhgfd L bozo idk what that command is
+kjhgfd: dont revel my ip
+zedthehedgehog: Your IP is IPv6, which means it is unlikely for you to be Roblox888i's brother unless you are using the same device
+kjhgfd: i just saw his user now
+kjhgfd: im his brother
+MDWalters124: how would you know who is roblox888i then?
+kjhgfd: so i didnt knew
+kjhgfd: I never saw his user
+zedthehedgehog: Instead of asking who they are
+zedthehedgehog: @kjhgfd Then you would know who Roblox888i is
+MDWalters124: roblox888i: professional liar
+kjhgfd: i am his brother
+kjhgfd: i just started meower
+tnix: @MDWalters124 rip
+zedthehedgehog: According to your IP
+MDWalters124: netlog moment
+kjhgfd: no
+MDWalters124: @tnix no according to logs rip
+zedthehedgehog: @kjhgfd You
+kjhgfd: who is roblox888i
+zedthehedgehog: It has come to my attention that "kjhgfd" is Roblox888i
+tnix: yeah, if mdwalters125 was added to the chats
+MDWalters124: @tnix would scrolling through mdwalters125 logs help
+zedthehedgehog: @kjhgfd A tab in Inspect Element that allows you to see JavaScript logs
+kjhgfd: what is console
+MDWalters124: not me
+tnix: if anyone is on a browser where they can open the console, go through some events of chat states (that aren't 101) and show the users in them
+zedthehedgehog: Unfortunately, I will not be able to ban Roblox888i because of the suspicion that Roblox888i may be creating such chats.
+kjhgfd: im new
+MDWalters124: @cat yes thank you ik how to use meower
+zedthehedgehog: Oh
+helloitsme: @zedthehedgehog they are getting deleted
+MDWalters124: they are deleteddddddd
+zedthehedgehog: *chats
+zedthehedgehog: Please show me who is in those group chas
+cat: and see the member list
+cat: @MDWalters124 go to the group chat page
+zedthehedgehog: I don't believe that's enough evidence for me to initiate a ban
+zedthehedgehog: Hmm
+MDWalters124: @zedthehedgehog a new gc appears in @helloitsme's mailbox when roblox888i goes away very sus
+zedthehedgehog: And how do you know that?
+MDWalters124: roblox888i
+zedthehedgehog: Who exactly is making these group chats?
+Roblox888i: GUYS Uhh.. it said on my screen: You have been added to the group chat "My next target :)"
+zedthehedgehog: @MDWalters124 Hmm
+zedthehedgehog: Oh
+MDWalters124: https://u.cubeupload.com/MDWalters/RDZQYI.png
+tnix: @zedthehedgehog they apparently get deleted straight away, so they don't know
+MDWalters124: idk
+Roblox888i: Uhh.. it said on my screen: You have been added to the group chat "My next target :)"
+zedthehedgehog: What's being said in these group chats?
+zedthehedgehog: By GCs I assume you mean Group Chats
+zedthehedgehog: What GCs?
+MDWalters124: @zedthehedgehog a new gc appears in @helloitsme's mailbox when roblox888i goes away very sus
+MDWalters124: make gcs
+zedthehedgehog: What did Roblox888i do?
+helloitsme: @tnix I don’t think he wants to be banned “ You have been added to the group chat 'Ill stop'!”
+zedthehedgehog: So why is Roblox888i a "stalker on meower"
+Roblox888i: Ok
+MDWalters124: @zedthehedgehog yes thank you i'm not 1
+tnix: @helloitsme oh ok, so can't see the group chat events
+zedthehedgehog: explain better
+zedthehedgehog: Maybe in other words, clarify yourself
+helloitsme: @tnix no I’m on mobile
+zedthehedgehog: @MDWalters124 You don't know what elaborating means?
+tnix: @helloitsme are you able to access your browser's console?
+Roblox888i: IM WORKING ON MEOWSTREAM
+Roblox888i: ALSO ITS NOT ME
+Roblox888i: hmm
+MDWalters124: https://u.cubeupload.com/MDWalters/38OY3a.png
+zedthehedgehog: MD, please elaborate on why Roblox888i is a "stalker on meower"
+helloitsme: @tnix and yes
+Roblox888i: so hows your day?
+helloitsme: @tnix we think it’s roblox888i
+tnix: so he's making them and immediately deleting
+tnix: @helloitsme oh ok, that's kind of annoying
+zedthehedgehog: @MDWalters124 Could you elaborate?
+helloitsme: @tnix i don’t see them
+Roblox888i: IM THE MIGHTY BOY
+MDWalters124: @zedthehedgehog stalker on meower
+helloitsme: @tnix they go away
+zedthehedgehog: MD, why do you want Roblox888i banned?
+Roblox888i: Hes scared of me
+tnix: @helloitsme who else is in the gc's when he adds you?
+MDWalters124: @kjhgfd yes
+Roblox888i: back, and i know why
+MDWalters124: @helloitsme sus
+zedthehedgehog: huh
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+helloitsme: @zedthehedgehog fake stalker
+helloitsme: Everytime roblox888i goes away a new gc appears 
+zedthehedgehog: what's going on
+kjhgfd: i herd you have bot
+MDWalters124: hi
+kjhgfd: oh hi
+helloitsme: @tnix ok
+MDWalters124: me
+helloitsme: You have been added to the group chat 'AT NIGHT'!
+Discord: tnix: @helloitsme#0000 so it should just be `pip install cloudlink`
+kjhgfd: whos mdwalters
+helloitsme: @cat funni
+MDWalters124: @zedthehedgehog something a stalker is making
+Discord: tnix: @helloitsme#0000 which package manager?
+helloitsme: I think pip
+Discord: cat: I'm a meowderator
+helloitsme: @tnix trying to install with a package manager 
+zedthehedgehog: what's meowstream
+Roblox888i: anyways ima continue on meowstream
+helloitsme: @Roblox888i group chats stopped when you got back
+MDWalters124: i work on meower :cry:
+zedthehedgehog: and also I've been working on meower for 2 years now
+Discord: tnix: @helloitsme#0000 are you trying to install cloudlink from pip or did you download it from github?

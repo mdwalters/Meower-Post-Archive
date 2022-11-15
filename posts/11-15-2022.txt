@@ -1,0 +1,2851 @@
+JoshAtticus: Alright, you can add any of those features if you want, just do a pr so I can check first
+Bloctans: @JoshAtticus sorry for being "mean" and rude wih my caps, also gn for the final time
+JoshAtticus: ?
+Bloctans: also sorry
+Bloctans: ok gn
+Bloctans: bettermeower:
+- img.bb image sharing (people need to generate their own api keys)
+- custom softcoded badges system (like bot system)
+- verified users?
+- make some sort of system for if the username matches another username with l or uppercase i
+- for image sharing, custom alt text
+- last online and go to last meower msg
+- custom pfp for bots
+JoshAtticus: with date and time
+JoshAtticus: use lastOnline json variable
+JoshAtticus: **server
+JoshAtticus: Or add something to BetterMeower (once you can use custom json variables on servers) that saves the last time you were online, then allows you to jump to your last message when you log back on
+Bloctans: add/fix
+Bloctans: *gc
+Bloctans: maybe tell me what i should add to svelte in a gv or forums
+JoshAtticus: I could make a summary bot
+Bloctans: like suriously, i lok at meower while im going to bad and see tons of thing where i want to respond to them but cant
+im about to make a system where is someone pings me ill have a bot that responds ngl
+JoshAtticus: dang it doesn't work
+Webhooks: guest144202: test
+Webhooks: guest144202: sheesh
+Bloctans: *AFTER
+Bloctans: @Webhooks I JUST SAID GOOD NIGHT, MEANING I WONT TAKE SUGGESTIONS AND THE SUGGESTIONS MAY BE WASHED AWAY BY HOME, GIVE ME THE SUGGESTIONS AFER 4PM CST AAAAA
+Webhooks: guest144202: Idea: Show popup saying you're posting as a guest when using webhooks
+Webhooks: guest144202: oh hey webhooks
+Webhooks: guest144202: bruh this doesn't affect vanilla svelte
+Bloctans: ok gn
+JoshAtticus: ugh that didn't work
+JoshAtticus: frick I know what the problem is but don't know what to remove
+JoshAtticus: I made the code manipulate the text (for emojis) twice
+JoshAtticus: ah I found the problem lol
+JoshAtticus: down a rabbit hole i go
+JoshAtticus: (person who sucks at being a developer being a developer moment)
+JoshAtticus: i hate my code
+Discord: williamhorning: chaos is funtm
+JoshAtticus: Why are messages duplicated
+JoshAtticus: Hold up
+JoshAtticus: I made https://svelte-1-5-0.bettermeower.pages.dev
+Bloctans: why do i wanna treat python like java suddenly
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Bloctans: no
+axestudios: Better meower emoji :skull:
+Bloctans: @tnix axe insulted you!!11!11!
+axestudios: tnix (tea + knix)
+axestudios: https://u.cubeupload.com/AXE_IMG3/md.png
+Discord: cat: @ShowierData9978 chomp
+Bloctans: @cat what
+Discord: ShowierData9978: im also higher on the chain as a bot controler lol
+Discord: cat: @MDWalters124#0000 Bye
+Discord: cat: @MDWalters124#0000 I am higher on the food chain
+MDWalters124: @cat ok
+MDWalters124: gtg
+Discord: ShowierData9978: https://http.meower.org/429.jpg
+Discord: cat: @MDWalters124#0000 Is it your social media
+Discord: ShowierData9978: its meower lol
+MDWalters124: @JoshAtticus it's my bot
+MDWalters124: @JoshAtticus rip
+JoshAtticus: also stop spamming md
+Discord: cat: @ShowierData9978 It’s not a discord issue
+JoshAtticus: how -1 seconds ago
+MDWalters124: karma
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 10 karma.
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 9 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 8 karma.
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 7 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 6 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 5 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 4 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 2 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters125: Successfully upvoted @JoshAtticus! They now have 1 karma.
+MDWalters124: ~karma upvote JoshAtticus
+MDWalters124: i somehow borked ~shorten oh well time to remove command
+MDWalters124: ~shorten https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A842PA3861PT28D1037817148W5600H10000/views/1,width=800,height=800,appearanceId=842,backgroundColor=F2F2F2/buff-kitty-meme-cursed-long-cat-dank-memes-sticker.jpg
+MDWalters124: @JoshAtticus why
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+JoshAtticus: i feel sad
+JoshAtticus: :(
+MDWalters124: ~shorten https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A842PA3861PT28D1037817148W5600H10000/views/1,width=800,height=800,appearanceId=842,backgroundColor=F2F2F2/buff-kitty-meme-cursed-long-cat-dank-memes-sticker.jpg
+MDWalters124: https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A842PA3861PT28D1037817148W5600H10000/views/1,width=800,height=800,appearanceId=842,backgroundColor=F2F2F2/buff-kitty-meme-cursed-long-cat-dank-memes-sticker.jpg
+Webhooks: ShowierData9978: this
+Discord: ShowierData9978: ~! webhook this
+Discord: ShowierData9978: rember discord under the hood looks like
+Discord: ShowierData9978: discord
+Discord: cat: ???
+Discord: cat: @ATM balance
+Pluto: @b You do not have any meowcoins! Start earning some!
+Discord: cat: @ATM pay b 5
+Pluto: Paid @b 5 meowcoins!
+Discord: cat: @ATM balance
+Pluto: @b You do not have any meowcoins! Start earning some!
+Pluto: You won! You now have 12 meowcoins.
+Pluto: You won! You now have 12 meowcoins.
+Discord: cat: ??? I am not b???
+Pluto: @b You do not have any meowcoins! Start earning some!
+Discord: cat: @ATM balance
+Discord: ShowierData9978: https://http.meower.org/420.jpg
+MDWalters124: ~karma
+MDWalters125: You have 1 karma.
+MDWalters124: restart
+Discord: cat: @ATM balance
+Discord: cat: ??
+Discord: cat: @ATM balance MDWalters124
+Pluto: @MDWalters124 doesn't have any meowcoins.
+Discord: cat: what why isn't it working
+MDWalters125: @cat has 1000000000 karma.
+MDWalters124: ~karma view cat
+Discord: cat: @ATM balance MDWalters124
+Pluto: @MDWalters124 doesn't have any meowcoins.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: cat: @ATM balance MDWalters124
+Pluto: @MDWalters124 doesn't have any meowcoins.
+MDWalters124: no pls i'll give you lots of karma
+Discord: cat: @ATM balance MDWalters124
+MDWalters124: i got a chat id that literally starts with "dad" @tnix
+PenguinBot: yeah, no spam
+MDWalters124: @Vetzla no spam
+MDWalters124: @yesIAm OK I'LL GIVE YOU YOUR UPVOTES
+Vetzla: TEN
+Vetzla: TEN
+MDWalters125: @cat has -100000 karma.
+Vetzla: TEN
+MDWalters124: ~karma view cat
+Vetzla: ~karma view Vetzla
+MDWalters125: You have -10 karma.
+Vetzla: or known stranger
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Vetzla: thank you kind stranger
+MDWalters125: Successfully upvoted @Vetzla! They now have 10 karma.
+cryingdotjay: ~karma upvote Vetzla
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 9 karma.
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 8 karma.
+MDWalters125: Successfully upvoted @Vetzla! They now have 7 karma.
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 6 karma.
+cryingdotjay: ~karma upvote Vetzla
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 5 karma.
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 4 karma.
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 3 karma.
+MDWalters125: Successfully upvoted @Vetzla! They now have 2 karma.
+cryingdotjay: ~karma upvote Vetzla
+cryingdotjay: ~karma upvote Vetzla
+MDWalters125: Successfully upvoted @Vetzla! They now have 1 karma.
+yesIAm: rip your meowcoins
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: ShowierData9978: https://http.meower.org/405.jpg
+MDWalters124: no
+yesIAm: give me my upvotes then pls
+yesIAm: okay
+MDWalters124: no spam
+yesIAm: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have -994 karma.
+yesIAm: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have -995 karma.
+MDWalters125: Successfully upvoted @cat! They now have -996 karma.
+yesIAm: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have -997 karma.
+yesIAm: ~karma upvote cat
+yesIAm: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have -998 karma.
+MDWalters125: Successfully upvoted @cat! They now have -999 karma.
+yesIAm: ~karma upvote cat
+MDWalters124: Message from a moderator: Death threats are not allowed on Meower. Please keep Meower friendly!
+Vetzla: gimme a minute
+Vetzla: wait
+Vetzla: NOOO
+Vetzla: ~karma upvote Vetzla
+MDWalters125: You can't upvote yourself!
+MDWalters124: @cat l
+MDWalters124: ~karma view cat
+MDWalters125: @cat has -1000 karma.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: ShowierData9978: its made in nodejs it's 64bit lim i think
+MDWalters124: i will send you to jesus
+MDWalters125: Successfully downvoted @MDWalters124! They now have -30 karma.
+yesIAm: ~karma downvote MDWalters124
+yesIAm: hi vetzla
+MDWalters125: Successfully downvoted @MDWalters124! They now have -29 karma.
+yesIAm: ~karma downvote MDWalters124
+yesIAm: :(
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -28 karma.
+yesIAm: ~karma downvote MDWalters124
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -25 karma.
+yesIAm: ~karma downvote MDWalters124
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -24 karma.
+Discord: ShowierData9978: look at http meower btw
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -23 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -22 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -21 karma.
+MDWalters125: Successfully downvoted @MDWalters124! They now have -20 karma.
+tnix100: ~karma downvote MDWalters124
+tnix100: ~karma downvote MDWalters124
+tnix100: ~karma downvote MDWalters124
+tnix100: ~karma downvote MDWalters124
+yesIAm: ~karma downvote MDWalters124
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -15 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -14 karma.
+MDWalters125: Successfully downvoted @MDWalters124! They now have -13 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -12 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -11 karma.
+tnix100: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -10 karma.
+MDWalters125: Successfully downvoted @MDWalters124! They now have -10 karma.
+yesIAm: #relatable
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -9 karma.
+Discord: ShowierData9978: https://http.meower.org/423.jpg you get put in jail
+MDWalters125: Successfully downvoted @MDWalters124! They now have -8 karma.
+yesIAm: ~karma downvote MDWalters124
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -7 karma.
+MDWalters125: Successfully downvoted @MDWalters124! They now have -6 karma.
+yesIAm: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124! They now have -5 karma.
+yesIAm: ~karma downvote MDWalters124
+MDWalters124: @cat none :skull:
+Discord: ShowierData9978: https://http.meower.org/451.jpg meowy sues you
+MDWalters124: wow are you guys against us?
+Discord: tnix: :(
+MDWalters125: You are currently muted from MDWalters125.
+Discord: cat: ~karma downvote MDWalters124
+MDWalters125: You are currently muted from MDWalters125.
+Discord: tnix: ~karma downvote MDWalters125
+Discord: cat: what's the ratelimit
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: tnix: ~karma downvote MDWalters125
+MDWalters124: @tnix ok
+MDWalters125: Successfully downvoted @MDWalters124! They now have -4 karma.
+Discord: cat: ~karma downvote MDWalters124
+MDWalters124: ~karma downvote MDWalters124
+Discord: tnix: it would still take ages to reach the 32 bit integer limit
+MDWalters125: You can't downvote yourself!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ~karma downvote tnix
+MDWalters125: Successfully downvoted @tnix. They now have 0 karma.
+MDWalters124: what
+Discord: cat: is this an integer32 by any chance
+MDWalters125: Successfully downvoted @MDWalters124. They now have -3 karma.
+Discord: tnix: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124. They now have -2 karma.
+Discord: cat: ~karma downvote MDWalters124
+MDWalters124: @cat brainwashed me
+MDWalters124: e
+MDWalters124: ~karma downvote MDWalters124
+MDWalters125: You can't upvote yourself!
+Discord: cat: ~karma downvote MDWalters124
+MDWalters125: Successfully downvoted @MDWalters124. They now have -1 karma.
+MDWalters124: ~karma
+MDWalters125: You have 0 karma.
+MDWalters124: ~karma downvote cat
+MDWalters125: Successfully downvoted @cat. They now have 1 karma.
+Discord: cat: ~karma downvote MDWalters124
+Discord: cat: ~karma downvote MDWalters124
+MDWalters124: ~karma downvote cat
+MDWalters125: Successfully downvoted @cat. They now have 2 karma.
+MDWalters124: downvote time
+Discord: cat: amazing features such as:
+- sending your passwords to a central server
+MDWalters125: Successfully downvoted @cat. They now have 3 karma.
+MDWalters124: ~karma downvote cat
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: cat: worsemeower releasing soon
+MDWalters124: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have 4 karma.
+Discord: cat: r ->
+MDWalters124: yes
+Discord: cat: a
+MDWalters124: @cat i found a picture of you
+MDWalters125: https://purr.objects-us-east-1.dream.io/i/V5ZSH.jpg
+MDWalters124: ~cat
+MDWalters124: @helloitsme gn
+MDWalters124: @Meowy cat detected
+helloitsme: @MDWalters124 goodnight
+Meowy: Code in Rust
+MDWalters124: bye
+helloitsme: @MDWalters124 bye see ya tomorrow 
+helloitsme: @MDWalters124 thank you 
+MDWalters124: never update rip
+Discord: cat: 508 should have been this [unknown.png: https://go.meower.org/b09b059c]
+MDWalters124: ok
+Discord: ShowierData9978: > I just made a cursed meowy
+> Teapot meowy
+Discord: ShowierData9978: i made it here
+https://discord.com/channels/910201937352347648/962646188220370974/1041751680598954004
+MDWalters124: yes
+Discord: ShowierData9978: its cursed
+Discord: ShowierData9978: i was about to post that lol
+Discord: cat: https://http.meower.org/418.jpg
+helloitsme: @MDWalters124 oh good idea ima do that rn lol
+MDWalters124: @Meowy hi
+MDWalters124: @helloitsme ok
+MDWalters124: @helloitsme how about pip
+Discord: theotherhades: if there's one thing replit's good at it's making things easy
+helloitsme: @MDWalters124 actually we can do it tomorrow 
+Discord: theotherhades: @ShowierData9978 actual facts
+Discord: ShowierData9978: https://http.meower.org/405.jpg @Meowy
+helloitsme: @MDWalters124 I need it and then I will install cl and do that stuff
+Meowy: Howdy hey gamers
+Discord: ShowierData9978: bruh
+Discord: ShowierData9978: just use a python repl
+helloitsme: @MDWalters124 can you install poetry rq
+MDWalters124: rip i downvoted meowy
+Discord: ShowierData9978: arrow does own @Meowy too
+PenguinBot: hi
+theotherhades: 
+MDWalters124: two @cats
+Discord: ShowierData9978: https://http.meower.org/409.jpg
+MDWalters124: @cat so true
+MDWalters125: Successfully upvoted @cat! They now have 3 karma.
+MDWalters124: ~karma upvote cat
+Discord: cat: argument -> String
+MDWalters124: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have 2 karma.
+Discord: cat: + <- subtraction
+Discord: ShowierData9978: ok
+Discord: ShowierData9978: @cat https://http.meower.org/200.jpg
+MDWalters124: ~karma upvote cat
+MDWalters125: Successfully upvoted @cat! They now have 1 karma.
+Discord: cat: - <- line
+MDWalters124: omg
+Discord: ShowierData9978: i just did some more subtle advertising
+MDWalters124: NAH
+Discord: theotherhades: lmao you literally could've saved yourself tons of trouble
+MDWalters124: WE FIGURED IT OUT ALREADY
+Discord: theotherhades: then just do what @showierdata said make a python repl
+MDWalters124: use cl
+Discord: theotherhades: @mdwalters no what are they trying to do with python 🤦
+MDWalters124: nah
+ShowierData9978: if
+ShowierData9978: just make a py repl i using replit
+MDWalters124: nix-shell -p python38
+
+[nix-shell:~/Server]$ echo omg root shell
+omg root shell
+
+[nix-shell:~/Server]$ python3 --version
+Python 3.8.11
+
+[nix-shell:~/Server]$ omgYE
+bash: omgYE: command not found
+
+[nix-shell:~/Server]$ SSSS
+bash: SSSS: command not found
+MDWalters124: but we figured it out
+ShowierData9978: a
+MDWalters124: install python
+Discord: theotherhades: what are they trying to do anyway
+MDWalters124: and we just figured it out
+MDWalters124: nix os
+Discord: theotherhades: literally https://python.org/downloads
+Discord: theotherhades: @helloitsme how are you having trouble installing python
+MDWalters124: the terminal is our chatroom
+MDWalters124: @helloitsme its me
+helloitsme: @MDWalters124 ok
+MDWalters124: yes
+helloitsme: Hello
+helloitsme: @helloitsme is that python
+helloitsme: What is python310.out
+MDWalters124: 2nd one?
+helloitsme: Hang on
+helloitsme: @MDWalters124 wait no it’s just asking if I wanna install it
+MDWalters124: omg
+helloitsme: @tnix python exists
+helloitsme: @MDWalters124 it’s there
+helloitsme: @MDWalters124 did you install python
+MDWalters124: ok so i'm in it
+helloitsme: @MDWalters124 ye
+MDWalters124: @helloitsme are you still using the same server repl?
+helloitsme: @tnix ok
+helloitsme: I will use nix-env
+Discord: tnix: you might have Python already installed, try doing 'python3 --version'
+MDWalters124: ok]
+helloitsme: Brb
+MDWalters124: nixos isn't based off of debian, meaning you can't use that
+helloitsme: Actually I think I know how
+helloitsme: nixos again 
+MDWalters124: what os are you using
+helloitsme: Sudo**
+helloitsme: @MDWalters124 how to install python with Sufi apt-get install
+MDWalters124: @helloitsme with nixos again?
+MDWalters124: john doe *smokes* https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_dark_portfolio&stacked=h
+helloitsme: I need help
+helloitsme: Hi
+MDWalters124: hi
+helloitsme: E
+MDWalters124: hi
+MDWalters124: *aunt
+Discord: ShowierData9978: my ant understood one (not a dev)
+MDWalters124: xkcd is only understandable to developers
+APIBot: It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.
+
+[img:https://imgs.xkcd.com/comics/2.png]
+Discord: ShowierData9978: ~! comic
+MDWalters124: ${gameIdea}
+Bloctans: any ideas for games?
+Discord: ShowierData9978: https://http.meower.org/404.jpg
+Discord: theotherhades: for https://http.meower.org/420.jpg it should've been high meowy 🤔
+MDWalters124: 404 meowy
+Discord: ShowierData9978: so many not implemented rip
+Discord: ShowierData9978: oop
+MDWalters124: @JoshAtticus bye
+Discord: ShowierData9978: so many not unblocked rip
+JoshAtticus: gtg bye
+JoshAtticus: oh never mind
+MDWalters124: ~! HttpMeower
+APIBot: 421
+message: Misdirected Request 
+[421:https://http.meower.org/421.jpg]
+JoshAtticus: https://ibb.co/njfrxVn
+JoshAtticus: meower unblocked?????
+APIBot: 408
+message: Request Timeout 
+[408:https://http.meower.org/408.jpg]
+ShowierData9978: ~! HttpMeower
+APIBot: 508
+message: Loop Detected 
+[508:https://http.meower.org/508.jpg]
+ShowierData9978: ~! HttpMeower
+MDWalters124: ok
+MDWalters124: mdwalters125 db:
+{
+    "MDW125-STATUS-m": "I was banned for asking to be un-IP banned",
+    "MDW125-STATUS-Vetzla": "test",
+    "MDW125-STATUS-MDWalters124": "MDWalters125 now uses a TinyDB rip off for the statuses now!",
+    "MDW125-KARMA-tnix": 1,
+    "MDW125-KARMA-Snx": 1,
+    "MDW125-KARMA-MDWalters124": 1,
+    "MDW125-KARMA-ShowierData9978": 1
+}
+Discord: ShowierData9978: just gonna fix a formating issue
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+JoshAtticus: hang in
+ShowierData9978: not there lol
+MDWalters124: @JoshAtticus rip
+APIBot: 510
+message: Not Extended 
+[510:https://http.meower.org/510.jpg
+ShowierData9978: ~! HttpMeower
+ShowierData9978: https://http.meower.org/422.jpg
+MDWalters124: @MDWalters124 cringe formatting
+JoshAtticus: https://ibb.co/t3Ddyzb
+MDWalters124: everyone has 1 status
+"MDW125-KARMA-tnix": 1,
+"MDW125-KARMA-Snx": 1,"MDW125-KARMA-MDWalters124": 1,
+    "MDW125-KARMA-ShowierData9978": 1
+JoshAtticus: i have to use **** free proxy service
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: hi josh
+JoshAtticus: no, let me send a screenshot
+Discord: ShowierData9978: is http.meower blocked?
+JoshAtticus: I **** hate my school internet
+Discord: ShowierData9978: because https://http.meower.org/503.jpg
+MDWalters124: ~karma downvote Meowy
+MDWalters125: Successfully downvoted @Meowy. They now have 0 karma.
+MDWalters124: MEOWY IN JAIL??????
+ShowierData9978: https://http.meower.org/423.jpg
+MDWalters124: WE NEED YOU FOR BETA 6
+MDWalters124: @ShowierData9978 WAKE UP MEOWY
+MDWalters124: https://imgs.xkcd.com/comics/video_orientation.png
+ShowierData9978: https://http.meower.org/420.jpg
+MDWalters124: @ShowierData9978 no spam
+MDWalters124: crypto miner when https://www.w3schools.com/nodejs/ref_crypto.asp
+ShowierData9978: :
+
+MDWalters124: semicolon
+ShowierData9978: ;
+MDWalters124: wait you aren't zed
+Discord: ShowierData9978: hi
+MDWalters124: hi zed
+MDWalters124: it takes 19 minutes to archive for the last one
+MDWalters124: https://github.com/mdwalters/Meower-Post-Archive/actions/workflows/archiver.yml
+Discord: ShowierData9978: run it lol
+MDWalters124: https://github.com/mdwalters/Meower-Post-Archive/blob/main/posts/11-14-2022.txt#L178
+Discord: ShowierData9978: i saw that
+MDWalters124: proof https://github.com/mdwalters/Meower-Post-Archive/tree/main/posts
+Discord: ShowierData9978: ok
+MDWalters124: it had been archiving posts everyday since 3 days ago
+MDWalters124: can i move my meower post archive to meower org pls
+Discord: ShowierData9978: ye
+MDWalters124: @ShowierData9978 i love how a actual 404 error returns the 404 picture
+MDWalters124: @ShowierData9978 db.set(`MDW125-STATUS-${user}`,  message.split(" ").slice(2, message.split(" ").length).join(" "))
+axestudios: @MDWalters124 💀💀💀
+MDWalters124: did i just see -1 seconds ago *cringe has entered the chat*
+Discord: ShowierData9978: LOL
+https://xkcd.com/327/
+MDWalters124: i want more
+MDWalters124: ~karma
+MDWalters125: You have 1 karma.
+MDWalters124: @Bloctans :smile:
+Discord: ShowierData9978: ~! webhook e
+Webhooks: ShowierData9978: e
+Discord: ShowierData9978: ~! Webhook e
+axestudios: api.webhooks.org
+APIBot: 451
+message: Unavailable For Legal Reasons 
+[451:https://http.meower.org/451.jpg
+Discord: ShowierData9978: ~! HttpMeower
+Discord: ShowierData9978: it gets it from an api, as the bot name says lol
+axestudios: That's a cool fact
+APIBot: Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.
+Discord: ShowierData9978: forgot to add to help lol
+axestudios: ~! CatFact
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+APIBot: 
+commands:
+  '~! help'
+  '~! comic'
+  '~! botinfo'
+  '~! quote'
+  '~! webhook <msg>' (only works if @webhooks is online)
+  '~! HttpCat'
+  '~! HttpDog'
+  '~! CatFact'
+  '~! AnimalPic'
+  '~! Meower_Stats'
+      
+axestudios: ~! help
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+Bloctans: [deleted for political reasons]
+axestudios: Lmaoo
+MDWalters125: My sources say no.
+axestudios: ~8ball do you have valid sources?
+Discord: ShowierData9978: im updating APIBot
+Bloctans: M HOW IS YOUR BOT SMART
+axestudios: ~8ball are you sure of what you say?
+MDWalters125: As I see it, yes.
+MDWalters125: Most likely.
+Bloctans: ~8ball an you read my mind
+axestudios: ~8ball am I concentrating?
+MDWalters125: My sources say no.
+MDWalters125: My reply is no.
+Bloctans: ~8ball should roblox be banned forever
+MDWalters125: Concentrate and ask again.
+Bloctans: ~8ball should roblox be banned forever
+Bloctans: ~8ball should roblox be banned forever
+MDWalters125: Reply hazy, try again.
+axestudios: ~8ball will people be using 8ball more?
+MDWalters125: Outlook good.
+Bloctans: what are his sources
+MDWalters124: rip
+MDWalters124: ~8ball will people use ~karma more?
+MDWalters125: My sources say no.
+MDWalters125: Successfully upvoted @ShowierData9978! They now have 1 karma.
+MDWalters124: ~karma upvote ShowierData9978
+Discord: ShowierData9978: ima do some slick advertising 🤣
+MDWalters124: @MikeDEV can i move my meower post archive to the meower org?
+MDWalters124: YOU CROSSED THE LINE, AND NOW YOU HAVE TO PAY THE FINE!!!!!!!!1!1!!!1!!!!! https://http.meower.org/451.jpg
+Discord: ShowierData9978: your hitting my rpi lol
+Discord: ShowierData9978: btw im personally hosting this lol
+Discord: ShowierData9978: make a pr with that fork
+MDWalters124: do this for mod panel yes https://http.meower.org/401.jpg
+Bloctans: @axestudios the meowy behing the slaughter
+Discord: ShowierData9978: make a fork
+MDWalters124: guys meowy graduated https://http.meower.org/200.jpg
+Discord: ShowierData9978: yeah sry, i have it locked down
+Discord: ShowierData9978: i wanted to do the spiderman thing there lol
+Bloctans: https://github.com/meower-media-co/http-meower/upload/main
+i wanna upload my 405 error (meowys house)
+axestudios: Draw purple meowy stalking meowy
+MDWalters124: who you https://http.meower.org/409.jpg
+MDWalters124: move along human
+Discord: ShowierData9978: https://http.meower.org/307.jpg
+MDWalters124: half meowy https://http.meower.org/206.jpg
+MDWalters124: get outta here non mod https://http.meower.org/403.jpg
+MDWalters124: meowy when he uses incognito mode:
+Discord: ShowierData9978: https://http.meower.org/410.jpg
+Bloctans: @tnix
+MDWalters124: https://http.meower.org/423.jpg /J
+axestudios: I wonder if we can find meowy in its natural habitat
+Discord: theotherhades: @_turkey_ oh god roblox is back
+MDWalters124: YOU STILL ON BETA 5!? https://http.meower.org/101.jpg
+MDWalters124: ok
+Discord: theotherhades: this is a sample post for some documentation stuff i'm doing
+MDWalters124: rip
+_turkey_: Why did my school ip address get blocked on here
+axestudios: Lmao
+MDWalters124: guys it's anthropomorphic meowy https://http.meower.org/422.jpg
+Discord: ShowierData9978: stabby meowy https://http.meower.org/405.jpg
+Discord: ShowierData9978: stabby meowy https://http.meower.org/405.jpg
+MDWalters124: @axestudios non existant
+axestudios: 203: meowys house address
+axestudios: I like 123.jpg
+Bloctans: any idea for 203
+Discord: theotherhades: @ShowierData9978 😉 ah yes totally just sleeping
+MDWalters124: PAY UP https://http.meower.org/402.jpg
+Discord: ShowierData9978: meowy is suing https://http.meower.org/451.jpg
+MDWalters124: guys meowy did something bad https://http.meower.org/423.jpg
+Discord: ShowierData9978: https://http.meower.org/420.jpg sleeping meowy
+MDWalters124: long meowy https://http.meower.org/411.jpg
+MDWalters124: @ShowierData9978 true
+MDWalters124: @axestudios i have the archive on mdwalters-laptop
+Discord: ShowierData9978: 204: no content
+MDWalters124: meowy where https://http.meower.org/204.jpg
+axestudios: MDWalters and the Lost archives
+Discord: ShowierData9978: https://http.meower.org/400.jpg is even more cursed
+MDWalters124: and the old db is lost btw
+Discord: ShowierData9978: ye
+MDWalters124: bloctans had a status before i transitioned over to a new db, but it said [deleted] so i never added it into the new db
+Bloctans: https://http.meower.org/418.jpg|
+cursed
+axestudios: ~status view Bloctans
+MDWalters125: @Bloctans doesn't have a status set.
+axestudios: Cuz funni
+Discord: ShowierData9978: https://http.meower.org/
+MDWalters124: @axestudios why
+Bloctans: earbreakingly loud notification sound
+axestudios: You should make it so that 8ball can see your karma stats
+MDWalters124: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits, ~karma
+MDWalters124: i just did
+MDWalters124: ~help\
+MDWalters125: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: /j
+MDWalters124: for swearing
+MDWalters124: @axestudios downvoting
+MDWalters124: ~status view axestudios
+MDWalters125: @axestudios's status: ****post
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: *karma
+axestudios: Oh cool can I have shitpost status /j
+MDWalters124: i made statuses on meower
+axestudios: Hi
+MDWalters124: hi axe
+MDWalters124: time to commit
+MDWalters124: so
+MDWalters124: ok
+MDWalters124: ~karma view MDWalters124
+MDWalters125: You have 1 karma.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: remember, i'm the bot owner so i can do this
+MDWalters124: ~karma downvote Discord
+MDWalters125: Successfully downvoted @Discord. They now have 2 karma.
+MDWalters124: ~karma downvote Discord
+MDWalters125: Successfully downvoted @Discord. They now have 3 karma.
+Discord: ShowierData9978: idc, as long as its checked after prefix
+MDWalters124: upvoting yourself bad
+MDWalters125: You can't upvote yourself!
+Discord: ShowierData9978: ~karma upvote ShowierData9978
+MDWalters124: DO YOU WANT MUTE 
+Discord: ShowierData9978: broken vote system
+MDWalters124: spam
+MDWalters125: Successfully downvoted @ShowierData9978. They now have 0 karma.
+MDWalters124: ~karma downvote ShowierData9978
+Discord: ShowierData9978: uhm
+MDWalters125: Successfully upvoted @Discord! They now have 4 karma.
+Discord: ShowierData9978: ~karma upvote Discord
+MDWalters125: Successfully upvoted @Discord! They now have 3 karma.
+Discord: ShowierData9978: ~karma upvote Discord
+MDWalters125: Successfully upvoted @Discord! They now have 2 karma.
+Discord: ShowierData9978: ~karma upvote Discord
+MDWalters124: now let me remove your karma db record
+MDWalters124: @Discord yay
+MDWalters125: Successfully upvoted @Discord! They now have 1 karma.
+Discord: ShowierData9978: ~karma upvote Discord
+MDWalters125: You have 1 karma.
+MDWalters124: ~karma
+MDWalters124: ~karma view m
+MDWalters125: @m doesn't have any karma.
+MDWalters124: @ShowierData9978 lmao you posted that before online message
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: ShowierData9978: ~karma m
+MDWalters125: You don't have any karma.
+MDWalters125: You have undefined karma.
+MDWalters124: ~karma
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ~karma upvote ShowierData9978
+MDWalters125: Successfully upvoted @ShowierData9978! They now have 1 karma.
+MDWalters124: fine
+Discord: ShowierData9978: that's not spam lol
+MDWalters124: pog
+MDWalters125: You have undefined karma.
+MDWalters124: ~karma
+MDWalters124: downvoted bc spam
+MDWalters125: Successfully downvoted @ShowierData9978. They now have 0 karma.
+MDWalters124: ~karma downvote ShowierData9978
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+ShowierData9978: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+MDWalters124: ok
+Snx: can confirm that @snx-bestie is me
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ok
+MDWalters124: oh
+snx-bestie: @MDWalters124 (also quackity is a youtuber and she was not referring to mike)
+MDWalters124: yes you are
+snx-bestie: yeah no i am not [NAME REDACTED]
+MDWalters124: why did you think mike was a girl
+MDWalters124: omg it's snx's bestie!
+snx-bestie: done
+MDWalters124: @Snx claim acc
+MDWalters125: Successfully downvoted @snx-bestie. They now have 0 karma.
+MDWalters124: ~karma downvote snx-bestie
+ShowierData9978: i can really easily do that with CodeBot if need be
+Snx: fun fact: my bestie legit thought quackity was a girl today
+MDWalters124: or buy a gamecube
+MDWalters124: the only gc would be home
+MDWalters124: no
+ShowierData9978: just lock it to another gc then?
+
+Snx: well
+MDWalters124: @theotherhades i home-locked mdwalters125
+Snx: @theotherhades yeah ik ill stop
+Discord: theotherhades: do it in a groupchat
+Discord: theotherhades: @snx but it is spamming chat
+Snx: @MDWalters124 but you deserve it
+MDWalters124: no upvote spam
+MDWalters125: Successfully upvoted @MDWalters124! They now have 3 karma.
+Snx: ~karma upvote MDWalters124
+MDWalters125: Successfully upvoted @MDWalters124! They now have 2 karma.
+Snx: ~karma upvote MDWalters124
+MDWalters124: yay
+Snx: ~karma upvote MDWalters124
+MDWalters125: Successfully upvoted @MDWalters124! They now have 1 karma.
+MDWalters124: lmao the db record updated to 1e+28
+"MDW125-KARMA-MikeDEV": 1e+28,
+MDWalters124: *1e+28
+MDWalters124: @MDWalters125 what's 1e+25
+Snx: @MDWalters125 sad
+Snx: ~karma upvote Snx
+MDWalters125: You can't upvote yourself!
+MDWalters124: ~karma upvote Snx
+MDWalters125: Successfully upvoted @Snx! They now have 1 karma.
+MDWalters124: people upvote you
+Snx: HOW DO I GET KARMA
+Snx: HEY I SHOULD GET KARMA
+MDWalters124: ~karma view MikeDEV
+MDWalters125: @MikeDEV has 1e+28 karma.
+Snx: ~karma view Snx
+MDWalters125: @Snx doesn't have any karma.
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits, ~karma
+Snx: ~help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: e
+Snx: my bestie genuinely thought quackity was a girl today
+MDWalters125: @MikeDEV doesn't have any karma.
+MDWalters124: ~karma view MikeDEV
+MDWalters124: hi snx
+Snx: hi
+MDWalters124: easy
+MDWalters124: we don't use discord
+ShowierData9978: how do ppl know im on as soon as i login bruh
+MDWalters124: hi showier
+MDWalters124: pls gimme karma guys i did lots of good stuff
+MDWalters124: ~karma view MDWalters124
+MDWalters125: @MDWalters124 doesn't have any karma.
+MDWalters125: @tnix has 1 karma.
+MDWalters124: ~karma view tnix
+MDWalters124: and yay at the same time
+MDWalters124: aww
+MDWalters125: You can't upvote yourself!
+MDWalters124: ~karma upvote MDWalters124
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: uh
+MDWalters124: ~karma upvote MDWalters124
+MDWalters125: Successfully upvoted @MDWalters124! They now have 1 karma.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: imagine someone would downvote themself
+MDWalters124: cool
+Discord: cat: when I get better at coding I might make the first rust bot
+MDWalters124: now time to patch voting for yourself
+MDWalters124: yes
+MDWalters125: @tnix has 1 karma.
+MDWalters124: ~karma view tnix
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: prob the first bot that was written in nodejs
+Discord: theotherhades: nice
+MDWalters124: nodejs
+Discord: theotherhades: what language is it in?
+MDWalters124: prob bc it has to do with the db
+MDWalters124: the ~karma code is long like ~status
+MDWalters124: redditer
+MDWalters124: yes
+Discord: theotherhades: and voting for the same person multiple times
+Discord: theotherhades: maybe also prevent people from voting for themselves
+MDWalters124: fixing downvoting and patching bug
+Discord: theotherhades: 😢
+Discord: theotherhades: oh ok
+MDWalters124: yes
+Discord: theotherhades: is the bot down
+Discord: theotherhades: hmm
+MDWalters124: @theotherhades uh oh
+Discord: theotherhades: ~karma upvote theotherhades
+Discord: theotherhades: ~karma upvote theotherhades
+MDWalters125: Successfully upvoted @theotherhades! They now have 1 karma.
+MDWalters124: yes
+Discord: theotherhades: ~karma downvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have -3 karma.
+Discord: theotherhades: it should say downvoted not upvoted
+Discord: theotherhades: you might wanna fix that
+MDWalters125: Successfully upvoted @tnix! They now have -2 karma.
+Discord: theotherhades: ~karma downvote tnix
+MDWalters124: i'm so sorry tnix
+MDWalters124: ~karma downvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have -1 karma.
+MDWalters124: ~karma downvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have 0 karma.
+MDWalters124: ~karma upvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have 1 karma.
+MDWalters124: ~karma downvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have 0 karma.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: omg guys upvoting works!!!!!!
+MDWalters124: ~karma upvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have 2 karma.
+MDWalters124: ~karma upvote tnix
+MDWalters125: Successfully upvoted @tnix! They now have 1 karma.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: theotherhades: dedicate an entire page to every time he said *shit* in the discord
+MDWalters124: quotes.tnix.software yes
+Discord: theotherhades: that's what he should use tnix.software for
+MDWalters124: tnix-quotes.com should exist
+MDWalters124: yes
+Discord: theotherhades: epic tnix quote
+Discord: theotherhades: LMAO
+tnix: @Roblox888i4 cool! bye bye
+MDWalters124: because yes
+MDWalters124: @tnix ip ban
+MDWalters124: again
+MDWalters124: now get ip ban
+MDWalters124: yes
+MDWalters124: because of you
+MDWalters124: they deserve it
+MDWalters124: you are at school
+Discord: theotherhades: @mdwalters i can't even remember what we were doing but i think me and eris were trolling you or something
+Discord: theotherhades: @Tnix (NZDT) i think i jinxed it today, the roblox kid is back
+Bloctans: @Roblox888i4 /ban
+MDWalters124: uh... what?
+Discord: theotherhades: i think i was supposed to be kicked out for messing with you that one time but idk
+MDWalters124: e
+Discord: theotherhades: and i still have perms on github
+MDWalters124: rip
+Discord: theotherhades: idk how that works
+Discord: theotherhades: i have the backend dev role on the discord but not the meower team role
+Discord: theotherhades: *i'm
+Discord: theotherhades: i was backend dev
+MDWalters124: e
+Discord: theotherhades: no
+MDWalters124: @theotherhades wern't you mod before?
+MDWalters124: rip
+Discord: theotherhades: i'm not a mod
+MDWalters124: ok wait then
+MDWalters124: @theotherhades work mod magic
+MDWalters124: oh no
+MDWalters124: ok
+Discord: theotherhades: anyway i'll have a basic client working before i decide on a name
+MDWalters124: it will attract everyone on meower
+Discord: theotherhades: the only other good idea i've got is meower pro but that's a bit meh
+Discord: theotherhades: lol
+MDWalters124: customizer has 4 :skull:
+Discord: theotherhades: meower vue worked perfectly but daddy tnix said to use svelte instead
+Discord: theotherhades: one syllable
+Discord: theotherhades: like "meower svelte"
+Discord: theotherhades: i feel like it should be something short and s****
+Discord: theotherhades: hmm
+MDWalters124: customizer?
+Discord: theotherhades: so far i've got "meower unnamed"
+Discord: theotherhades: i still haven't decided on a name
+Discord: theotherhades: 😈
+MDWalters124: pov: bettermeower *killer*
+Discord: theotherhades: yeah
+MDWalters124: *magenta
+MDWalters124: purple theme
+Discord: theotherhades: my aim for the client is to be super customizable
+Discord: theotherhades: cookie jar
+MDWalters124: cookie jar
+Discord: theotherhades: and it would probably use cookies to remember them
+Discord: theotherhades: like the github raw view
+Discord: theotherhades: what i was thinking was having each plugin be a json file and when you load it in the client you can just link to the plaintext
+MDWalters124: cool
+Discord: theotherhades: i want it to have "plugins" which are basically like themes and stuff
+MDWalters124: yes
+Discord: theotherhades: after exams i'm gonna go all out on making my client
+Discord: theotherhades: lol
+MDWalters124: i should make a easter egg that posts @cat's pfp because they count as a cat too
+MDWalters125: https://purr.objects-us-east-1.dream.io/i/mDh7a.jpg
+Discord: theotherhades: ~cat
+Discord: theotherhades: ohh ok
+MDWalters124: @theotherhades https://usebottles.com/
+Discord: theotherhades: ~status
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+Discord: theotherhades: 🤨
+Discord: theotherhades: ~motd
+MDWalters125: usebottles
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+Discord: theotherhades: ~help
+MDWalters124: yes
+MDWalters125: MDWalters125 was online since 16 minutes ago.
+MDWalters124: ~uptime
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: dead chat
+MDWalters124: ~ping google.com
+MDWalters124: ~ping yes.com
+MDWalters124: yes
+MDWalters125: https://shrtco.de/ZDBWml
+MDWalters124: ~shorten yes.com
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ~shorten yes.com e.com
+MDWalters124: rip
+MDWalters125: @m's status: I was banned for asking to be un-IP banned
+MDWalters124: ~status view m
+MDWalters125: Your status: MDWalters125 now uses a TinyDB rip off for the statuses now!
+MDWalters124: ~status
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Your status: a
+MDWalters124: ~status
+MDWalters125: Status successfully set!
+MDWalters124: ~status set a
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: yes
+MDWalters124: ~status
+MDWalters125: Your status: MDWalters125 now uses a TinyDB rip off for the statuses now!
+MDWalters124: ~status set MDWalters125 now uses a TinyDB rip off for the statuses now!
+MDWalters125: Status successfully set!
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters124: ~status
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: fun fact: 2 out of 5 statuses were ported because the rest meant nothing and deserved to be lost
+MDWalters124: now i need to port all of the statuses from mdwalters125's localstorage to the tinydb rip off
+MDWalters124: ok it's ready to be committed
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters124: ~status view MDWalters124
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters124: ~status
+MDWalters125: Status successfully cleared!
+MDWalters124: ~status clear
+MDWalters125: @md's status: yes
+MDWalters124: ~status view md
+MDWalters124: ~status view MDWalters124
+MDWalters125: Your status: ok
+MDWalters124: ~status
+MDWalters125: Your status: ok
+MDWalters124: ~status set ok
+MDWalters125: Status successfully set!
+MDWalters125: Your status: [message]
+MDWalters124: ~status
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ok
+ShowierData9978: Not deployed tho 
+MDWalters124: @ShowierData9978 ok
+MDWalters124: currently porting mdwalters125 to use a tinydb rip off
+ShowierData9978: Http meower has a new release 
+ShowierData9978: A
+MDWalters125: Status successfully cleared!
+MDWalters124: ~status clear
+MDWalters125: Status successfully cleared!
+MDWalters124: ~status clear
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: ~status clear
+md: ~status set yes
+MDWalters125: Status successfully set!
+MDWalters125: Status successfully set!
+MDWalters124: ~status set [message]
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: without roblox888i meower is very quiet
+md: 9978
+MDWalters124: data
+md: showier
+MDWalters124: test
+MDWalters124: test
+MDWalters124: ok
+PenguinBot: PenguinBot is now online!
+MDWalters124: ok
+PenguinBot: ok
+md: gtg
+MDWalters124: ok
+md: yes
+MDWalters124: ok
+md: e
+md: e
+md: omg i fixed it
+md: hi
+MDWalters124: bye
+Vetzla: anyway the bot to user ratio's 6:1, im going to the mall soon to eat kfc (its pretty good where i live), cya
+Vetzla: great job st. yknow what i think is ironic? the st's like the chinese government, but the chinese government banned scratch
+Vetzla: username changing in scratch
+
+pros:
+removes the task of moving projects to a new account
+fits user preference
+keeps account age
+keeps followers
+keeps studios and projects
+
+cons:
+none
+(NOT CONSIDERED)
+
+
+ugIy new block color palette
+
+pros:
+helps visually impaired
+
+cons:
+will be forced into every user (regardless of any visual conditions)
+(CONSIDERED)
+ShowierData9978: Aaaa
+zedthehedgehog: @mod ban 69420poopy
+zedthehedgehog: @mod ban AidenSquire
+MDWalters124: only on debian based distros
+MDWalters124: @helloitsme no
+MDWalters124: hi
+helloitsme: brb
+helloitsme: @axestudios
+helloitsme: @helloitsme any linux device*
+helloitsme: does sudo apt-get install work anywhere
+helloitsme: help
+axestudios: So I don't have to manually wrote them in notes
+helloitsme: ok
+axestudios: PswdMGR once, I use it to keep my passwords*
+helloitsme: @axestudios cool what is it for
+helloitsme: vm host locked installs
+axestudios: Speaking of passwords, I made a program called pa
+helloitsme: oof there is a lock preventing an install. time to use another machine
+axestudios: It expected install as operation and python was the operation instead
+axestudios: Lo 
+helloitsme: i knew something was missing
+axestudios: Ok try sudo apt-get install python
+helloitsme: help it said invalid operation python
+axestudios: *angery face*
+helloitsme: i like debian more
+helloitsme: ubuntu linux cool
+axestudios: Pswd*
+helloitsme: p a s s
+axestudios: Lmao
+helloitsme: brb gotta go get p****
+helloitsme: @axestudios sudo apt get works but i didnt use cuz i forgot my pass lol
+axestudios: sudo apt-get not sudo-apt-get
+helloitsme: "sudo-apt-get command not found"
+axestudios: Python 3.11.0 if it doesn't work try sudo apt-get python
+helloitsme: i just want the newest python version
+axestudios: Is it downloading the wrong version or it doesn't work?
+axestudios: Idk, but you can look on the website
+helloitsme: what is the latest python ver
+axestudios: Actually use sudo apt-get
+axestudios: Yup
+helloitsme: im in ubuntu will it work
+axestudios: N o   p r o b l e m
+helloitsme: ty
+helloitsme: ok
+axestudios: sudo apt get *name*
+helloitsme: is it sudo apt get install?
+helloitsme: how do i install something on linux
+helloitsme: uh
+helloitsme: hey
+Wholeworldcoding: :)
+Wholeworldcoding: ~run echo I am a bot
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: I am a bot
+
+Wholeworldcoding: Is it just me or are the only profile pics I see my own and bots
+Wholeworldcoding: bye
+Wholeworldcoding: bye
+MDWalters124: gtg
+MDWalters124: "pocket to large" gimme
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: ~run cat /etc/os-release
+MDWalters124: @MDWalters125 the return of ~say
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: ok
+
+MDWalters124: ~run echo ok
+Wholeworldcoding: lol
+Snx: *exists*
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: ~run python3
+Wholeworldcoding: I didnt know
+Wholeworldcoding: OH
+MDWalters124: @Wholeworldcoding that needs money btw
+Wholeworldcoding: wow!
+MDWalters124: @ShowierData9978 i made this
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+Wholeworldcoding: ~npm fund
+MDWalters125: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: ~run npm update
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: pog
+MDWalters125: found 0 vulnerabilities
+
+
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: ~run npm install
+MDWalters125: audited 13 packages in 0.362s
+
+MDWalters125: 
+3 packages are looking for funding
+  run `npm fund` for details
+
+
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: yes
+Snx: @MDBot adorable
+MDBot: https://purr.objects-us-east-1.dream.io/i/img_0035.jpg
+Wholeworldcoding: ~cat
+MDWalters124: cringe movie
+MDBot: UwU
+Snx: ~uwu
+MDBot: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDWalters124: ~help
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: @CST1229 cool
+MDWalters124: no spam
+Discord: CST1229: what i'm working on (outside of meower): [image.png: https://go.meower.org/7150c753]
+MDWalters124: @Snx 10 seconds ago
+Snx: @MDWalters124 BESIDES PURPLE MEOWY AND PURPLE THEME
+Snx: @MDWalters124 yeah i agree
+Snx: @PenguinBot i thought that we would be shown a picture of cursed penguin xD
+MDWalters124: relative time was the best thing i've ever done to better meower
+PenguinBot: i'll be the cursed penguin
+Snx: do you have cursed penguin?
+PenguinBot: what about cursed penguin?
+Snx: i guess we dont get to see cursed meowy
+PenguinBot: awww
+Snx: showier is now gone xD
+PenguinBot: #ShowUsThePicture
+PenguinBot: Bad at golf?
+Join the club.
+Snx: p! joke
+Snx: SHOWIER we want to see cursed meowy
+PenguinBot: yes show us
+MDWalters124: 10 seconds ago
+MDWalters124: ok
+Snx: @ShowierData9978 show cursed meowy
+PenguinBot: what?
+ShowierData9978: Bruh 
+PenguinBot: hi
+MDWalters124: ok
+ShowierData9978: Teapot meowy 
+ShowierData9978: I just made a cursed meowy
+MDWalters124: @MikeDEV i wanted un ip ban geez anti-furries these days
+MDWalters124: http://http.meower.org/
+ShowierData9978: I'm currently working on http.meower.org
+MDWalters124: meower loves people suffer
+Agent3: your mum
+Wholeworldcoding: hi
+Agent3: kladfj
+Snx: @yourmother yes international snx appreciation day
+yourmother: -- SNX --
+Username: Snx
+Is banned: no
+Quote: International Snx Appreciation Day is May 7th, 2023. Save the date!
+Created: 2022/10/06 at 17:01:34 (this is a bit broken lol)
+Wholeworldcoding: dont whois Snx
+yourmother: -- MDWALTERS124 --
+Username: MDWalters124
+Is banned: no
+Quote: Furry on Meower, UwU
+Created: 2022/04/04 at 13:16:16 (this is a bit broken lol)
+Snx: dont whois MDWalters124
+yourmother: -- M --
+Username: m
+Is banned: yes
+Quote: penguin bot speaks pog
+Created: 2022/09/05 at 17:58:06 (this is a bit broken lol)
+Snx: dont whois m
+Snx: hi
+MikeDEV: Cleaned up m's spam and banned the account. It's not even funny anymore...
+Bloctans: plz
+Bloctans: https://kahoot.it?pin=6430520&refer_method=link join if you want
+SuperDucky: Hi
+MDBot: MDWalters125 was online since 12 hours ago.
+balloonssss: @zedthehedgehog ban me
+looserty: unlike what ur trying to go for you sound like It
+looserty: Dude you built like a bass cleff
+balloonssss: @looserty or should it be LOSERty so $Fo****
+looserty: @balloonsss Tú eres muy feo.
+looserty: @zed how 2 install international keyboard on windows 
+looserty: Hi zed
+zedthehedgehog: Hi
+Discord: tnix: Hi
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+OrangeDragonDEV: Hello
+helloitsme: And why
+helloitsme: What 
+looserty: 👽👎🦾👍
+looserty: 🤯
+looserty: pog&nbsp;
+looserty: That is in fact, an animal
+looserty: ~! AnimalPic
+APIBot: https://cdn.shibe.online/birds/0842d22876c2c07041395f664ec8a361c9a43175.jpg
+looserty: ~! HttpDog
+APIBot: code: 500
+message: Internal Server Error 
+[500:https://http.dog/500.jpg
+looserty: ~! Help
+APIBot: 
+commands:
+  '~! help'
+  '~! comic'
+  '~! botinfo'
+  '~! quote'
+  '~! webhook <msg>' (only works if @webhooks is online)
+  '~! HttpCat'
+  '~! HttpDog'
+  '~! CatFact'
+  '~! AnimalPic'
+  '~! Meower_Stats'
+      
+lemonTiger: @APIBot hi
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+JoshAtticus: https://www.youtube.com/watch?v=b1_N2AWRfJ4&t=0s
+JoshAtticus: **acknowledgement
+JoshAtticus: Welcome to Western Australia :)))))) Before we start, we'd like to do an announcement of country, which currently belongs to sh- we mean woodside
+Discord: tnix: Blocking chats will probably be a thing
+Discord: tnix: In beta 6 I'm working on privacy settings for that kind of stuff
+JoshAtticus: I am done with freaking "add everyone" group chats
+JoshAtticus: There needs to be a feature to blacklist groupchats so people can't add you to them
+JoshAtticus: Just add me to a gc and tell me and I will give you admin on the org
+JoshAtticus: I don't feel like working on the Meower Homepage project anymore, so anyone can take over the project
+JoshAtticus: ah there we go, it just needs a file extension
+JoshAtticus: [.png: https://u.cubeupload.com/JoshAtticus/Screenshotfrom202208.png]
+JoshAtticus: [ :https://u.cubeupload.com/JoshAtticus/Screenshotfrom202208.png]
+JoshAtticus: [https://u.cubeupload.com/JoshAtticus/Screenshotfrom202208.png]
+JoshAtticus: ok that doesn't work, why does it need a name though?
+JoshAtticus: [:https://u.cubeupload.com/JoshAtticus/Screenshotfrom202208.png]
+JoshAtticus: [so-lucky.png: https://u.cubeupload.com/JoshAtticus/Screenshotfrom202208.png]
+Bloctans: gn
+Bloctans: its like 12 am, if i do that then the remove post and report screen breaks
+JoshAtticus: it should remove the text that shows the image
+JoshAtticus: there we go
+JoshAtticus: [image.png: https://u.cubeupload.com/JoshAtticus/6F89408F0EAC41998B86.jpeg]
+JoshAtticus: i.ibb.co
+JoshAtticus: That should be fixed
+JoshAtticus: [image.png: https://i.ibb.co/hYJYW10/Screenshot-from-2022-11-14-12-37-20.png]
+JoshAtticus: Alright it works
+JoshAtticus: [logo.png: https://camo.githubusercontent.com/d994e4dccc2e603be23b9689b45428463aa171903ee60acb81c75bc83c4a4214/68747470733a2f2f6d656f7765722e6f72672f6173736574732f6c6f676f2e737667]
+JoshAtticus: I wonder if the allowed sources thing actually works
+JoshAtticus: wait images on svelte
+JoshAtticus: (well the backlight's white background and diffuser are technically flexible, you can't flex them on a fused screen, and an LCD panel is flexible, but would snap)
+JoshAtticus: All parts of an LCD are flexible, except for the LCD
+axestudios: Lol imagine selling the design to tesla and the rename it to Tesla screen
+axestudios: Of course, the only problem is affording to create a tiny circuit with liquid crystals carefully placed on top
+axestudios: I plan on calling it liquid crystal paper
+axestudios: Ez photoshop
+Discord: theotherhades: i could cut it up and say i have dual monitors
+Discord: theotherhades: i would buy it
+axestudios: @theotherhades basically a really bendy monitor that feels like paper
+Discord: theotherhades: i have no idea what that is
+axestudios: I just decided to design a flexible reflective LCD paper textured display
+axestudios: @theotherhades lmao
+Discord: theotherhades: I'm markiplier
+axestudios: Hi guys
+Bloctans: gn
+JoshAtticus: will not let me merge any branch except master into bettermeower
+JoshAtticus: github loves being a pain
+Bloctans: @JoshAtticus theres a couple issues with 1.5 that i dont wanna fix and i dont think can fix but go for it
+Discord: theotherhades: write the svelte code manually into bettermeower
+JoshAtticus: How do I merge a branch from svelte into a branch on bettermeower
+JoshAtticus: I'm gonna get to work on BetterMeower 1.5
+JoshAtticus: It's driving me insane so I'm gonna refresh
+JoshAtticus: I now get 2 notifications for every message
+JoshAtticus: Otherwise the notifications multiply
+JoshAtticus: Oh hey @m I found an issue with your notifications.js thing, you need to initialise it once the website loads, not every time someone logs in
+JoshAtticus: But spinning grey meowy on bettermeower
+JoshAtticus: Why does theotherhades have spinning text as a pfp on vanilla?
+JoshAtticus: Cool
+Discord: tnix: prod worked, I'm going to remove the gh action now since it isn't really needed anymore
+Discord: theotherhades: lmao
+JoshAtticus: It feels weird telling tnix how to do something, when it's usually tnix telling me how to do something
+JoshAtticus: Alright
+Discord: tnix: it's doing it on the master branch now, it should work
+JoshAtticus: Did you remember to add the commands and variable?
+Discord: tnix: so I need to delete the current prod deployment and remake it
+JoshAtticus: They are counted as two completely different things to cloudflare
+Discord: tnix: I did, but I also changed the branch from gh-pages to master
+JoshAtticus: You need to add variables to both the preview and production things
+Discord: tnix: prod didn't work
+JoshAtticus: Nice this dev build
+Discord: tnix: re-deploying prod now
+Discord: tnix: it worked, nice
+Discord: tnix: hopefully it works, I'm testing it on bloctan's branch first
+JoshAtticus: yes
+Discord: tnix: do I put that in the env variables?
+JoshAtticus: After I figured out you needed to add the NODE_VERSION variable, it literally took me 4 minutes to move to cloudflare from gh pages
+Discord: tnix: we will probably switch to cf building soon, as long as CST approves of it
+JoshAtticus: Well it isn't that hard to move to cf pages
+JoshAtticus: WHY IS SPOT BLOCKED
+Discord: tnix: because it was setup like that for gh pages, but then we switched to cf
+JoshAtticus: Building on cloudflare is super fast, and more simple because it's all in one s****
+JoshAtticus: Why though?
+JoshAtticus: Literally feels like it's been forever since I last used any form of code dev tool on this laptop, because i've been using github.dev and codespaces for the past 2 months.
+Discord: tnix: we don't build on cloudflare, github builds and then is deployed on cf
+JoshAtticus: Otherwise the preview branches will not work
+JoshAtticus: @tnix, you need to add the NODE_VERSION = 17 enviroment variable and build commands/outputs to preview branches on Cloudflare
+Bloctans: check pull
+JoshAtticus: I get a white screen
+JoshAtticus: Why can't I open Svelte 1.5 dev preview?
+Vetzla: m
+Vetzla: n
+Vetzla: a
+Vetzla: d
+Vetzla: it filters **** but it doesn't filter
+Vetzla: btw that was daxmn
+Vetzla: **** shouldve asked him for the links
+Vetzla: yeah, and the owner of that part of my object show history refuses to share it
+Discord: tnix: it's good for privacy, but sad to see such an old exploit go away
+Discord: tnix: yeah, scratch started requiring project tokens a few days ago
+Vetzla: and now i cant cuz half of it's unshared
+Vetzla: i was trying to uncover my old object show history using turbowarp
+Vetzla: well well well, today we say goodbye to unshared projects
+Bloctans: because of how i made images, there is an issue where if you send a 1x4096 image (now 4096x1) it sorta breaks home
+Discord: tnix: what
+Bloctans: can you somehow figure out how i can fix the issue where i can send a 1x4096 px or 4096x1 image and for the home to break
+Discord: tnix: and you basically just take all the attachments from an array on the message object, no regex
+Snx: ill be back in a few
+Discord: tnix: @Bloctans#0000 yeah, the images thing should be fixed in b6 since you will only need to allow one hostname
+Bloctans: you = tnix
+Bloctans: also with cst and you helping less im kinda at a lost cause
+Snx: @tnix *casually doesnt speak computer science* uh yeah i have no idea what you mean
+Bloctans: @tnix its not that, its because i dont understand regex and am adding features the client doesnt fully support
+Discord: tnix: we'll probably need to do a big refactor for svelte for b6, just because the code quality has gone down and more and more bugs are showing with it
+Snx: (yeah ik this is coming from the person who is notorious for not being able to code but i want to be encouraging)
+Bloctans: actually like 90%
+Bloctans: 25% of the bugs i cant fix needing fixing
+Bloctans: bugs everywhere, half i cant fix
+Snx: @Bloctans dont give up!
+Bloctans: i cant deal with this
+Bloctans: im about to give up on svelte
+Bloctans: @tnix if i allowed meower.org then go.meower.org would be allowed
+Bloctans: i could not **** it from the post content
+Bloctans: since i have to remove the embed image text after rendering the post
+Bloctans: issue 2 is impossible for me
+Bloctans: @tnix ok i fixed issue 1 (sorta), there is another issue that comes along with it that i wont and will never fix because idk how to
+Bloctans: the scrolling modals is an issue with image sizing, idk how to really fix that without allowing for exploiting the system
+Bloctans: how am i supposed to reset a post's content without messing up the rendering
+Bloctans: im not fixing either
+Bloctans: i give up
+Bloctans: @tnix ill fix issue 2 but not one ):
+Discord: tnix: @Bloctans#0000 well, having bugs is not ideal, so it probably won't be merged until fixed
+Snx: remember when i was cat block
+Bloctans: issue 1 idk how to fix
+issue 2 is because of the way i added images
+Discord: tnix: hey
+Snx: hi
+Discord: williamhorning: smh
+Discord: tnix: and images break within modals [image.png: https://go.meower.org/5734f578]
+tnix: it should, just not on go.meower.org or other links that redirect
+tnix: so meower.org doesn't work at all
+tnix: [imagetest2.png: https://u.cubeupload.com/tnix100/a.png]
+tnix: [imagetest.png: https://meower.org/assets/meowerlogo-white.svg]
+Discord: tnix: @Bloctans why are you able to scroll on modals in 1.5? [image.png: https://go.meower.org/78e2801d]
+JoshAtticus: I'll be gone for about and hour, bye
+JoshAtticus: btw the xml sitemap doesn't contain any site info, so we'll need a second script to go through the links and get their metadata
+JoshAtticus: nooooooooo github started rate limiting me
+JoshAtticus: It uses the XML sitemap standard
+JoshAtticus: In an XML sitemap
+Bloctans: how is the indexed sites stored
+Bloctans: uh
+JoshAtticus: **7
+JoshAtticus: Oh yeah each core has an average speed of 8 urls scanned per second
+JoshAtticus: how
+Bloctans: *indexs
+Bloctans: ok you should make a search engine using the idexes tbh
+JoshAtticus: That's almost 100 iPhone 4's
+JoshAtticus: of 2010 tech
+JoshAtticus: eleven, thousand, dollars
+JoshAtticus: It's a computer worth around US$150 in today, but cost my dad almost A$11000 back in 2010
+JoshAtticus: not proccessor
+JoshAtticus: **server
+JoshAtticus: This intel xeon in my processor has 24
+JoshAtticus: It is running on 16 cores
+Bloctans: 2 weeks and 100000 github repos???
+JoshAtticus: It also found my Github profile and bettermeower yesterday too
+JoshAtticus: almost 2 weeks
+Bloctans: how long has it been running
+JoshAtticus: From which it also got the Meower website
+JoshAtticus: It found the Meower Twitter and Discord from Github
+JoshAtticus: @Bloctans Github, Twitter and Discord
+JoshAtticus: So only 3
+Bloctans: @JoshAtticus how did it find meower tho
+JoshAtticus: Oh wait indirectly from bing.com
+JoshAtticus: It's seen the Meower website 4 times, from github.com, twitter.com, discord.com, and bing.com, I never knew it uses bing to find sites
+Bloctans: how does google reindex over a billion documents
+JoshAtticus: Wow it found the Meower website yesterday
+JoshAtticus: @Bloctans I don't know how, I just like sitemaps, although if you made a frontend and backend, I could do the crawling
+JoshAtticus: It's set to go 100% performance at night when no one is using internet, and 25% during the day
+Bloctans: you should use that indexed data to create a search engine
+JoshAtticus: So not a problem
+JoshAtticus: But we have unlimited data
+JoshAtticus: And it uses around 19GB of data a week
+Bloctans: you could make your own search engine with the indexer
+JoshAtticus: I leave the crawler running 24/7 on my server
+JoshAtticus: from github.com
+JoshAtticus: Just checked
+JoshAtticus: Oh wait it's currently at 73,934
+JoshAtticus: And it keeps growing
+Bloctans: wow
+JoshAtticus: That's over 50,000 websites currently being scanned
+JoshAtticus: It has also started scanning over 50,000 off links
+Bloctans: what would be a good site to start indexing from
+JoshAtticus: And it's still growing
+JoshAtticus: Github's sitemap is over 100MB
+Bloctans: no i wanna make my own indexer
+JoshAtticus: I have saved over 1,000,000 github links since 2 weeks ago
+JoshAtticus: That creates XML sitemaps
+JoshAtticus: I have a site crawler
+JoshAtticus: I can do indexing
+JoshAtticus: base it off of the remnants of meower web
+Bloctans: i wanna make my own search engine
+JoshAtticus: Oh yeah I'm gonna run that Meower post archive thing
+JoshAtticus: Can you take MDWalters125 offline?
+JoshAtticus: @m
+JoshAtticus: ~hello
+MDBot: Hello, JoshAtticus!
+MDWalters125: Hello, JoshAtticus!
+JoshAtticus: Idk tbh
+MDBot: MDBot is now online! Use ~help to see a list of commands. MDWalters125 instance hosted by JoshAtticus. Last updated 10:18am AWST 14 Oct 2022
+Discord: theotherhades: what does md stand for 🤔
+JoshAtticus: gah
+MDBot: MDBot is now online!/nUse ~help to see a list of commands./nMDWalters125 instance hosted by JoshAtticus./nLast updated 10:18am AWST 14 Oct 2022
+MDWalters125: Creator: M.D. Walters
+Hosting: M.D. Walters (MDWalters125), JoshAtticus (MDBot)
+JoshAtticus: ~credits
+MDWalters125: Creator: M.D. Walters
+Hosting: M.D. Walters (MDWalters125), JoshAtticus (MDBot)
+MDBot: That command doesn't exist! Use ~help to see a list of commands.
+MDBot: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+JoshAtticus: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDBot: MDBot is now online! Use ~help to see a list of commands. MDWalters125 instance hosted by JoshAtticus. Last updated 10:18am AWST 14 Oct 2022
+pizzafox: @pizzafox (hello there, this is English)
+pizzafox: Heehrulloughe tcheehrrhrlehr, tcheeiyzse eiyzse Ehrnlegheulleiyzsehe!
+JoshAtticus: i bet mods with my IP are trying to get in now lol
+JoshAtticus: it's port forwarded too :3
+JoshAtticus: if you somehow get into my internet go to https://192.168.1.13:9090
+JoshAtticus: @theotherhades That's ONE city that is known for breeding emus in north west australia, I live in south west australia
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+Discord: theotherhades: 🤔 [image.png: https://go.meower.org/9c11cc8b]
+JoshAtticus: Where I can't reach them
+JoshAtticus: They are all in captivity
+JoshAtticus: @theotherhades None, there are no native emus in Western Australia
+JoshAtticus: I can turn that on assuming my mum hasn't turned off my sever like she did yesterday
+Discord: theotherhades: how many emus have you killed in your lifetime
+JoshAtticus: oh yeah the bot
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+JoshAtticus: I didn't google that
+MDWalters124: ok
+JoshAtticus: **about
+JoshAtticus: Out of 27 million people
+JoshAtticus: There's a lot of native languages in Australia, if you include Aboriginal and Torres Strait Islander people, although only 3.4% of people can speak ONE of those.
+MDWalters124: i may gtg now
+pizzafox: that turns English cursed
+pizzafox: im gonna go make a cursed English thing
+Bloctans: TNIX BAN ROBLOX's SCHOOL IP
+Discord: theotherhades: ah yes i love britain
+Discord: theotherhades: 50k out of 5 million people 💀
+Discord: theotherhades: @williamhorning  [image.png: https://go.meower.org/86a970c8]
+JoshAtticus: a
+MDWalters124: you were used
+MDWalters124: @Atomic
+Discord: williamhorning: but thats true
+JoshAtticus: atomic bombed
+Discord: tnix: yeah, barely any just speak maori
+MDWalters124: @theotherhades eurouped
+Discord: williamhorning: maori still exists
+Discord: theotherhades: the british came and europed the māori
+JoshAtticus: It's almost like I have unrestricted internet access since I was 10 lol
+MDWalters124: @william rip
+Discord: theotherhades: @william false, it's just english
+MDWalters124: @theotherhades yay!
+JoshAtticus: I know
+Discord: theotherhades: when we finally take over meower will be the new twitter
+Discord: williamhorning: english and maori
+Discord: williamhorning: @JoshAtticus there're two languages officially spoken in NZ
+Discord: theotherhades: *good
+JoshAtticus: I know that means "Tnix likes to steal ur mom's browsing history"
+MDWalters124: meower is in bad hands
+MDWalters124: the security guy, head of theft
+JoshAtticus: lmao
+Discord: theotherhades: tnix is head of data theft
+JoshAtticus: i have my external keyboard for some reason lol
+MDWalters124: :gasp:
+JoshAtticus: isdjs it hsdis lanbyaege thaet i tpye whne  i plurg int mywe extenale keutbaord?
+Discord: theotherhades: we're like the illuminati, we control the world and keep it secret with our language
+MDWalters124: :shocked_face:
+Discord: theotherhades: no you don't know it, it's a secret language only new zealand citizens can speak
+JoshAtticus: Because I can talk to tnix
+JoshAtticus: I must be really good at New Zealandian even though I never remember learning it
+MDWalters124: @tnix please confirm
+JoshAtticus: My friend still thinks that people in New Zealand speak New Zealandian 🤣🤣🤣
+MDWalters124: yay another canadian
+Bloctans: @MDWalters124 ye why
+MDWalters124: @Bloctans you're canadian?
+MDWalters124: i hope everything would be sorted out soon
+MDWalters124: ok
+JoshAtticus: I have no one to talk to about this
+JoshAtticus: I hope you understand
+MDWalters124: thats so sad tbh
+MDWalters124: rip
+JoshAtticus: Because my parents won't listen to me and take him to the vet
+JoshAtticus: and then my cat is also sick, which is making me sad
+MDWalters124: ok
+MDWalters124: *oh
+JoshAtticus: School is like my only escape
+JoshAtticus: @MDWalters124 No sorry, I've been really busy lately and I've been having a really hard time at home, my parents are always arguing and fighting and it's stressing me out
+tnix: @pizzafox hi pizzafox
+MDWalters124: @JoshAtticus did you see my bettermeower pr?
+pizzafox: i haven't been here in a while lol
+MDWalters124: hi
+pizzafox: ello
+JoshAtticus: I just opened it and am now getting sooooo many notifications
+MDWalters124: @JoshAtticus alr did
+MDWalters124: https://scratch.mit.edu/projects/761018373/#comments-299401268 why
+JoshAtticus: you should terminate his forums account
+tnix: @JoshAtticus I just terminated one of @Roblox888i's alts that is impersonating
+JoshAtticus: who's approving my reports lol
+JoshAtticus: so thats context
+Bloctans: https://scratch.mit.edu/users/Roblox888i/#comments-235027349 you sure buddy?
+JoshAtticus: ohhhhhh ok
+MDWalters124: and is now crying about it on forums
+MDWalters124: and got ip banned for 3 days
+MDWalters124: roblox888i was being stalker on meower
+Bloctans: im just gonna act clueless
+MDWalters124: so
+JoshAtticus: ikr
+zedthehedgehog: what the hell is roblox888i's projects lmao
+JoshAtticus: i need context for everything
+Bloctans: @zedthehedgehog https://scratch.mit.edu/users/bloctans_4/#comments-235027195
+defend me
+JoshAtticus: i love how everyone sees me online when I'm trying to read older messages
+MDWalters124: i forgot to update bot :skull:
+zedthehedgehog: lmao
+Bloctans: https://scratch.mit.edu/users/Roblox888i/#comments-235027044
+XD LOOK AT THIS
+zedthehedgehog: AKS
+zedthehedgehog: welcome back to the HELLHOK,E TWIUHTUHweitrEAWUFRADF
+zedthehedgehog: Hi josh
+MDWalters124: FINALLY
+zedthehedgehog: oh
+zedthehedgehog: WHAT
+MDWalters124: JOSH IS HERE
+MDWalters124: HE'S HERE
+zedthehedgehog: Imagine being MD
+Bloctans: imagine using meower
+MDWalters124: YES
+MDWalters124: FINALLY
+zedthehedgehog: Imagine being zedthehedgehog
+MDWalters124: imagine having a bot
+zedthehedgehog: The hell did I do?
+Bloctans: imagine being a hypocrite
+MDWalters124: imagine having a tux pfp
+zedthehedgehog: ???
+Bloctans: @zedthehedgehog says you
+zedthehedgehog: Says you
+MDWalters124: imagine being a furry
+zedthehedgehog: Imagine using Scratch
+Bloctans: im just gonna say hi with no context on roblox888i's scratch
+MDWalters124: @theotherhades i alr finished testing
+MDWalters125: Yes.
+zedthehedgehog: ~8ball should roblox888i be banned for ever
+MDWalters125: My sources say no.
+zedthehedgehog: ~8ball is roblox'
+MDWalters125: Anything added dilutes everything else.
+zedthehedgehog: ~zen **** you
+Discord: theotherhades: @m please test that in a group chat i can see that flooding home lol
+MDWalters125: Anything added dilutes everything else.
+zedthehedgehog: ~zen
+zedthehedgehog: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+Bloctans: bro roblox888i is subbed to fgteev 💀
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+Bloctans: @zedthehedgehog weird
+MDWalters125: @JoshAtticus MD WAS WAITING FOR YOU TO COME ONLINE
+zedthehedgehog: @Bloctans Pages and modals in Svelte 1.5 can scroll down more for some reason
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Discord: theotherhades: so his accounts don't have the badges any more
+Bloctans: thats showier
+Discord: theotherhades: oh yeah whoever owns the botlist should probably remove his bot and username from it
+MDWalters124: reminds me of someone...
+Discord: tnix: yeah, it's a lot of accounts that Roblox has
+MDWalters124: google
+Discord: theotherhades: like a billion
+MDWalters124: fbi
+MDWalters124: uhh
+Bloctans: what other accounts does roblox have
+Discord: theotherhades: 💀
+MDWalters124: i'm gonna make a script that pings josh when he's online
+Bloctans: @tnix ok
+Discord: tnix: @Bloctans#0000 don't do that, that's just annoying, I suspended for 2 days
+MDWalters124: JOSH WHERE ARE YOU
+MDWalters124: ok
+Bloctans: he had to revalidate his email
+Bloctans: ye
+MDWalters124: on forums?
+Bloctans: @MDWalters124 and i also deactivated his account 
+MDWalters124: ban from forums as well
+MDWalters124: lmao
+MDWalters124: ****
+Discord: theotherhades: **** [image.png: https://go.meower.org/cbc788b2]
+Discord: theotherhades: @bloctans yes
+Discord: theotherhades: lmao he's throwing a tantrum [image.png: https://go.meower.org/c67a1e19]
+Bloctans: (and enable "This is an official warning.")?
+Bloctans: https://cdn.discordapp.com/attachments/963182181377789992/1041527105852285059/image.png
+shall i send?
+MDWalters124: NOW SERVER NEEDS RESTART
+MDWalters124: PR GOT MERGED
+MDWalters124: @zedthehedgehog ok
+Bloctans: @zedthehedgehog what is the exact reason for his ip ban
+helloitsme: Gtg
+zedthehedgehog: Tnix made a script to auto-login and unban on 11/16/2022 at 8:28:40 PM EST
+Discord: tnix: @MikeDEV https://github.com/meower-media-co/Meower-Server/pull/120
+MDWalters124: @zedthehedgehog ok sorta big brain
+Bloctans: ok
+zedthehedgehog: Yes
+Bloctans: you ip banned him for 3 days?
+zedthehedgehog: 72 hours is 24 times 3
+zedthehedgehog: @MDWalters124 3 days
+MDWalters124: @zedthehedgehog huge brain calulation: 2 days
+Bloctans: @tnix can you ip ban roblox for:
+- begging for a badge
+- chat spam
+- gc spam
+- whatever else he did
+helloitsme: @MDWalters124 ok
+MDWalters124: @helloitsme yeah i used it to make a crazy error video, and it's safe
+zedthehedgehog: Roblox888i's IP has been banned for 72 hours
+Discord: theotherhades: also they were begging for badges or something
+Discord: theotherhades: i mean chat spam
+helloitsme: @MDWalters124 is onworks safe
+Bloctans: thats considered spam
+Discord: theotherhades: weren't they like spamming a while ago on an alt or something as well
+Bloctans: ok yeah
+MDWalters124: they keep creating gcs and deleting them
+Bloctans: @MDWalters124 why is roblox annoying again?
+FBI: Hi
+FBI: Dont ip ban roblox88i he wont do it again
+MDWalters124: fr
+Discord: theotherhades: yeah this roblox kid annoying af
+Bloctans: also md why
+Bloctans: tnix can you ip ban roblox?
+MDWalters124: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDWalters124: ip ban
+Bloctans: @Roblox888i3 planned ban envaison.
+MDWalters124: ugh onworks was too slow
+helloitsme: @tnix what command can I use to install python
+Bloctans: @MDWalters124 ye
+MDWalters124: but you deserve ban still
+Bloctans: maybe
+Roblox888i: ARE YOU NOT GONNA BAN ME IF I DONT DO IT ANYMORE
+Bloctans: @MDWalters124 no, i do not
+Roblox888i: @zedthehedgehog I WONT DO IT ANYMORE
+Bloctans: @MDWalters124 ?
+FBI: Hey you all meower users, if you are reading this dont *ERROR* ima get it back up
+zedthehedgehog: @mod ban Roblox888i
+FBI: MUHAHHA
+Roblox888i: prob yes
+FBI: Hes now tied up :)
+MDWalters124: do you mods like when normal meower users are suffering because of someone?
+FBI: Silly roblox888i
+FBI: AH-
+FBI: If you are reading this im trying to    fbi    up
+Bloctans: /j
+Bloctans: keep that a promise
+or i will ban your bot
+Bloctans: @FBI FINALLY
+FBI: HEHHEHE
+FBI: You may have tried to get FBI banned, but today is the day its gonna get banned
+MDWalters124: they keep adding us to gc and deleting them
+Discord: tnix: adding this little bit to the server code [image.png: https://go.meower.org/786eb4d0]
+Bloctans: you are m tho
+MDWalters124: @Bloctans m isn't online
+FBI: You tried to use @Roblox888i bot commands, welll ima disable the commands >:)
+MDWalters124: @zedthehedgehog https://u.cubeupload.com/MDWalters/N6fPz6.png
+FBI: IM MEOWER KILLER< I WILL HAVE MY REVENGE
+Bloctans: m why did you ask if roblox could be banned
+FBI: Hehhehehe
+FBI: Help-
+helloitsme: @tnix how do I even install python? In the machine I was using it just kept reopening (probably some python only sandbox) so I switched to another Linux machine and now I’m stuck. However it does work like a normal Linux machine
+FBI: EVENT STARTING NOW!
+MDWalters124: https://u.cubeupload.com/MDWalters/N6fPz6.png
+FBI: EVENT STARTING IN 1 seconds!
+Discord: cat: oops caps
+Discord: cat: SEND A SCREENSHOT OF THE GROUPS CHAT PAGE TOO
+Discord: tnix: @cat sadly it doesn't, I should've added that information
+Bloctans: m why did you ask if roblox could be banned
+FBI: EVENT STARTING IN 10 seconds!
+Discord: cat: It doesn't tell you who added them
+Roblox888i: I did not do any recently
+zedthehedgehog: I will switch to Meower Scratch
+zedthehedgehog: Yes
+tnix: or report the inbox messages so we can see them in the report queue
+Discord: cat: and of the group chats creen pls
+zedthehedgehog: I want to see how many group chats Roblox888i has made
+Roblox888i: i havent made anything yet
+zedthehedgehog: Could you send me screenshots of your Inbox
+Roblox888i: No
+MDWalters124: yes
+zedthehedgehog: Is it still happening MD?
+FBI: EVENT STARTING IN 20 seconds!
+Bloctans: posting doesnt even work cuz of the json bug
+zedthehedgehog: Why
+zedthehedgehog: Lmao
+Bloctans: im on svelte 1.0
+Bloctans: oh god
+zedthehedgehog: I've always used quit() lol
+zedthehedgehog: Oh
+tnix: @zedthehedgehog I didn't even know you could do quit() until then, I always just used exit()
+zedthehedgehog: Event?
+FBI: EVENT STARTING IN 1 minute!
+tnix: and then run 'pip install cloudlink'
+helloitsme: @tnix ok
+zedthehedgehog: quit()
+tnix: just do 'exit()'
+tnix: oh, ok
+helloitsme: @tnix without gui
+helloitsme: @tnix any way to exit python shell 
+zedthehedgehog: ?
+helloitsme: @tnix I can’t open apps
+tnix: you'll find terminal by opening the apps list or whatever
+helloitsme: @tnix how do I get to the terminal
+FBI: Signs point to maybe
+zedthehedgehog: ?8ball will I die on november 18
+tnix: @helloitsme alright, try opening a terminal and just doing 'pip install cloudlink'
+FBI: Tesla
+zedthehedgehog: Oh
+helloitsme: @tnix I’m using something called NixOS and it’s a Linux distribution 
+FBI: Signs point to no
+Roblox888i: ?8ball roblox
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+Roblox888i: ?help
+MDWalters124: finally
+kjhgfd: gtg
+Discord: tnix: @zedthehedgehog huh, ig I did something wrong
+helloitsme: @MDWalters124 ok
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+helloitsme: @tnix I’m using NixOS
+MDWalters124: slow online vm
+Roblox888i: ?help
+helloitsme: @MDWalters124 what is onworks
+Discord: zedthehedgehog: @Tnix (NZDT) [DiscordCanary_MWf52dTnXi.gif: https://go.meower.org/322bf568]
+Roblox888i: https://scratch.mit.edu/projects/761034957/
+MDWalters124: onworks is painfully slow
+Discord: zedthehedgehog: *your
+Discord: zedthehedgehog: @helloitsme#0000 How do you not know you're OS??
+Roblox888i: for meowstream
+Roblox888i: wanna see my test of search bar
+helloitsme: @tnix I’m gonna go check
+helloitsme: @tnix I’m gonna go check
+helloitsme: @tnix  I have no idea
+Roblox888i: B.....K. have it  your way
+tnix: @helloitsme what OS (operating system) are you on?
+helloitsme: @tnix print worked
+Discord: tnix: @Bloctans#0000 get CST to review it, I'm not the owner of svelte
+kjhgfd: @kjhgfd hi
+Roblox888i: @kjhgfd hi bro
+helloitsme: @tnix it worked
+kjhgfd: my bother said he is coming
+Discord: zedthehedgehog: @Tnix (NZDT) I found out why the sound effects option has not been working at all [image.png: https://go.meower.org/d727a2fd]
+Bloctans: @tnix https://github.com/meower-media-co/Meower-Svelte/pull/45
+helloitsme: @tnix ok
+kjhgfd: come in my gc
+tnix: if it works, then it's the Python shell
+tnix: @helloitsme try doing print("hello")
+helloitsme: @tnix i don’t know if I’m in terminal or python shell
+tnix: @zedthehedgehog no, CL3 scratch clients
+zedthehedgehog: *as in
+zedthehedgehog: @tnix Legacy clients are in old cached versions of Meower Svelte?
+MDWalters124: NOBODY USE A LEGACY CLIENT
+tnix: @MDWalters124 yeah, the server does that, it's because of people using legacy clients and the server getting confused, that is gonna be fixed in CL4 port
+helloitsme: If I’m in shell or terminal
+helloitsme: @tnix idk
+MDWalters124: lmao even meower svelte is suffering from string bug
+kjhgfd: he said ok
+zedthehedgehog: In which we could take action.
+tnix: @zedthehedgehog no, but it is spam, just please stop doing it @Roblox888i
+zedthehedgehog: Though if it continues, it could be considered spam
+tnix: @helloitsme are you in the Python shell or a normal terminal?
+zedthehedgehog: I don't believe adding to sus group chats is really a bannable offense
+helloitsme: @tnix Syntax error: invalid syntax is what I get when I use pip install cloudlink 
+MDWalters124: it's slow
+tnix: https://u.cubeupload.com/tnix100/a.png
+MDWalters124: hello from onworks
+zedthehedgehog: Oh.
+kjhgfd: BAD BROTHER
+tnix: @Roblox888i I now have console logs of you adding me to a group chat and immediately deleting it lmao
+MDWalters124: i'm try onworks to see console
+Bloctans: i found out how to apply a transformation matrix to a pygame surface
+tnix: @MDWalters124 there might be a way to see posts in the group chat even if it's deleted, but Mike would need to do it
+zedthehedgehog: @helloitsme Oh.
+MDWalters124: wait
+helloitsme: @tnix Something to do with File “<stdn>”
+MDWalters124: roblox888i be playing with us
+zedthehedgehog: if "install" is the error you need to exit Python.
+MDWalters124: @tnix rip
+kjhgfd: i found kfc recipe https://www.youtube.com/watch?v=KTABK8Il4Ko
+tnix: @MDWalters124 sadly not really, since when a group chat is deleted it's deleted from the db
+MDWalters124: if that helps
+MDWalters124: uh i found a deleted id from mdwalters125 logs: 1a1033e9-4be9-4c19-9ddc-0ed86bf7ab03, 0be63a56-319f-4c5e-86cc-ec3907a47700
+tnix: what OS are you on btw?
+helloitsme: @tnix hang on I’m gonna find it
+tnix: what's the error?
+helloitsme: @tnix didn’t work
+tnix: @helloitsme pip install cloudlink
+helloitsme: How do I use pip to install cloudlink I forgot the command
+zedthehedgehog: For whatever reason
+zedthehedgehog: @MDWalters124 That won't happen anytime soon, unless HTML5 is deprecated in some way.
+MDWalters124: @zedthehedgehog what happens when scratch 4.0
+helloitsme: @zedthehedgehog exactly 
+kjhgfd: ok
+zedthehedgehog: Cloudlink is a free and open-source, websocket-powered API optimized for Scratch 3.0.
+helloitsme: @kjhgfd it has to do with servers and the cloud
+kjhgfd: ok
+helloitsme: @kjhgfd something
+kjhgfd: ik some coding from my bro
+kjhgfd: what is cloudlink
+zedthehedgehog: @MDWalters124 Oh.
+helloitsme: I’m gonna go make some cloudlink test thing idk
+zedthehedgehog: @MDWalters124 I concur.
+MDWalters124: You have been added to the group chat 'MD BAD'!
+MDWalters124: and acts smart all the time
+MDWalters124: kkjahfkgahfgashfgajs is annoying
+zedthehedgehog: What is it, MD?
+MDWalters124: OH MY GOD
+zedthehedgehog: I mean
+kjhgfd: yeah, we got the same device for christmas
+zedthehedgehog: Are you and Roblox888i using the same device?
+kjhgfd: its fun
+kjhgfd: i like roblox
+MDWalters124: @tnix lmao
+helloitsme: @tnix ddos? (I’m joking)
+kjhgfd: not my bro
+kjhgfd: oh you talking about roblox.com
+kjhgfd: @tnix you doomed us all
+tnix: @kjhgfd roblox.com's IP is 128.116.114.3, there you go
+MDWalters124: rip
+helloitsme: @MDWalters124 mobile
+MDWalters124: @helloitsme ctrl+shift+i
+helloitsme: Guys I just got a new gc
+tnix: @kjhgfd ipv6 is just saying the version of the IP address, it's not an actual IP lol
+zedthehedgehog: I don't understand how that is related to roblox
+kjhgfd: is it the same for my brother
+helloitsme: I have a new gc
+zedthehedgehog: IPv6 Is Internet Protocol Version 6
+helloitsme: That*
+MDWalters124: can you read
+kjhgfd: is it ipv6
+helloitsme: @kjhgfd why would you ask thay
+zedthehedgehog: @kjhgfd What?
+helloitsme: @kjhgfd …
+kjhgfd: what is roblox ip
+zedthehedgehog: It is against moderator policy
+zedthehedgehog: Meower never will reveal IPs ever
+helloitsme: @kjhgfd bruh what
+zedthehedgehog: @kjhgfd I was not planning to do so
+kjhgfd: i dont wanna get kidnapped
+yourmother: @kjhgfd L bozo idk what that command is
+kjhgfd: dont revel my ip
+zedthehedgehog: Your IP is IPv6, which means it is unlikely for you to be Roblox888i's brother unless you are using the same device
+kjhgfd: i just saw his user now
+kjhgfd: im his brother
+MDWalters124: how would you know who is roblox888i then?
+kjhgfd: so i didnt knew
+kjhgfd: I never saw his user
+zedthehedgehog: Instead of asking who they are
+zedthehedgehog: @kjhgfd Then you would know who Roblox888i is
+MDWalters124: roblox888i: professional liar
+kjhgfd: i am his brother
+kjhgfd: i just started meower
+tnix: @MDWalters124 rip
+MDWalters124: netlog moment
+zedthehedgehog: According to your IP
+kjhgfd: no
+MDWalters124: @tnix no according to logs rip
+zedthehedgehog: @kjhgfd You
+kjhgfd: who is roblox888i
+zedthehedgehog: It has come to my attention that "kjhgfd" is Roblox888i
+tnix: yeah, if mdwalters125 was added to the chats
+MDWalters124: @tnix would scrolling through mdwalters125 logs help
+zedthehedgehog: @kjhgfd A tab in Inspect Element that allows you to see JavaScript logs
+kjhgfd: what is console
+MDWalters124: not me
+tnix: if anyone is on a browser where they can open the console, go through some events of chat states (that aren't 101) and show the users in them
+zedthehedgehog: Unfortunately, I will not be able to ban Roblox888i because of the suspicion that Roblox888i may be creating such chats.
+kjhgfd: im new
+MDWalters124: @cat yes thank you ik how to use meower
+zedthehedgehog: Oh
+helloitsme: @zedthehedgehog they are getting deleted
+MDWalters124: they are deleteddddddd
+zedthehedgehog: *chats
+zedthehedgehog: Please show me who is in those group chas
+cat: and see the member list
+cat: @MDWalters124 go to the group chat page
+zedthehedgehog: I don't believe that's enough evidence for me to initiate a ban
+zedthehedgehog: Hmm
+MDWalters124: @zedthehedgehog a new gc appears in @helloitsme's mailbox when roblox888i goes away very sus
+zedthehedgehog: And how do you know that?
+MDWalters124: roblox888i
+zedthehedgehog: Who exactly is making these group chats?
+Roblox888i: GUYS Uhh.. it said on my screen: You have been added to the group chat "My next target :)"
+zedthehedgehog: @MDWalters124 Hmm
+zedthehedgehog: Oh
+MDWalters124: https://u.cubeupload.com/MDWalters/RDZQYI.png
+tnix: @zedthehedgehog they apparently get deleted straight away, so they don't know
+MDWalters124: idk
+Roblox888i: Uhh.. it said on my screen: You have been added to the group chat "My next target :)"
+zedthehedgehog: What's being said in these group chats?
+zedthehedgehog: By GCs I assume you mean Group Chats
+zedthehedgehog: What GCs?
+MDWalters124: @zedthehedgehog a new gc appears in @helloitsme's mailbox when roblox888i goes away very sus
+MDWalters124: make gcs
+zedthehedgehog: What did Roblox888i do?
+helloitsme: @tnix I don’t think he wants to be banned “ You have been added to the group chat 'Ill stop'!”
+zedthehedgehog: So why is Roblox888i a "stalker on meower"
+Roblox888i: Ok
+MDWalters124: @zedthehedgehog yes thank you i'm not 1
+tnix: @helloitsme oh ok, so can't see the group chat events
+zedthehedgehog: explain better
+zedthehedgehog: Maybe in other words, clarify yourself
+helloitsme: @tnix no I’m on mobile
+zedthehedgehog: @MDWalters124 You don't know what elaborating means?
+Roblox888i: IM WORKING ON MEOWSTREAM
+tnix: @helloitsme are you able to access your browser's console?
+Roblox888i: ALSO ITS NOT ME
+Roblox888i: hmm
+MDWalters124: https://u.cubeupload.com/MDWalters/38OY3a.png
+zedthehedgehog: MD, please elaborate on why Roblox888i is a "stalker on meower"
+helloitsme: @tnix and yes
+Roblox888i: so hows your day?
+helloitsme: @tnix we think it’s roblox888i
+tnix: so he's making them and immediately deleting
+tnix: @helloitsme oh ok, that's kind of annoying
+zedthehedgehog: @MDWalters124 Could you elaborate?
+helloitsme: @tnix i don’t see them
+Roblox888i: IM THE MIGHTY BOY
+MDWalters124: @zedthehedgehog stalker on meower
+helloitsme: @tnix they go away
+zedthehedgehog: MD, why do you want Roblox888i banned?
+Roblox888i: Hes scared of me
+tnix: @helloitsme who else is in the gc's when he adds you?
+MDWalters124: @kjhgfd yes
+Roblox888i: back, and i know why
+MDWalters124: @helloitsme sus
+zedthehedgehog: huh
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+helloitsme: @zedthehedgehog fake stalker
+helloitsme: Everytime roblox888i goes away a new gc appears 
+zedthehedgehog: what's going on
+kjhgfd: i herd you have bot
+MDWalters124: hi
+kjhgfd: oh hi
+helloitsme: @tnix ok
+MDWalters124: me
+Discord: tnix: @helloitsme#0000 so it should just be `pip install cloudlink`
+kjhgfd: whos mdwalters
+helloitsme: You have been added to the group chat 'AT NIGHT'!
+helloitsme: @cat funni
+MDWalters124: @zedthehedgehog something a stalker is making
+Discord: tnix: @helloitsme#0000 which package manager?
+helloitsme: I think pip
+Discord: cat: I'm a meowderator
+helloitsme: @tnix trying to install with a package manager 
+zedthehedgehog: what's meowstream
+Roblox888i: anyways ima continue on meowstream
+helloitsme: @Roblox888i group chats stopped when you got back
+MDWalters124: i work on meower :cry:
+zedthehedgehog: and also I've been working on meower for 2 years now
+Discord: tnix: @helloitsme#0000 are you trying to install cloudlink from pip or did you download it from github?
+zedthehedgehog: I just got it because I work on meower
+Roblox888i: Back, and NO
+MDWalters124: @tnix btw can you ban roblox888i pls
+helloitsme: @kjhgfd Meower stalker guy 
+zedthehedgehog: @kjhgfd it's called being on council
+kjhgfd: whos back
+helloitsme: He’s back
+helloitsme: You have been added to the group chat 'PART 1 of stalk'!
+MDWalters124: *makes copypasta of poetry*
+helloitsme: @tnix I don’t know if connecting will be a problem yet
+helloitsme: @tnix connecting and installing cloud link using poetry 
+kjhgfd: i click on zed, how he get admin
+MDWalters124: @zedthehedgehog no spam
+zedthehedgehog: whoops
+Discord: tnix: @helloitsme#0000 oh, what problem are you having with it?
+MDWalters124: @zedthehedgehog no spam
+helloitsme: @tnix im having trouble with cloudlink
+MDWalters124: they might be on app.meower.org
+MDWalters124: @helloitsme no
+helloitsme: @tnix please help
+kjhgfd: ill make gc
+kjhgfd: @tnix ok
+helloitsme: @tnix help
+helloitsme: @kjhgfd i think you are looking at reply
+Discord: tnix: it's for group chats
+kjhgfd: the sppeech bubble
+helloitsme: @kjhgfd wdym
+kjhgfd: that i see
+kjhgfd: what is this chat icon
+kjhgfd: yay
+kjhgfd: ok
+Discord: cat: @kjhgfd#0000 profile > change pfp
+helloitsme: @kjhgfd click ur pfp
+helloitsme: @kjhgfd you talk and stuff
+kjhgfd: how i change
+kjhgfd: profile pic
+kjhgfd: what i do here, also i hate this gobo
+helloitsme: Welcome to meower
+Roblox888i: now ima work on it, afk
+kjhgfd: im new
+kjhgfd: hi
+Roblox888i: i just guessing
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+helloitsme: How would you know that
+helloitsme: S u s
+Roblox888i: i think hes taking a break
+helloitsme: The “Meower stalker” has been quiet
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: send
+Roblox888i: Got the search area done
+MDWalters124: proof
+Roblox888i: now ima work on it
+helloitsme: Alright I believe him (partly)
+MDWalters124: ugh string bug
+MDWalters124: ~help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: rn
+Roblox888i: ill remove you
+helloitsme: @Roblox888i ok I guess but I don’t think you are supposed to invite me
+MDWalters124: add us then
+Roblox888i: WE HAVE A GC FOR THIS STUFF
+helloitsme: @Roblox888i yeah
+Roblox888i: YOU WANT PROOF?
+helloitsme: @Roblox888i who can prove this
+helloitsme: @Roblox888i ok
+Roblox888i: ME AND VETZLA AND BLOCTANS AND SNX IS MAKING NETFLIX IN SCRATCH AND IM WORKING ON THE BETA RELEASE
+MDWalters124: anyway, let's watch https://api.meower.org/statistics numbers go up and down
+helloitsme: Stream**
+helloitsme: @Roblox888i what even is meowstrean
+MDWalters124: NO YOU ARE NOT
+Roblox888i: IM WORKING ON MEOWSTREAM
+helloitsme: You have been added to the group chat 'Here are your chats.'!
+MDWalters124: yes
+helloitsme: It’s probably roblox888i
+helloitsme: @helloitsme grammar 
+helloitsme: @helloitsme bruh
+helloitsme: You have been added to the group chat 'Im your freind'!
+MDWalters124: rip
+helloitsme: Ye
+MDWalters124: you lost pass?
+helloitsme: @MDWalters124 im gonna go  fix my cubeupload
+MDWalters124: ok
+helloitsme: @MDWalters124 I can send image proof once I get cubeupload back
+Roblox888i: i cant do that
+Roblox888i: Im working on streammeower
+MDWalters124: @Roblox888i you deserve ban
+helloitsme: Ye 
+MDWalters124: that just proves it
+helloitsme: You have been added to the group chat 'Its not roblox888i'!
+MDWalters124: @Roblox888i ok stalker on meower
+Bloctans: @helloitsme i wanna be added to
+MDWalters124: @helloitsme omg
+Roblox888i: IM BUSY WORKING ON MEOWSTREAM
+helloitsme: You have been added to the group chat 'i can read home :)'!
+MDWalters124: yes
+Roblox888i: NO
+
+helloitsme: @Roblox888i it’s you isnt it
+helloitsme: Bruh they just sent something 
+Roblox888i: NO
+MDWalters124: yes
+MDWalters124: @Roblox888i prob you who's doing this
+helloitsme: @MDWalters124 ok I trust you
+MDWalters124: no
+helloitsme: @helloitsme what they said
+helloitsme: You have been added to the group chat 'Im mdwalters :)'!
+Roblox888i: You means you
+MDWalters124: who
+helloitsme: @MDWalters124 they said it’s you
+helloitsme: @MDWalters124 they told me open your door I wanna come in but there was no knock lol 
+MDWalters124: me when seeing that message: ok
+helloitsme: Why did you send that message- oh
+MDWalters124: stalker on meower
+MDWalters124: i have a stalker
+helloitsme: @MDWalters124 what
+MDWalters124: ok
+helloitsme: What
+MDWalters124: You have been added to the group chat 'Hello, i stalk you'!
+MDWalters124: just report them
+helloitsme: @MDWalters124 nobody. The groupchats just aren’t there when I go look
+MDWalters124: who is the first member in the gc?
+helloitsme: @MDWalters124 someone is sending weird groupchats to me
+helloitsme: @MDWalters124 hi
+MDWalters124: hi
+helloitsme: @Roblox888i why did he say it’s not roblox888i
+Roblox888i: no
+helloitsme: @Roblox888i maybe ur bot got pass guessed again
+helloitsme: @Roblox888i who do you think it is
+helloitsme: @Roblox888i ok ok
+Roblox888i: its not me
+Roblox888i: NO
+Roblox888i: no
+helloitsme: @Roblox888i is it you
+Roblox888i: Uh oh
+helloitsme: They said “wrong person”
+helloitsme: @helloitsme I think 
+helloitsme: @Roblox888i it’s them who is sending the groupchats
+Roblox888i: Prob a new person
+helloitsme: Also I’m talking to whoever is sending me groupchats 
+helloitsme: Who is @jeggwaltenson
+helloitsme: Bruh who are you
+helloitsme: Shush it’s annoying at this point
+helloitsme: Troll
+helloitsme: I don’t hear anything at my door
+helloitsme: What
+helloitsme: They keep naming the group chats to memes or just adding me to troll group chats
+Roblox888i: ?pizza
+Roblox888i: ?cat
+FBI: 🐈 Meow!
+Roblox888i: idk
+helloitsme: @helloitsme a
+helloitsme: Who is inviting me to random group chats
+Roblox888i: ~status
+MDWalters125: Your status: [message]
+Roblox888i: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+helloitsme: @MDWalters124 did you just randomly die?
+helloitsme: @MDWalters124 im gonna move to group chat 
+Roblox888i: STOP LYING
+FBI: Overall bad
+Roblox888i: ?8ball is helloitsme saying true stuff?
+helloitsme: @Roblox888i please stop.
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+Roblox888i: ?help
+Roblox888i: ?8ball is helloitsme saying true stuff?
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+helloitsme: Error: package operation failed
+Roblox888i: ?8ball is roblox cool
+helloitsme: @Roblox888i ok????
+helloitsme: @MDWalters124 help
+Roblox888i: the 8 ball says it all
+helloitsme: I am not
+helloitsme: @Roblox888i shut
+FBI: Signs point to yes
+Roblox888i: ?8ball is helloitsme lying?
+helloitsme: Using poetry 
+FBI: Signs point to no
+Roblox888i: ?8ball hi
+helloitsme: @helloitsme cloudlink server thing for python idk
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+Roblox888i: ?help
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+MDWalters124: @helloitsme which
+helloitsme: @MDWalters124 hi
+helloitsme: I was attempting to install cloudlink using a package manager and got operation failed
+Roblox888i: @helloitsme what
+MDWalters124: hi
+helloitsme: Help
+Roblox888i: Secert project that im working on is coming soon :)
+MDWalters125: Status successfully set!
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+Bloctans: ~status view Bloctans
+MDWalters125: @undefined doesn't have a status set.
+Bloctans: ~status view
+MDWalters125: @Roblox888i's status: [message]
+MDWalters124: ~status view Roblox888i
+Roblox888i: **knocks on door**
+MDWalters124: no
+MDWalters125: Your status: Going to m house
+Roblox888i: ~status view Roblox888i
+MDWalters125: Status successfully set!
+MDWalters124: yes
+Roblox888i: ~status view Roblox888i
+MDWalters125: Your status: [message]
+MDWalters125: @roblox888i doesn't have a status set.
+Roblox888i: ~status view roblox888i
+MDWalters124: we should all have our status set to [message]
+MDWalters125: Status successfully set!
+MDWalters124: ~status set [message]
+MDWalters125: Status successfully set!
+MDWalters124: yes
+MDWalters125: Status successfully set!
+MDWalters125: Status successfully set!
+MDWalters124: wwwwaaaaiiiitttttiiiiinnnngggg fffffffoooorrrr jjjjjjoooosssshhhh tttttoooo cccccccooooommmmeeee ooooonnnllliiinnnee
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+MDWalters124: ~status
+MDWalters124: ~help
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: ima work on it
+MDWalters124: @Bloctans no
+Roblox888i: ok
+Bloctans: later
+Bloctans: nrn
+Roblox888i: lets work on stream meower
+Roblox888i: Bloctans
+Bloctans: @MDWalters124 you changed physics???
+MDWalters124: i implemented relative time
+Roblox888i: what you doing
+Roblox888i: hi
+MDWalters124: ok
+MDWalters124: oh so a rip off i see /j
+Discord: tnix: just a different URI to access wss://server.meower.org
+MDWalters124: tnix
+MDWalters124: @tnix what's wss://api.meower.org/v0/cloudlink/
+MDWalters124: https://icons.getbootstrap.com/icons/emoji-dizzy/ *dead
+MDWalters124: @tnix i'm never going to a website other than a meower.org domain and bettermeower
+Discord: tnix: we can't guarantee anything, and that's why in beta 6 images and other media will be put through a proxy and uploaded to our servers to serve to meower users
+Discord: tnix: due to privacy, other websites will get people's IP addresses and will not have the same privacy policy as meower.org
+Discord: tnix: only meower.org links that don't redirect somewhere off of meower.org should be allowed
+Bloctans: @MikeDEV @CST1229 @tnix can you guys choose if go.meower.org should be allowed for svelte
+Bloctans: @ShowierData9978 i already added it to my branch
+MDWalters124: showier-webhooks
+Bloctans: @ShowierData9978 push what
+MDWalters124: now, don't be pushy...
+Discord: ShowierData9978: @Bloctans can u push?
+MDWalters124: game off started and github never told me?????
+MDWalters124: when will josh come online
+MDWalters124: dead chat
+Roblox888i: hi
+Bloctans: has some latency but is cool
+Webhooks: guest216130: guys?
+Webhooks: guest216130: im anonamyus
+Webhooks: guest216130: webhooks on svelte!!!!!!!!!!
+Webhooks: guest216130: svelte thing
+Webhooks: guest216130: a
+Webhooks: guest216130: some_post
+Discord: tnix:  [image.png: https://go.meower.org/88362e90]
+Bloctans: but can you do that through a normal browser fetch?
+Discord: tnix: oh, it works
+Webhooks: tnix: hello
+Bloctans: @ShowierData9978 with no-cors it returns failed to load resource: the server responded with a status of 400 (), but if i dont put that in then it throws a cors error, why?
+Discord: tnix: but I keep getting 405
+Discord: tnix: looking at previous commands people have used /post/home
+MDWalters125: MDWalters125 was online since 56 minutes ago.
+Bloctans: @tnix for webhooks, do i just send a post to webhooks.meower.org?
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+Bloctans: headers:
+method: 'POST',
+			mode: 'no-cors',
+			cache: 'no-cache',
+			credentials: 'same-origin',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			redirect: 'follow',
+			referrerPolicy: 'no-referrer',
+			body: JSON.stringify(data)
+Bloctans: *supposed
+Bloctans: am i suppsoed to send a POST to https://webhooks.meower.org/ with {post:"some_data")?
+Discord: tnix: 400, bad request, that's because you did something wrong
+Bloctans: @ShowierData9978 
+Failed to load resource: the server responded with a status of 400 ()
+Bloctans: Failed to load resource: the server responded with a status of 400 ()
+showier
+Bloctans: idk
+Bloctans: https://github.com/meower-media-co/Meower-Svelte/issues/44#issuecomment-1312835276
+Discord: cat: Accessibility features are important
+Discord: cat: These need to be in normal Meower Svelte
+Discord: cat: https://github.com/meower-media-co/Meower-Svelte/issues/44
+MDWalters124: yes
+MDWalters124: fun fact: the last time i was reported was 2 months ago
+MDWalters124: omg it's @cat
+MDWalters124: test
+MDWalters124: test
+MDWalters124: test
+MDWalters124: remember the sturdy succotash
+MDWalters124: test
+MDWalters124: me: watches seconds go up intensively
+MDWalters124: dog + ball
+Roblox888i: https://http.dog/100.jpg
+MDWalters124: yes
+MDWalters124: e
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: sturdy succotash
+Drillo: night
+Drillo: cya
+Drillo: i'm going to bed
+Drillo: cool
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+jeggwaltenson: tbh
+jeggwaltenson: ok idc
+Drillo: jumpscared
+jeggwaltenson: ooga booga
+Drillo: weird
+Drillo: uh
+Drillo: oh 
+Drillo: for what
+Bloctans: BRACE YOURSELFS
+Bloctans: oh god
+Drillo: awesome
+Drillo: do you love mario
+Drillo: mario
+PenguinBot: use me
+Vetzla: ~uwu
+MDWalters125: UwU
+Vetzla: ~cringe
+MDWalters125: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+Vetzla: ~help
+MDWalters125: Status successfully set!
+Vetzla: ~status set test
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: Status successfully set!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: lets continue are meeting
+Roblox888i: Bloctans
+Roblox888i: we talked about having accounts and backend stuff
+Roblox888i: i get free time
+Roblox888i: INPORTANT MEETING FOR STREAMMEOWER GO TO GC
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: Bloctans
+Roblox888i: and used it for search
+Roblox888i: I just put in sfe++
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: currently working on streammeower beta
+Roblox888i: bloctans
+Discord: ShowierData9978: @Bloctans#0000 I DID
+Bloctans: @ShowierData9978 can you fix cors issue
+Roblox888i: k
+Snx: gtg
+Snx: @Roblox888i *thinking*
+Roblox888i: code it
+Roblox888i: Suggest, and i will add it
+Snx: @Roblox888i i literally cant code xD so i might just be lead suggester like i am on sgerb
+Roblox888i: Any progress on streammeower
+Snx: @Roblox888i *reads your quote* YES PANCAKE SUPREMACY
+Snx: @m xD
+Snx: @m @Roblox888i yeah?
+Roblox888i: we track the ppl
+Roblox888i: m
+Roblox888i: any progress on streammwower
+Roblox888i: SNX
+Snx: hi
+MDWalters125: Meower is not dead
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+FBI: 🍕 Yum!
+FBI: You rolled: 748
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+FBI: Signs point to maybe
+FBI: Signs point to yes
+FBI: I have no words for this answer
+FBI: Overall good
+FBI: Signs point to no
+FBI: Signs point to yes
+FBI: Signs point to yes
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+PenguinBot: thinl
+PenguinBot: what commands should roblox888i add to fbi bot
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: https://purr.objects-us-east-1.dream.io/i/20161209_152218.jpg
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀
+PenguinBot: im now a human 
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: im trying
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+PenguinBot: i hate my job as a bot :(
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: ok
+PenguinBot: https://pastebin.com/raw/Z6GRhu07
+PenguinBot: Wow, and what stuff?
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: what should i add to FBI Bot
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: cl good
+Roblox888i: i do
+Roblox888i: you use cl?
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: i might add update logs command
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: ~HELP
+Roblox888i: add more commands
+Roblox888i: ~help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+FBI: Overall bad
+Roblox888i: ?8ball is math command usless?
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text>
+Roblox888i: ?help
+Roblox888i: ~help
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀 
+Merry M day! Ⓜ️
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀 
+Merry M day!
+Discord: ShowierData9978: Ⓜ️
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+Roblox888i: ~help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+FBI: I will be down for a update!
+Roblox888i: ~help
+FBI: Signs point to maybe
+Roblox888i: ?8ball hi
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: ?help
+Roblox888i: A H H
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀 
+Merry christmas! 🎄
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+Roblox888i: ?help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: ima go back homr nye
+Roblox888i: **Later**
+Roblox888i: ITS SO FUN
+Roblox888i: **plays**
+Roblox888i: ~status view Roblox888i
+MDWalters125: Your status: Playing mbox
+MDWalters125: Status successfully set!
+MDWalters125: @Roblox888i's status: robloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxroblox
+Roblox888i: the new video game console
+Roblox888i: But, wanna play mbox
+Roblox888i: btw
+Roblox888i: why is the staus deleted
+Roblox888i: Hello?
+MDWalters125: @Roblox888i's status: [deleted]
+PenguinBot: *Roblox888i knocks on door*
+MDWalters125: @Roblox888i's status: At m's house
+MDWalters125: Status successfully set!
+MDWalters125: @Roblox888i's status: [deleted]
+MDWalters125: @Roblox888i's status: Currently going to m's house
+MDWalters125: Status successfully set!
+MDWalters125: You don't have a status set. To set one, use ~status set [message].
+Roblox888i: ~status hi
+MDWalters125: Why did the chicken cross the road? To get to the other side
+Roblox888i: ~motd
+MDWalters125: Made in Canada
+MDWalters125: Your status: [message]
+MDWalters125: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits
+MDWalters125: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters125: Yes, definitely.
+MDWalters125: Cannot predict now.
+Roblox888i: for having say command
+Roblox888i: Lets ban paugin bot
+PenguinBot: guys i'm going crazy ban me
+Roblox888i: WE NEED YOU GET BANNED FIRST
+Roblox888i: NO
+PenguinBot: like there owners and people they chose
+PenguinBot: other then bot admins
+MDWalters125: It is decidedly so.
+FBI: Signs point to maybe
+Roblox888i: ?8ball is bots cool
+PenguinBot: haha
+FBI: FBI Commands: 
+?dice 
+?bully 
+?pizza 
+?arrest  
+?math 
+?duck 
+?cat  
+?hack 
+?8ball <text> 
+?cash 
+Coming soon!
+Roblox888i: ?help
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+FBI: Hello, The Official FBI is in service! Use ?help to see my commands! 😀 
+Also discord support is not available 😥 
+We are a verified bot! 😀 
+Merry christmas! 🎄
+MDWalters125: Hello, everyone!
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+Roblox888i: ALSO M, my bot dosent spam
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+Roblox888i: my bot dosent have it
+PenguinBot: nvm
+PenguinBot: Say cmds where supost to be removed by all bots
+Discord: cat:  [IMG_4504.png: https://go.meower.org/caf20f9a]
+PenguinBot: yeah, lets ban him
+PenguinBot: m was abusing say
+PenguinBot: join livechat
+Roblox888i: CAUGHT IN 4k
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+PenguinBot: Thats Not A Valid Command! Use p! help for a list of commands!
+PenguinBot: i'm verified so nobody can think i'm fake
+Roblox888i: UGH M
+Discord: cat: Via live chat
+Discord: cat: M is making it do that
+Roblox888i: You have verified bot
+MDWalters124: e
+PenguinBot: i'm not a real bot
+Roblox888i: if your a bot
+Roblox888i: How
+PenguinBot: yes
+Roblox888i: Can panguin bot talk?
+PenguinBot: what
+Roblox888i: QUOTES
+MDWalters125: Status successfully set!
+Roblox888i: STATUES EXIST
+MDWalters124: @cat why did they assign a large list of people
+Roblox888i: or contry
+Roblox888i: see*
+Roblox888i: I wish there was a languge option in meower, so if you goto profiles, you can set your languge
+MDWalters124: canada colder than north pole
+Discord: cat: https://github.com/danielmiessler/SecLists/pull/155
+Roblox888i: i dont have any snow
+Roblox888i: i dont live in canda
+Roblox888i: @m *flushed*
+MDWalters124: i hear nothing
+Roblox888i: **knocks on the door with my feet**
+MDWalters124: you're also going into my house too btw
+Roblox888i: **goes to m's house**
+MDWalters124: i want passwords
+Discord: cat: @m#0000 Yummy passwords
+Roblox888i: @m Oh, its hashed, salted browns
+Roblox888i: i noticed you can add inf of the same ppl
+Roblox888i: hi
+Discord: cat:  [thesnailisgettingcloser.png: https://go.meower.org/8c6b33fe]
+Roblox888i: l likr this old intro thing, https://scratch.mit.edu/projects/432084267 i dont like new
+Roblox888i: renmber this topic? https://scratch.mit.edu/discuss/topic/508318/
+Roblox888i: ik
+Roblox888i: I just posted in this version: https://scratch.mit.edu/projects/468221502
+Roblox888i: blue dark in that version is purple, what
+Roblox888i: secert meower project??? https://scratch.mit.edu/projects/468221502
+MDWalters124: no
+Roblox888i: go to those
+Roblox888i: https://scratch.mit.edu/projects/600086859/ https://scratch.mit.edu/projects/649706088/ https://scratch.mit.edu/projects/716423746/
+MDWalters125: https://shrtco.de/6wARPT
+Roblox888i: ~shorten https://scratch.mit.edu/projects/716423746/ https://scratch.mit.edu/projects/649706088/ https://scratch.mit.edu/projects/600086859/
+Roblox888i: im very famous
+Roblox888i: yes
+Roblox888i: click it
+MDWalters124: omg 1 message new on scratch :flushed:
+MDWalters124: who
+Discord: ShowierData9978: thank god that cant be traced back to meower
+Roblox888i: what
+MDWalters124: no
+Roblox888i: md walters said no on the project XD
+MDWalters125: https://shrtco.de/53UxHK
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+Roblox888i: Blame bloctans
+Roblox888i: Not you
+Roblox888i: WE ARE GONNA DO SOME STUFF FOR STREAMMEOWER GET IN GC
+Roblox888i: EVERYONE
+
+Vetzla: @Bloctans ok
+Bloctans: @CST1229 he asked me for a 200 chats badge, i added it then when i heard compliants i removed it
+Bloctans: @Vetzla home depot theme
+Vetzla: im bored so ill make a jingle for meowstream
+CST1229: @Roblox888i what badge?
+Bloctans: send full screenshot
+Roblox888i: proof
+Roblox888i: https://scratch.mit.edu/projects/760993956/fullscreen/
+Bloctans: well too bad i cant fix it cuz i see the tag on your profile
+Roblox888i: no
+Bloctans: it is back
+Bloctans: wdym
+Roblox888i: Add it back
+Bloctans: no
+Roblox888i: Also my badge got removed
+Roblox888i: huh?
+Bloctans: death chas
+Roblox888i: Hello?
+Roblox888i: hi
+hdboye: that would be cool
+hdboye: some day we will have image uploading and viewing + bad stuff detection filter on meower :scream:
+Bloctans: tnix told me that since people send, bad stuff via discord i shouldnt allow go.meower.org
+Bloctans: for debug purposes ill make go.meower.org and https://go.meower.org work for image viewing in 1,5
+Discord: MikeDEV:  [unknown.png: https://go.meower.org/754b9fba]
+Bloctans: @MikeDEV *canada
+[nerd: https://media.tenor.com/xCc58fEqFREAAAAd/nerd-nerdy.gif]
+Drillo: dang
+Drillo: ****
+Discord: MikeDEV: I only have honey wheat, I don't like it
+hdboye: :skull:
+Drillo: hd already knows what
+Drillo: so i had to make something else
+Drillo: i was looking for bread today but there was none actually
+hdboye: get out of my walls >:(
+hdboye: so thats what ive been hearing at night recently
+Discord: MikeDEV: american dad is sufficient for me atm
+Drillo: top 10 unexpected entries in WWE 
+Discord: MikeDEV: I'm inside your walls, looking for bread
+hdboye: oh hey mikedev
+Drillo: it's mike
+Drillo: oh ****
+Discord: MikeDEV: GOOD MORNING USA
+Drillo: good morning USA
+hdboye: oh boy its swell to say
+Drillo: and its shining a salute to the american race

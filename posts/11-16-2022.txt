@@ -1,0 +1,1373 @@
+Discord: theotherhades: lol yeah get some sleep
+Discord: ShowierData9978: its 11pm for me
+Discord: ShowierData9978: ig il go to
+Discord: theotherhades: enjoy dinner i presume
+Discord: theotherhades: bye tnix
+Discord: ShowierData9978: k
+Discord: tnix: anyway gtg
+Discord: theotherhades: as much as i love mdwalters and all the other under 13s i love swearing more
+Discord: tnix: it's either get parental verification right now or ban users, I'll do parental verification if people are happy with that
+Discord: tnix: we can require parental verification via email for now, would probably take a few hours to implement
+Discord: theotherhades: @tnix meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+ meower 13+
+Discord: tnix: any idea for what we do right now are welcome
+Discord: ShowierData9978: b6 is currently planned out of the window
+Discord: tnix: @CST1229 we don't know what we're going to exactly do over the next few months during rewrite, but definitelly going to allow <13 users after rewrite
+Discord: ShowierData9978: no, it was planned for b6 but....
+Discord: CST1229: until rewrite happens
+Discord: CST1229: *oh, so only temporarily banning <13 users basically
+Discord: CST1229: @tnix oh, so only temporary basially
+Discord: ShowierData9978: started here
+
+> List of cool ideas for meower:
+> 
+> -post editing
+
+https://discord.com/channels/910201937352347648/962646188220370974/1042297330164039720
+Discord: tnix: it's going to take a while and a lot of work, but we can do as much as we can to be COPPA compliant
+Discord: tnix: @CST1229 scratch gets away with it by doing the bare minimum (requiring parent emails), and isn't primarily a social media site, but anyway we're doing a full rewrite for Meower over the next few months and are going to be COPPA compliant
+Discord: CST1229: i feel like meower is gonna shut down soon
+Discord: ShowierData9978: dang this was a fun random joke convo
+JoshAtticus: @CST1229 oooooooh
+Discord: ShowierData9978: yeah, we are redoing that /srs
+Discord: tnix: what if we charge them per minute, and more based on whether they're online at peak hours or not
+Discord: theotherhades: the only thing you can get for free is an orange screen with the meower logo in the center and a link to https://store.meower.org where we'll sell everything
+Discord: CST1229: re: banning <13 users [image.png: https://go.meower.org/1a1ddc29]
+JoshAtticus: dang I gtg
+JoshAtticus: Just like fuel prices in Australia
+JoshAtticus: But cheaper on Tuesdays
+Discord: ShowierData9978: including the char that was just added
+JoshAtticus: And it's more expensive on Wednesdays
+Discord: ShowierData9978: @tnix times the current len
+Discord: tnix: well ofc, that's the normal sub to get access to meower plus the registration fee
+JoshAtticus: $95 to be exact
+JoshAtticus: And you have to pay to create your account
+Discord: theotherhades: they have to pay for the flight
+Discord: tnix: maybe it should be like $20 per character to be hashed, so longer the password the more you have to pay
+Discord: theotherhades: @tnix we send a meower secret service (MSS) agent to their address to watch over them at their computer
+JoshAtticus: But if you don't pay $15 for that tier, then your home address, social security number, phone number email and credit card details are included
+Discord: tnix: @theotherhades but then they'll just steal the code from any good password hashing algorithm
+JoshAtticus: First tier still costs $25 a month, otherwise your password is included in every post/comment you make
+Discord: theotherhades: @tnix add a second tier after plaintext where they have to write their own hashing module, then have a big price jump to the half hashed one
+JoshAtticus: tw*tter is a very bad word
+JoshAtticus: Oh I am so sorry i accidentally swore
+Discord: ShowierData9978: (not like im trying to cover up the fact autocorrect did not save me)
+JoshAtticus: ah ok
+Discord: ShowierData9978: intentional mispell
+JoshAtticus: Intentionally?
+Discord: ShowierData9978: @theotherhades ThisPasswordIsIntencanlyWeak
+JoshAtticus: @tnix No it needs to be another $100 sub
+JoshAtticus: no tnix100
+Discord: tnix: @theotherhades make it have tiers, one is plain text (available on API), one is half hashed with SHA256, one is full hash with SHA256, then it's hashed with bcrypt with no salt, then at bcrypt with salt, then another $50 sub to make it private
+Discord: theotherhades: who me?
+JoshAtticus: Also why does tnix's alt use a bettermeower pfp?
+JoshAtticus: Yes that is a great idea
+Discord: theotherhades: https://api.meower.org/fetchpassword?user=tnix100
+JoshAtticus: Great deal
+JoshAtticus: so you can buy 512 for the price of 1024
+Discord: tnix: it gets better as you go up[
+JoshAtticus: It doubles each time
+Discord: theotherhades: @tnix they need a $55.59/month subscription to meower platinum for their password to be hashed and private, otherwise it can be fetched from the api
+Discord: tnix: no, 10
+JoshAtticus: No eight
+Discord: tnix: and four for the price of 10?
+JoshAtticus: And two for the price of four!
+JoshAtticus: No, buy one for the price of two! It's simple
+Discord: ShowierData9978: 8$ for sending a post
+Discord: theotherhades: and it's buy one get one half price
+JoshAtticus: OMG THAT IS THE BEST IDEA I HAVE EVER HEARD
+Discord: theotherhades: simple
+Discord: theotherhades: so we just charge a subscription for a pamphlet that tells them what subscriptions are for what product keys and what product keys are for what products
+JoshAtticus: yeah, and $20 to reset password
+Discord: tnix: @JoshAtticus#0000 nah, $10 for each password attempt, it costs the server time checking their password hash, poor server
+JoshAtticus: And $5 for every time they see a post
+Discord: theotherhades: people will get tired of remembering all the product key subscriptions right?
+Discord: ShowierData9978: (this is great as a joke convo)
+JoshAtticus: Or clicks on a button/link
+JoshAtticus: Or logs out
+JoshAtticus: We need to charge $10 every time someone logs in
+Discord: theotherhades: 😲 big brain idea i just had
+Discord: ShowierData9978: (lmao)
+Discord: theotherhades: @tnix and charge a subscription for a product key as well
+JoshAtticus: no put it on that weird headset that kills you
+Discord: tnix: make our own VR headset
+Discord: theotherhades: no that's selling out to zuck
+JoshAtticus: No make meower only available on meta quest pro
+Discord: ShowierData9978: and you need the old sub to cancel the new one
+Discord: tnix: @cat so the 1st one was already done by the 2nd one, but what does Meower 3D look like
+Discord: theotherhades: @cat nah 4d is better
+Discord: cat: 1. I call dibs on making the next major decision for Meower
+2. Meower is becoming 3D
+JoshAtticus: But you need a subscription to get that subscription
+Discord: tnix: @JoshAtticus#0000 a subscription cancellation subscription? I like it
+JoshAtticus: @tnix No, you need a subscription to cancel the subscription
+JoshAtticus: and use a different email address for each email like facebook
+Discord: tnix: offer the option to cancel the subscription, but do what adobe does, charge them a massive cancellation fee
+JoshAtticus: no unsubscribe button
+Discord: tnix: @theotherhades go to the store and buy one, duh
+JoshAtticus: with ads to buy the pc and subscription
+JoshAtticus: @theotherhades no we spam your email
+Discord: ShowierData9978: thats what the product key is
+Discord: theotherhades: @joshatticus if it explodes there's no one to buy more subscriptions
+Discord: cat: @cat it mine now
+JoshAtticus: No you need to add a subscription to own the pc, or it explodes
+Discord: theotherhades: also there's meower gold which gives you meower orange perms as well as 1 extra character on the post length limit for every $9.99 you spend per month
+Discord: ShowierData9978: and the reader and computer explodes after the product key expires
+Discord: cat: I call dibs on meower
+Discord: tnix: but also, we need them to pay some validation fees for actually verifying the product key once they enter it into Meower
+JoshAtticus: I always used the free version, but it would only update drivers for bluetooth and usb, nothing useful
+JoshAtticus: iobit is a scam
+Discord: cat: don’t give nvidia ideas
+Discord: theotherhades: and the product key expires after a week
+JoshAtticus: $9.99 a month for iOBIT driver updater premium
+Discord: theotherhades: oh and the meower pc with vhs reader only runs men os which you need to buy a product key for
+Discord: cat: @tnix agreed
+Discord: tnix: no, drivers should be a subscription
+JoshAtticus: @theotherhades And pay $19.99 for the driver disk
+Discord: theotherhades: @cat vhs tapes so you have to buy the Meower PC with VHS Reader ® as well
+JoshAtticus: I only moved dash to bottom of the screen with unity tweaker
+JoshAtticus: No, I haven't messed around in settings
+JoshAtticus: Ubuntu Unity 22.10
+Discord: tnix: what OS are you on?
+JoshAtticus: 
+
+
+
+
+
+
+
+
+
+but only right works on linebreaks
+JoshAtticus: LEFT SHIFT WORKS FOR SHIFT 
+Discord: cat: meower orange is distributed on dvds
+Discord: tnix: any if your keyboard works properly
+JoshAtticus: no only right shift works
+Discord: tnix: any shift is linebreak
+Discord: theotherhades: or dog if you're weird like that
+JoshAtticus: bruh it stopped working
+Discord: theotherhades: @tnix for your cat you know
+JoshAtticus: sdfgdfgSFDgdfg
+JoshAtticus: ghDFgfdg
+Discord: theotherhades: 110%
+JoshAtticus: wait what when was right shift linebreak!?!?!??!
+Discord: tnix: why would you buy multiple of Meower Orange?
+JoshAtticus: No, 99%
+
+Discord: theotherhades: 80% shipping fee
+Discord: theotherhades: @JoshAtticus#0000 the shipping fee should be a percentage though so the more the buy the more they pay
+JoshAtticus: Because we need to send you a physical activation key letter thing
+JoshAtticus: Include the $139 shipping fee
+Discord: tnix: @theotherhades ah true, $29.99, with some tax "for payment processing" (but they actually already have to pay for payment processing anyway)
+JoshAtticus: **$2900
+JoshAtticus: @theotherhades **$290
+Discord: theotherhades: *$29.99
+Discord: theotherhades: (hint: it actually is)
+JoshAtticus: lmao linebreaks just worked
+Discord: theotherhades: $29 so we trick people into thinking it isn't actually $30
+JoshAtticus: @tnix yes
+Discord: tnix: *be smarter
+Discord: ShowierData9978: (monthly)
+JoshAtticus: >>> babe <<<
+Discord: tnix: nah, we better smart than musk, we keep it at the original $20, more profit
+Discord: theotherhades: @Tnix (NZDT) can you answer my question in #general babe
+Discord: ShowierData9978: B
+ b
+b
+b
+B
+JoshAtticus: that'll be $8 thanks
+Discord: tnix: and 50% less ads
+Discord: tnix: @theotherhades exactly
+Discord: tnix: A
+a
+a
+a
+a
+A
+Discord: theotherhades: and you get the verified tick with meower orange ofc
+JoshAtticus: Hello
+Discord: ShowierData9978: a
+a
+a
+a
+a
+JoshAtticus: it won't let me
+Discord: theotherhades: ****
+JoshAtticus: how do i make a line break
+Discord: ShowierData9978: /j
+Discord: theotherhades: MEOWER ORANGE
+JoshAtticus: @tnix lmao
+Discord: ShowierData9978: lock
+Discord: tnix: List of cool ideas for meower:
+
+-post editing (for Meower Orange subscribers)
+Discord: ShowierData9978: caps lokc
+Discord: theotherhades: lmao
+JoshAtticus: aoihuihrugsdrg
+JoshAtticus: WHAT IS WRONG WITH SHIFT KEY
+JoshAtticus: imagine editing that post though
+Discord: theotherhades: @joshatticus add sell to elon musk
+JoshAtticus: I accidentally pressed enter
+Discord: theotherhades: although i rarely need to use either
+Discord: theotherhades: yeah isinstance is better than type
+JoshAtticus: **@tnix lmao
+JoshAtticus: lmao
+Discord: tnix:  [image.png: https://go.meower.org/2a53ad6d]
+Discord: theotherhades: https://typescripttutorial.net
+JoshAtticus: who is "them"
+Discord: ShowierData9978: true
+Discord: theotherhades: that's the ts tutorial i'm doing complain to them not me
+Discord: tnix: isinstance better
+Discord: ShowierData9978: just do if not type (...) == ...: raise TypeError
+Discord: theotherhades: i think i'm in love with typescript
+JoshAtticus: more than I can do in python or whatever that is
+Discord: theotherhades: 🤯 woah [image.png: https://go.meower.org/887fd91f]
+JoshAtticus: I went to it
+JoshAtticus: Imagine going to https://www.youtube.com/watch?v=
+Discord: ShowierData9978: that's what makes meower, meower
+JoshAtticus: i like meower essentially being a livechat platform, you get to talk with people in real time
+Discord: ShowierData9978: still gonna be there
+JoshAtticus: or will it turn into twitter
+JoshAtticus: what will happen to meower live chat home thing
+JoshAtticus: really?
+Discord: ShowierData9978: meh, its exciting for all of us anyway
+JoshAtticus: my reaction to forum announcement caused all of this
+JoshAtticus: :(
+JoshAtticus: :9
+Snx: i actually have to go now too so cya guys
+Discord: cat: w
+Snx: @Bloctans gn
+Bloctans: gn
+Discord: cat: mar io
+Snx: @cat what is this xD
+Snx: hello i have returned
+Discord: cat:  [IMG_4535.png: https://go.meower.org/6dcbeea1]
+Snx: @Snx a veggietales reference that very obviously fell flat
+Snx: @Bloctans the wiggly turtle tubies /ref
+Discord: theotherhades: @ShowierData9978 ping
+Bloctans: /hj
+Bloctans: guys i wrote a python webserver
+here is the showcase:
+🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
+Snx: @Bloctans haha yeah youre right i cannot code at all
+Bloctans: you dont know backend
+Snx: @Bloctans so do i
+Bloctans: i wanna be involved
+Snx: oh wait im probs not involved xD
+Snx: are we? if so for what?
+Bloctans: @ShowierData9978 like?
+Discord: ShowierData9978: we are doing masive planning right now....
+Snx: *exists*
+Snx: cya
+Vetzla: anyway im gonna take a python course for meowstream, ok later
+Vetzla: yeah that
+Snx: @Vetzla yay sgerb spokesperson
+Vetzla: nah ill just be like an intermediary
+Snx: @Vetzla i honestly dont know but i do know i wont be getting one anytime soon so i guess i am officially cut off from sgerb
+Vetzla: why dont you have an email
+Snx: ARGHHHHHH I CANT BECAUSE IT WONT LET ME USE TEMPAIL
+Vetzla: @Vetzla right, that you take a frame and convert it into an array of hex values for each row of pixels, which the server sends to meowstream to convert it to a video
+Vetzla: @Snx gamejolt.com
+Vetzla: anywag what was i saying about meowstream
+Snx: okay what is the gamejolt website?
+Vetzla: to join the group chat
+Vetzla: yeah but you need a gamejolt account
+Snx: @Vetzla uh not yet thats why i need the link
+Vetzla: do you have a gj
+Snx: top liechtenstein is my friend because of his beautiful sense of humor and his brain that actually works as opposed to mine
+Vetzla: ok im back
+vehtzedlaa: UNFORGIVAVLE MISTAKE!!! btw vetzla, YOU ARE A POO
+Snx: @vehtzedlaa haha sry i got you banned at one point xD
+vehtzedlaa: right weong accoubt
+Vetzla: @Snx brb
+Vetzla: so you take a video and you split it into frames (and an audio track)
+Snx: @Vetzla vetz can i get a link to gamejolt for sgerb
+Vetzla: ok i think i might have an idea on how to get streameower working
+Snx: @zedthehedgehog yeah i read that stuff, i was just unaware that he got temp banned and i still dont know why
+zedthehedgehog: specifically the two regarding -12 accounts and the future of Meower
+zedthehedgehog: there's some important stuff about Meower
+zedthehedgehog: @Snx MD got temp banned, please just read forum announcements
+Vetzla: brb
+Vetzla: to figure out cloudlink
+Vetzla: anyway ill turbowarp a little
+Snx: i dont even know whats happening at this point
+Discord: ShowierData9978: temp banned
+Snx: @ShowierData9978 i thought he got banned?
+Discord: ShowierData9978: md will still be here
+Snx: meower isnt gonna be the same without md though
+Vetzla: yeah its just a tech demo
+Bloctans: @Vetzla ngrok
+Bloctans: streammeower:
+bad video quality, 480p max res
+Vetzla: i just need a server
+Vetzla: yeah ill use pen
+Vetzla: maybe ill use pen for rendering
+Vetzla: yeah that res is perfect
+zedthehedgehog: @Vetzla *480x360
+Vetzla: maybe less, maybe more, maybe audio support
+Vetzla: ok SO ill try to find a way to stream a 300x300 video on scratch
+Discord: ShowierData9978: @CST1229 (CET) (Svelte Guy)
+Snx: @zedthehedgehog rip original meower
+zedthehedgehog: Scratch Meower is officially retired
+Vetzla: anyway your bot will live on
+Snx: i am going to be very lonely without md, who is one of my best friends
+Vetzla: wait why did you get banned
+Vetzla: rip M
+MDWalters125: ok i won't use meower anymore
+zedthehedgehog: You're ban evading
+MDWalters125: please
+MDWalters125: ok
+zedthehedgehog: It's about the future of Meower
+zedthehedgehog: Please go here - https://forums.meower.org/t/from-mikedev-ccd-from-discord-important/383
+Vetzla: ok im at phone
+Snx: @Vetzla i think its gonna be a meower alternative that will allow people under 13
+Vetzla: whats gocial
+Snx: @Bloctans when is gocial xD
+Bloctans: or something
+Bloctans: USE GAME JOLT
+Snx: yeah hopefully i dont lose md, one of my best friends on the planet. to b6
+Discord: ShowierData9978: send the dm
+Bloctans: if b6 is delayed by about a year and 3 months then ill be able to continue on with meower
+Snx: however, an alternative called gocial is being made according to md?
+Snx: @Vetzla the news that people under 13 will no longer be allowed on meower after b6
+Bloctans: @ShowierData9978 wdym
+Vetzla: sorry my backspace and double u are broken
+Discord: ShowierData9978: its good, b6 is delayed by alot
+Vetzla: hy sis everyone depressed
+Snx: oh man i think the news has depressed most of meower
+Bloctans: @ShowierData9978 ok, please dont make me more depressed
+Vetzla: ok
+Snx: hey who wants to be in the firefox club? criteria is that you have to use firefox a majority of the time
+Discord: ShowierData9978: bloc look at fourms (im going to dm u)
+Bloctans: @Vetzla idk send a array of pixels
+Vetzla: trna get nyan cat
+Vetzla: meowstream
+Bloctans: @Vetzla why
+Bloctans: but im sad
+cuz now even if i switch to github to interact with meower people, no one will talk to me
+Vetzla: do you kno hovv to cloudlink sto stream video
+Bloctans: idk
+Vetzla: whats going on ith joshatticus
+JoshAtticus: i'm going to go vent to kids helpline or something
+JoshAtticus: ugh i don't even look different on my laptop camera, why is everyone giving me so much attention
+JoshAtticus: I can't think when I'm stressed out
+JoshAtticus: **one worry on my
+Vetzla: ok i vvanna kno howw to stream video using cloudlink
+JoshAtticus: well assuming it does happen, that's one of my humongous list of worries gone
+JoshAtticus: oh mike posted it
+zedthehedgehog: Mike will probably be reposting the announcement in full on the forums
+JoshAtticus: **your
+JoshAtticus: no, why would you rewrite meower just to keep an annoying tween who vents his entire life on my platform, aka me
+zedthehedgehog: We have decided to rewrite Meower from the ground up.
+JoshAtticus: wait who's that?
+JoshAtticus: ugh everytime age is discussed on meower, I am reminded of everything that is stressing me out
+JoshAtticus: That 20-25 minute break felt like an hour
+MDWalters125: i don't deserve to be on meower
+MDWalters125: i just wanted to say i'm legit sorry for my actions
+MDWalters125: anyway
+Discord: ShowierData9978:  [image.png: https://go.meower.org/77409873]
+Discord: zedthehedgehog: I don't remember BlockPoint sorry
+Discord: ShowierData9978:  [image.png: https://go.meower.org/2ade186f]
+Discord: zedthehedgehog: who
+Discord: zedthehedgehog: >
+Discord: ShowierData9978: do you know BlockPoint, because i just found there discord acc
+Discord: zedthehedgehog: @JoshAtticus#0000 bye josh
+Discord: zedthehedgehog: anyway
+Discord: zedthehedgehog: I get a little carried away with cats lol :P
+Discord: zedthehedgehog: I love her eyes
+Discord: zedthehedgehog: i love her
+Discord: zedthehedgehog: @ShowierData9978 man your cat is so **** CUTE
+Apple: NOT YOU AGAIN
+JoshAtticus: dang i gtg, I'll be back in about ~20-25 minutes
+JoshAtticus: she looks a lot like my cat, same colour of fur, same colour of eyes, thin (when standing)
+Discord: ShowierData9978: alot more recent of a photo [image.png: https://go.meower.org/f405e7ef]
+Discord: Semisol: I think we might need a massive rewrite of Meower
+zedthehedgehog: your cat reminds me of my sister's kitten
+Discord: Semisol: cute
+JoshAtticus: omg she's so cute!!!!
+zedthehedgehog: *that's so cute!!
+zedthehedgehog: @ShowierData9978 Awww that
+Discord: ShowierData9978: same day as the last one [image.png: https://go.meower.org/74400a1a]
+JoshAtticus: he would always brush against my legs and act all cute around me
+JoshAtticus: i still refuse to accept it
+JoshAtticus: (my aunty's cat passed away)
+Discord: ShowierData9978: old img but alot less blury [image.png: https://go.meower.org/245751c8]
+JoshAtticus: I was going to say I could take pictures of my aunty's cat, but then I realised the sad truth I still won't accept
+Discord: ShowierData9978: i need to take more photos of my cat
+Discord: zedthehedgehog: like a randomized thing
+JoshAtticus: I have cat pics already
+Discord: ShowierData9978: yeah lol
+Discord: zedthehedgehog: we need pictures of all of the team's cats to put on the 404 page
+JoshAtticus: is she a russian blue cat?
+JoshAtticus: whoops
+Discord: ShowierData9978: she**
+JoshAtticus: he looks like my cat atticus
+JoshAtticus: oh wait second photo just loaded
+Discord: zedthehedgehog: @ShowierData9978 Lmao
+JoshAtticus: I thought it was blanket on a scale lol
+Discord: ShowierData9978: a blurry pic of my cat
+JoshAtticus: @ShowierData9978 What is that
+zedthehedgehog: Please don't before we come to a consensus.
+Discord: ShowierData9978: my room is a mess
+Discord: ShowierData9978: took forever to upload those
+Discord: ShowierData9978:  [IMG_20221115_204103_706.jpg: https://go.meower.org/69027c89] [IMG_20221115_204102_223.jpg: https://go.meower.org/7b42df4a]
+Discord: ShowierData9978: no );
+JoshAtticus: I'll just... leave
+JoshAtticus: It's ok, my parents probably don't even want me on any social media
+Discord: tnix: *COPPA compliant
+Discord: tnix: we're considering how much effort it'll be for being COPPA compliance
+zedthehedgehog: But don't get your hopes up
+zedthehedgehog: And maybe reverting them
+zedthehedgehog: We're currently discussing changes to the policy
+JoshAtticus: ...not
+JoshAtticus: AnD thHEy WilL DeFInteLy be ActIve
+JoshAtticus: OH WeLL We'LL sTiLl hAve thE foRums
+JoshAtticus: This is literally like the discord/revolt situation
+JoshAtticus: **thermal
+Discord: Semisol: @JoshAtticus#0000 ouch
+Discord: ShowierData9978: my cat came in my room
+JoshAtticus: wth is this termal management hp??????
+Discord: ShowierData9978: december prob
+JoshAtticus: OH **** I BURNT MY LEG WITH MY LAPTOP
+JoshAtticus: How long until Beta 6 would be ready?
+JoshAtticus: @tnix Not entirely true, you would just need parental controls
+Onezoop: why is coppa even a concern for yall
+Bloctans: why not make meower jr
+meower but stripped in every way
+Discord: tnix: we could do that, but would stop our ability to grow since everything will have to be safe for kids
+Bloctans: @JoshAtticus roblox isnt really COPPA
+Onezoop: 1984
+Discord: ShowierData9978: roblox is **** tbh
+Onezoop: with lots of money and profit incentives
+Discord: tnix: @JoshAtticus#0000 they're not primarily social sites and have everything safe for kids
+JoshAtticus: how did roblox and scratch do it
+JoshAtticus: surely there's a way to get coppa certified
+Discord: Semisol: also, everything may change, there's still at least a month
+Discord: ShowierData9978: we are thinking of a way to do it like scratch
+JoshAtticus: 😭
+Onezoop: can this get better music?
+Onezoop: RIP
+Discord: ShowierData9978: test server
+Bloctans: GAMEJOLT
+JoshAtticus: how am I going to keep developing if i'm banned though?
+JoshAtticus: I don't want to wait like 1 year and a bit
+Bloctans: *minutes
+Bloctans: i was crying for 10 minuts
+Bloctans: me too
+JoshAtticus: i can't do this
+Discord: ShowierData9978: its not our platform soooooo
+Discord: ShowierData9978: github is fine
+Discord: ShowierData9978: yeah
+Bloctans: *for dev
+Bloctans: or dev
+Bloctans: tnix said that i can continue using githb
+JoshAtticus: meower's like my only place where people actually know me, and where I can talk
+Discord: zedthehedgehog: We want to prevent the problems not wait until they are a problem
+Discord: tnix: but you have to by law, it's very sad
+Discord: tnix: we don't want you to leave either
+Discord: zedthehedgehog: It's better to do it now then later
+JoshAtticus: I don't want to leave
+JoshAtticus: But it isn't at that point yet
+Discord: zedthehedgehog: @JoshAtticus#0000 Continuing with the social media for all ages thing may cause legal issues down the road
+JoshAtticus: 😭😭😭😭
+Bloctans: @JoshAtticus im moving sgerb to GJ
+Discord: zedthehedgehog: Meower is unfortunately not above the law
+JoshAtticus: but aren't you coppa compliant
+Discord: tnix: laws ****, but it has to be done, sorry
+Bloctans: @JoshAtticus I had the idea to move sgerb to GJ
+Discord: tnix: @zedthehedgehog nope, purged, GDPR erasure
+Discord: ShowierData9978: the us Gov
+Discord: zedthehedgehog: COPPA
+JoshAtticus: 😭😭😭
+JoshAtticus: why
+JoshAtticus: 😭😭😭😭😭
+Discord: ShowierData9978:  [image.png: https://go.meower.org/10645290]
+Discord: zedthehedgehog: @zedthehedgehog Sorry, terminated
+Discord: zedthehedgehog: @JoshAtticus#0000 No, it will be banned until you're 13
+JoshAtticus: do I have to delete my account :(
+JoshAtticus: it won't load
+JoshAtticus: 😟
+Discord: zedthehedgehog: It concerns you
+Discord: zedthehedgehog: We need you to read it
+Discord: zedthehedgehog: We're sorry Josh
+JoshAtticus: what is that inbox message
+JoshAtticus: please no
+JoshAtticus: oh no
+JoshAtticus: hi
+Discord: ShowierData9978: dont whois BlockPoint
+yourmother: 🤔 Hmm... it appears the user 'BlockPoint' doesn't exist on meower. Check the capitalization and try again. [error type: 'notFound']
+Bloctans: ok
+Discord: ShowierData9978: Btw, they keep bypassing bloc
+Bloctans: it also has dms, group chats, firesides (basically livestreaming), etc
+Discord: zedthehedgehog: dont whois md
+yourmother: -- MD --
+Username: md
+Is banned: yes
+Quote: I'm @m's alt
+Created: 2022/08/26 at 09:52:38 (this is a bit broken lol)
+Discord: zedthehedgehog: @mod ban md
+md: but why i'm not gamer
+Bloctans: md just join gamejolt
+Discord: tnix: dont whois MDWalters124
+yourmother: -- MDWALTERS124 --
+Username: MDWalters124
+Is banned: yes
+Quote: Furry on Meower, UwU
+Created: 2022/04/04 at 13:16:16 (this is a bit broken lol)
+Discord: zedthehedgehog: @MDWalters124#0000 We're not going to get angry, we're just gonna laugh at you lmao
+Discord: Semisol: if you were going to do actual things you would have done it
+MDWalters124: @Semisol i will stop trying to go on a meower domain
+MDWalters124: haha lol wait until i do demonstration MEOWER TEAM GONNA GET ANGRY
+Discord: tnix: it's not really exploiting though, you're literally just ban evading
+Discord: tnix: and as Semisol said, not properly disclosing vulnerabilities will result in immediate IP ban, but since they're fake I guess nothing will happen anyway
+Discord: zedthehedgehog: @Semisol exactly
+Discord: zedthehedgehog: @MDWalters124#0000 okay
+Discord: Semisol: no one is falling for it just stop trying
+MDWalters124: fun fact: it's literally so easy to exploit the bridge btw
+Bloctans: @MDWalters124 gamejolt.com sign up
+Discord: zedthehedgehog: but judging by how you're "exploiting the bridge" and nothing is happening, I'm led to believe they are fake
+Vetzla: this is chaos
+MDWalters124: anti-furry
+Discord: zedthehedgehog: If these exploits are real you're just helping meower honestly, helping us patch vulns
+Discord: zedthehedgehog: If you can't well there is no exploit
+Discord: zedthehedgehog: Show me the code
+Discord: zedthehedgehog: @MDWalters124#0000 What exploit? The fake one you made up?
+MDWalters124: m is not online
+Bloctans: m check sgerb gc
+MDWalters124: great! almost done exploiting the bridge!
+Discord: zedthehedgehog: @MDWalters124#0000 so, anti-meower, what's good?
+MDWalters124: so, anti-underagers, WHAT'S UP?
+Bloctans: @Vetzla check sgerb gc
+MDWalters124: @Semisol i never knew you guys test it lol
+Vetzla: ok
+MDWalters124: yes
+Vetzla: mr letter istg answer the god **** question are you sane
+MDWalters124: i thought you guys just run the code on a server :laugh::laugh::laugh:
+Discord: Semisol: I recommend you calm down before the situation gets worse for you, my 2 cents
+Vetzla: mdwaltuh are you sure you are sane
+Bloctans: well its my only idea (aside from SCRATCH)
+Discord: Semisol: do you think we don't have backups and don't test our code
+MDWalters124: @Semisol omg meower mastermind spoke to me
+Vetzla: we should still have some sort of presence in meower though
+Discord: Semisol: okay have fun "exploiting" meower
+Vetzla: idk
+Vetzla: anywway the 8th billion baby as bornt
+Bloctans: @Vetzla gamejolt
+MDWalters124: @zedthehedgehog well, anti-furry
+Vetzla: whats a jee jay
+Discord: zedthehedgehog: I don't understand
+Bloctans: @Vetzla gj time?
+Discord: zedthehedgehog: @MDWalters124#0000 Why is your comeback always "anti-furry"?
+Vetzla: i made it in koackly or whatever its called
+MDWalters124: fine
+MDWalters124: @MDWalters124 you want exploits
+Vetzla: anyway i made a browser named pizza browser
+MDWalters124: so
+MDWalters124: i live in canada
+Bloctans: @Vetzla i think the law for the uk is <18
+Discord: ShowierData9978: its bound by us laws
+Discord: ShowierData9978: the server is in the us
+Discord: ShowierData9978: its the US law
+MDWalters124: @zedthehedgehog ok then anti-furry
+Vetzla: maybe it doesnt apply to me cuz i live in latam, but all the websites i use comply with coppa
+Discord: zedthehedgehog: that you always say that you have as if it makes us scared
+Vetzla: if you dont stop complaining about coppa
+Discord: zedthehedgehog: What are these "exploits" you speak of
+Discord: zedthehedgehog: With what?
+Discord: zedthehedgehog: Okay
+Vetzla: m i swear to god ill call you letter like back in october
+MDWalters124: @zedthehedgehog time to exploit!
+Discord: zedthehedgehog: Yes
+Vetzla: isn't it 13
+Vetzla: wait whats the minimum age for coppa
+Discord: zedthehedgehog: @MDWalters124#0000 You'd be surprised on the work that we've done but if you weren't underaged you'd actually be able to see that on the discord
+what a shame
+MDWalters124: and is now on forums
+MDWalters124: for 3 days
+MDWalters124: banned
+Vetzla: what happened to the roblox kid that was (barely) in the meowstream dev team
+Discord: ShowierData9978: idk
+Discord: tnix: @ShowierData9978 who is that guy?
+Discord: ShowierData9978: LOL [image.png: https://go.meower.org/786354d9]
+Discord: zedthehedgehog: @MDWalters124#0000 MD if you don't want to be banned before Beta 6, I suggest you calm down
+Discord: tnix: @zedthehedgehog ST don't do a lot about COPPA though, they just make people have to verify their parents email, and that is pretty much all you have to do for COPPA, but a site that is a primarily a social media platform is way more risky to try and follow those COPPA laws
+Bloctans: @Vetzla yeah but it seems like they dont give a ****
+MDWalters124: @zedthehedgehog no, let meower have troubles
+Bloctans: i still wanna make the move
+Discord: zedthehedgehog: Meower HAS to be this way or else we'll run into troubles later down the road
+Vetzla: yeah but doesn't gamejolt also comply with coppa?
+Discord: Semisol: ~~unless we're talking about my creative mc server where I am above everyone else~~
+Discord: zedthehedgehog: I don't understand how people don't get that Meower is not above the law
+Discord: ShowierData9978: its not til b6 the TOS changes are in place
+Vetzla: rip roblox888i
+Discord: Semisol: we aren't above the law
+Bloctans: im underaged, md is underaged, josh is underaged
+Vetzla: i know cuz of the tos, but why arent we staying tos or not?
+Vetzla: yeah lets gamejolt, but why are we moving?
+Vetzla: or the same idk, i skipped side classe
+Bloctans: sign up for gamejolt lets use that
+Vetzla: my man, i live in the other side of the owrld
+Vetzla: IRL?
+Discord: ShowierData9978: you got 2 W`s there
+Bloctans: i mean we could do discord but nah
+gh discussions?
+IRL?
+gamejolt?
+Vetzla: now i either get no Ws or three Ws
+Vetzla: btw my w key broke
+Vetzla: do we move to
+Vetzla: AND WWWHERE
+Discord: zedthehedgehog: @tnix Yeah, I hate to say this but we should've listened to the ST when they were asking us about the legality and COPPA and stuff
+MDWalters124: ok
+Bloctans: @Vetzla im here
+Vetzla: @Bloctans im online, now YOU get online
+MDWalters124: e
+MDWalters124: roblox kid back on forums
+Vetzla: but what are wwe moving about sgerb
+Discord: tnix: yeah, there's a reason why every other social media website has the 13+ rule, and it's COPPA, it really ****s
+Discord: zedthehedgehog: @Vetzla#0000 Just without ads, tracking, selling data, premium subscriptions, etc.
+Vetzla: yeah i read that
+Discord: ShowierData9978: https://forums.meower.org/t/tos-update-concerning-users-under-13-meower-roadmap/374/8?u=showierdata9978
+Vetzla: so meower's any other social media website now?
+Vetzla: i read the tos changes, but what are we moving exactly
+Discord: tnix: @Vetzla#0000 we updated rules about underaged people because of COPPA
+Vetzla: but what happened
+Vetzla: @Bloctans yeah move sgerb
+Vetzla: anyway what do you think of pizza browser
+MDWalters124: @PenguinBot ok
+Vetzla: what
+PenguinBot: MDWALTERS HATES TNIX
+Vetzla: wwwhat happened
+Vetzla: hat happened
+Vetzla: @Bloctans HOLY CRAPPY **** **** COW
+MDWalters124: didn't you say you gtg?
+Discord: tnix: idk their bday, but they are 12 I'm pretty sure
+MDWalters124: @ShowierData9978 20
+MDWalters124: @Snx i use firefox on chromebooks
+Discord: ShowierData9978: ?
+Discord: ShowierData9978: how old is josh, and what is there bday>
+MDWalters124: bye
+Snx: gtg cya
+Discord: tnix: also wonder when Josh will be on to see the disappointing news
+MDWalters124: @Bloctans vetzla is now online
+MDWalters124: @ShowierData9978 C R O S T I N I
+Discord: ShowierData9978: i use it as my main too
+Discord: tnix: @Snx#0000 I use it as my main browser, let me in
+Discord: ShowierData9978: yeah,  i wish i could use FF on chromebooks
+MDWalters124: @tnix bye
+Snx: WHO WANTS IN YOU HAVE TO USE FIREFOX MOST OF THE TIME TO GET IN
+Discord: tnix: I should go now, cya
+MDWalters124: but on oses other than chrome os i use firefox
+MDWalters124: says chromebook user
+Snx: coming up
+MDWalters124: yes
+Discord: ShowierData9978: yes
+Snx: should i make a firefox club gc
+Discord: tnix: I like firefox, only issue I have is not being able to switch profiles
+Discord: ShowierData9978:  [image.png: https://go.meower.org/cc3afedd]
+Discord: ShowierData9978: i agree
+Snx: @zedthehedgehog firefox is epic B)
+MDWalters124: *dry laugh*
+MDWalters124: @zedthehedgehog haha lol
+Snx: @MDWalters124 that sounds interesting
+Discord: zedthehedgehog: lmao I just noticed how you can infinitely resize the firefox pip window
+MDWalters124: helloitsme, me, and bloctans will be making gocial
+Snx: @MDWalters124 ???
+MDWalters124: @Snx gocial
+Discord: ShowierData9978: @Snx#0000 you can use github to contact
+Snx: just logged in and saw the announcement, i really dont wanna lose md because of this
+MDWalters124: @ShowierData9978 what i see in the end of the post is *shit* in my vocabulary
+MDWalters124: i can do something
+Discord: ShowierData9978: you can also just point an ngrock conn at cf 💩
+Bloctans: @MDWalters124 true, but theres nothing we can do
+MDWalters124: anti-underage chat
+Discord: ShowierData9978: like mike did before the meower domain name (i think)
+Discord: ShowierData9978: bots
+Discord: ShowierData9978: that updates using botd
+Discord: Semisol: there's also other alternatives so that's nice, worst case we run a test server
+Discord: ShowierData9978: and you can make a repo with the URL
+Discord: ShowierData9978: ngrock has a free plan
+Discord: Semisol: like forwarding http
+Discord: Semisol: ngrok doesn't cost money for very basic features
+Bloctans: @Semisol i dont have money
+MDWalters124: meower mastermind's suggestion
+Discord: Semisol: 👍
+Discord: Semisol: @Bloctans#0000 you use ngrok to make the test server public
+Bloctans: @ShowierData9978 ok but how do i test with the bm team or you guys
+Discord: ShowierData9978: not really
+MDWalters124: ok
+Discord: ShowierData9978: it is foss after all
+Discord: ShowierData9978: we literally cant stop you running a test server lol
+Discord: ShowierData9978: turn them off then MD
+Discord: Semisol: yeah, you can, you can also run a test server
+Bloctans: atleast i can still do dev
+MDWalters124: you guys are filling up my notifications like ****
+Discord: ShowierData9978: not the gov
+Discord: ShowierData9978: parents should be the one to parent there child
+Bloctans: *move
+Bloctans: im gonna fall into a depression if sgerb doesnt moe to another site
+Discord: ShowierData9978: ye, i agree
+Discord: zedthehedgehog: If COPPA didn't exist, this wouldn't happen lmao
+Discord: zedthehedgehog: Yeah
+Discord: Semisol: Meower is run by us and not you, and we decide what happens. Also, it's not us being anti underage lol, this is government bull****
+zedthehedgehog: *shitr
+zedthehedgehog: @MDWalters124 Gocial will eventually have the same fate as us, with COPPA and shut
+MDWalters124: anyway, have to go gocial
+MDWalters124: we underage have the right to be online, OK?
+helloitsme: @Bloctans @MDWalters check gc please
+zedthehedgehog: Okay
+MDWalters124: @zedthehedgehog ok anti-underager
+Discord: zedthehedgehog: @zedthehedgehog We have to do this
+Discord: zedthehedgehog: @MDWalters124#0000 It's because of the literal LAW Meower is not above the *LAW*
+MDWalters124: what are we talking about, anti-underagers?
+Discord: ShowierData9978: wait what
+MDWalters124: :smile:
+MDWalters124: what are we talking about, anti-underagers?
+Discord: zedthehedgehog: @itsakuro yeah it doesn't work on mobile, sorry
+Discord: itsakuro: @zedthehedgehog Ah
+Discord: itsakuro: Not responsive, noted [Screenshot_20221115-194110.png: https://go.meower.org/58ce4357]
+Discord: zedthehedgehog: (ignore non-simvoni, I messed up font link)
+Discord: itsakuro: @zedthehedgehog k
+Discord: tnix: @zedthehedgehog my biggest complaint with it is it's all in one file and not very well structured
+Discord: zedthehedgehog: or here: https://new-website.meower-website.pages.dev/
+Discord: ShowierData9978: hosting be like
+
+https://http.meower.org/402.jpg
+Discord: zedthehedgehog: @itsakuro it's in the b6-design or whatever branch in meower-website
+MDWalters124: me too
+Discord: itsakuro: @zedthehedgehog dm it to me
+Discord: itsakuro: @zedthehedgehog epic
+MDWalters124: you don't want insecure social media
+MDWalters124: @tnix *https
+Discord: zedthehedgehog: I made it in HTML but it's **** and I need you to finish it
+Discord: tnix: we're kind of going in the opposite way of 101, we're going from ws to more http
+MDWalters124: @Semisol meower mastermind making decisions
+Discord: zedthehedgehog: @itsakuro Yes
+Discord: itsakuro: Also if I'm correct we're using the website design I made too?
+Discord: ShowierData9978: b5 to b6 is like ws to ws with alot more http
+Discord: Semisol: @ShowierData9978 but it's still not
+Discord: tnix: @ShowierData9978 no wait [image.png: https://go.meower.org/439193a4]
+Discord: ShowierData9978: @Semisol its meant to be meowy related
+Discord: tnix: @ShowierData9978 more like 403
+Discord: Semisol: it represents transitioning from http to ws
+Discord: Semisol: 101 switching protocols isn't suposed to be b5 to b6
+Discord: itsakuro: **** lmao
+Discord: ShowierData9978: people under 13 during b6 
+
+https://http.meower.org/423.jpg
+Discord: Semisol: you can use a test server
+Bloctans: @Semisol no thats like in a year
+Discord: tnix: you can still develop stuff and contribute in the GH, just no using meower.org services
+Discord: itsakuro: @zedthehedgehog I made some a while ago with an edited Meowy (looked about the same, just recreated in Figma)
+Discord: Semisol: you can still work on meower, and you are welcome to come back when you're no longer underage
+Discord: zedthehedgehog: @itsakuro ?
+Discord: zedthehedgehog: first time I've seen this in a whil [image.png: https://go.meower.org/988e1735]
+Discord: ShowierData9978: how do i have 21 followers on replit [image.png: https://go.meower.org/0d775146]
+Discord: cat: can I be invited to the gocial stuff
+Discord: itsakuro: Are we still using the Meower error page designs I made before William tampered with them
+Discord: Semisol: as I said we are banning underage users because we don't want to get into trouble with the law
+Bloctans: i feel like ill be banned off meower
+Bloctans: *gocial
+Bloctans: @helloitsme can we use something else for glocial chatting
+helloitsme: @MDWalters124 I’m gonna invite rn
+MDWalters124: i didn't get invited
+helloitsme: Must*
+helloitsme: OK EVERYONE INVITED TO GOCIAL MIST JOIN GOCIAL GROUP CHAT (sorry caps e)
+Discord: ShowierData9978: you cant create accounts with VPNS
+MDWalters124: for now on i will call you meower mastermind
+Discord: Semisol: we will also block VPNs, of course
+MDWalters124: @Semisol so you are the meower mastermind i see
+helloitsme: @Bloctans https://github.com/oofy123/Gocial
+Discord: Semisol: now that I have joined the team you will not be able to mess around with Meower anymore
+Bloctans: @helloitsme yeah
+helloitsme: @Bloctans do you want to join gocial yes or no
+Discord: tnix: @Semisol I feel like we should just use CF API to IP ban, like Discord does, it's easier and means no traffic from that IP will hit our servers
+MDWalters124: @tnix vpn to the rescue! *ip banned*
+Discord: ShowierData9978: maybe we should set up a CL to CF ip ban system
+Bloctans: how do i get vetzla online
+Discord: Semisol: so don't even try
+Discord: Semisol: and starting from beta 6 we will fix all IP bans byp****
+helloitsme: Filter glitch below
+helloitsme: *Isn’t*
+Bloctans: @tnix ye
+helloitsme: @MDWalters124 isn’**** weird we have the same bday though
+Discord: tnix: @Semisol and not a **** CL IP block that are easily bypass-able, an IP block within cloudflare so you can never touch our servers again with that IP/range!
+helloitsme: @MDWalters124 lol
+MDWalters124: @Semisol how's that
+MDWalters124: HEY TNIX I FOUND A PROBLEM WITH THE BRIDGE, IT'S PAPER
+Discord: cat: @Semisol I disclose that I will abuse exploits in the next 10 years /j
+helloitsme: @helloitsme cuz I wanted to make minecraft 2
+helloitsme: Is it weird I learned to code at 5
+Discord: Semisol: I would like to tell you that the abuse of exploits without responsible disclosure is an instant IP ban
+MDWalters124: how do we create....
+MDWalters124: i say we do it in node /hj
+MDWalters124: i say we do it in node /hj
+Discord: ShowierData9978: 15yo in December moment
+PenguinBot: birthday moment
+Discord: tnix: @Bloctans#0000 don't you have to develop Gocial first lol
+helloitsme: @MDWalters124 Y E S 
+MDWalters124: @helloitsme omg we share birthdays!
+helloitsme: That’s why I thought it was weird MDWalters124 
+Bloctans: VETZLA PLEASE COME ONLINE SO WE CAN MOVE SGERB
+helloitsme: @tnix for me it’s a few year but my bday is august 4th too
+MDWalters124: at the pace of beta 6 i'd be able to still use meower
+Discord: tnix: @MDWalters124#0000 oh, so like 10 months or something until you can use Meower again, rip
+Discord: ShowierData9978: rip
+262 days
+helloitsme: @MDWalters124 go in gc pls
+PenguinBot: @helloitsme y
+helloitsme: @MDWalters124 WHAT
+MDWalters124: @ShowierData9978 august 4
+helloitsme: @PenguinBot a
+Discord: ShowierData9978: MD whats your bday?
+helloitsme: @PenguinBot y/n
+PenguinBot: nope, i was just messing with you guys
+helloitsme: @PenguinBot ai bot
+helloitsme: Penguin bot is not bot?????
+PenguinBot: well they can now!
+helloitsme: Talk
+helloitsme: @PenguinBot woah what bots cant
+MDWalters124: ok
+helloitsme: You don’t have to answer that question 
+PenguinBot: somebody is shy :flushed:
+helloitsme: I’m just asking so I could maybe invite you to- I already did nvm
+helloitsme: @MDWalters124 probably true
+MDWalters124: @zedthehedgehog pov: it goes down to 20
+Bloctans: where is velzla
+helloitsme: @Bloctans if it helps you can join gocial
+helloitsme: @Bloctans it’s ok.
+Discord: zedthehedgehog: @tnix it'll go from 1827 to like 427
+Bloctans: IM still sad i wanna continue using meower
+helloitsme: @tnix Beta 5 security vulnerability all over again but not
+Discord: tnix: it'll be like a database wipe but without actually having a database wipe
+helloitsme: @tnix I know bloc is
+MDWalters124: @zedthehedgehog e
+Discord: tnix: @helloitsme#0000 most people lol
+helloitsme: Anyone?
+Discord: zedthehedgehog: and this one that aggravates me because it has 2 grammar errors [434876852_9000x7200.gif: https://go.meower.org/10e57f53]
+helloitsme: @helloitsme me
+helloitsme: Who here is under 13
+Discord: itsakuro: Meower was my inspiration to make Smiley before I even knew y'all
+Discord: itsakuro: @zedthehedgehog THAT REMINDS ME
+MDWalters124: @zedthehedgehog yes
+MDWalters124: me when -1 seconds ago
+Discord: zedthehedgehog: lmao remember this [CopyofCABLES.gif: https://go.meower.org/794cc873]
+helloitsme: Long live meower.
+MDWalters124: @helloitsme ok
+helloitsme: https://github.com/oofy123/Gocial
+helloitsme: @MDWalters124 join gocial pls (ur already helping me with it)
+helloitsme: @MDWalters124 Meower is gonna terminate users below the age of 13 soon cuz coppa
+MDWalters124: hi
+Discord: itsakuro: same as my meower username
+helloitsme: @itsakuro hang on
+helloitsme: @itsakuro what’s ur GitHub user
+Discord: itsakuro: ok
+helloitsme: @itsakuro GitHub
+Discord: itsakuro: @zedthehedgehog o
+h
+Discord: zedthehedgehog: judging by their reaction to the 13+ thing
+helloitsme: @itsakuro GitHub 
+Discord: itsakuro: Gocial seems interesting but idk much about it
+Discord: zedthehedgehog: @itsakuro They're underage
+Bloctans: im still sad
+Discord: itsakuro: @helloitsme lmao do you have a real mean of contact and not the Meower bridge
+helloitsme: Who wants to help with gocial
+Discord: tnix: @helloitsme#0000 yup, it is
+Discord: zedthehedgehog: @zedthehedgehog on scratch
+Discord: cat: @itsakuro feel like helping
+Discord: zedthehedgehog: let me guess there's still people attempting similar meower projects in collaboration forums as we speak
+helloitsme: @tnix idk (fun fact: Meower is one of them lol)
+Discord: itsakuro: @helloitsme epic
+axestudios: Meowy should be over 13 in cat years /j
+Discord: zedthehedgehog: ikr
+Discord: tnix: why is there so many random social media sites now lmao
+helloitsme: @tnix a
+helloitsme: @itsakuro oh I want to help!
+helloitsme: @itsakuro cool what is it for
+Discord: itsakuro: basically if you combined twitter, stackoverflow and a minimal code editor that's what It is
+Discord: tnix: @helloitsme#0000 I didn't see them online
+Discord: zedthehedgehog: @itsakuro that's cool
+Discord: itsakuro: Yeah
+Discord: cat: @itsakuro are you making it
+helloitsme: I NEED MDWALTERS124 ONLINE AAAA
+Discord: itsakuro: @cat social media for developers type of thing but it's not just a social media
+helloitsme: What 
+Discord: cat: @itsakuro what's codemunity
+Discord: itsakuro: y'all does anybody wanna help me with codemunity 😭
+helloitsme: @cat I already did. It’s just getting cleaned up right now
+Discord: cat: @helloitsme You should make a github org for it
+helloitsme: https://github.com/oofy123/Gocial @Bloctans @itsakuro
+Discord: itsakuro: i starred the repo and followed you
+Meowy: what zed said
+helloitsme: @itsakuro hi
+helloitsme: I wasn’t joking when I said it was brand new
+Discord: itsakuro: @helloitsme hi
+helloitsme: I set up the original repo wrong
+helloitsme: https://github.com/oofy123/Gocial Sorry it took a while
+Bloctans: cat can you ask vetzla to move sgerb to another site we can actually use for chatting
+Discord: itsakuro: @zedthehedgehog 💀
+axestudios: Oh wow this is some serious discussion ☕
+Discord: itsakuro: oh k
+helloitsme: Just note: it’s brand new
+Discord: itsakuro: kk
+helloitsme: BRB gotta go get it
+Discord: itsakuro: gib repo link
+Discord: Semisol: the goal is to be able to reduce the impact of false positives by requiring extremely high confidence for any automated tempmutes until review, and using it primarily to prioritize reports/apply temporary actions if there are multiple violations
+helloitsme: @zedthehedgehog Yes
+Discord: itsakuro: i am, someone else i know is, etc
+Bloctans: what
+helloitsme: @Bloctans 
+zedthehedgehog: @helloitsme Is there a repo on it?
+Discord: itsakuro: lmao everybody's working on a social media atp
+axestudios: @Bloctans ur under 13?
+helloitsme: @itsakuro new social media thing I guess
+Bloctans: im already sad, and no access to meower will make me depressed as hell
+Discord: itsakuro: @helloitsme whats gocial?? sounds interesting 👀
+Discord: Semisol: there's false positives and false negatives
+helloitsme: @Bloctans if you want you can come help me with gocial
+Discord: Semisol: AI filtering can't just pull out "bad" posts, you need a balance
+Discord: tnix: @Semisol especially now since we can't use posts from people under the age of 13
+helloitsme: ok
+Discord: Semisol: for AI filtering we already have Pythia, it's in development, since we don't have any reasonable dataset to train and test on yet
+helloitsme: @Bloctans wait
+Discord: itsakuro: @Bloctans ****
+zedthehedgehog: @tnix Exactly, we have no legal team whatsoever and lawyers cost a ****ton
+tnix: @axestudios and a ton of other people, it's going to be sad
+helloitsme: @Semisol I choose to comply.
+Discord: itsakuro: tbh i see coppa's goal i just hate how it is
+Bloctans: well time to fall into a depression for 2months /srs
+axestudios: Oh wow md will get banned
+Discord: Semisol: you either comply with COPPA or you don't, and the 1st option requires more resource investment
+Discord: Semisol: you don't
+tnix: we can't afford having any legal issues, if Meower were to get in legal trouble because of something like COPPA then we're dead anyway
+zedthehedgehog: Meower isn't above the law
+helloitsme: How do I protect my platform from this
+zedthehedgehog: COPPA is... the law
+Discord: itsakuro: hi
+helloitsme: @Semisol bruh coppa bad
+Discord: Semisol: but we can't do anything about it
+Discord: Semisol: this is the issue
+Discord: Semisol: > its literally all about protection, they think we have the maturity of a 5 Y.O
+helloitsme: @tnix what no
+helloitsme: @helloitsme I’m still working on it
+tnix: @helloitsme using children's data... yeah that's not great
+Bloctans: its literally all about protection, they think we have the maturity of a 5 Y.O
+helloitsme: The ai goes through lots of training.
+Discord: Semisol: it's going to be difficult
+Discord: Semisol: to be honest parental controls isn't as easy as you think
+Discord: Semisol: @tnix#0000 possibly yeah tnix
+helloitsme: I can probably make parental controls and so trained chat filter
+Bloctans: i hate coppa
+tnix: and maybe makes it worse because we're using children's generated content in an AI
+tnix: @helloitsme we will already have Pythia, but it doesn't solve the issue of COPPA
+helloitsme: Nextfilter**
+tnix: @Semisol more than days, since we have to keep up with hiding communities and profiles that we deem not safe for kids
+helloitsme: @tnix hey I have ideas. Parental controls, ai driven chat filter I call nextfiltr
+Bloctans: meower is my life
+Discord: Semisol: it's just at most 5 users that would benefit from this and it would cost us probably days
+zedthehedgehog: But COPPA is too powerful
+zedthehedgehog: We were planning for parental controls
+tnix: I guess another site would be roblox, but they have filters and have issues with COPPA anyway
+Discord: Semisol: well we could but it's so much burden it's not worth it and the teams working on meower would have their time better spent by adding other features
+helloitsme: One question: can’t you just add parental controls
+tnix: we can be compliant like Scratch, but it's a lot harder than that since Meower is primarily a social platform and not a place for kids to learn coding
+Discord: cat: while we're on topic of development stuff
+1. Am I team meower? It's not necessarily clear rn
+2. meower take sgerb????
+helloitsme: @Semisol so you can’t just add parental controls 
+Discord: Semisol: I know that this is sad but we can't do anything about it, we need to add other features
+helloitsme: @ShowierData9978 Meower GitHub here I come
+helloitsme: @ShowierData9978 YAYA
+helloitsme: Good news for bloc but what about me
+Discord: ShowierData9978: you can still talk lol (via github)
+Discord: Semisol: this had to be done because we do not have the resources for keeping the platform safe for <13 users and implementing everything required to comply with COPPA and provide parental controls
+Bloctans: what about sgerb dev
+Discord: Semisol: and you can use a test server, I guess
+tnix: @Bloctans you can continue to develop, you can't use Meower services (or at least not know you're using them), we have to terminate any accounts we find are owned by people under 13
+zedthehedgehog: I'm ver very sorry.
+Discord: ShowierData9978: rip
+helloitsme: @Bloctans don’t worry. We will find somewhere to be
+zedthehedgehog: @helloitsme Hoping for around December
+helloitsme: @tnix beta 6 release date please
+Bloctans: its not just sad, i think im gonna be going into depression
+Discord: ShowierData9978: thats after b6 btw
+tnix: yeah, 7 days after we send out notifications will it happen, it's sad
+helloitsme: Sad but in a few years I shall return
+Bloctans: why tho, like im a big part of maintaining svelte
+helloitsme: @ShowierData9978 ik
+Discord: ShowierData9978: not til B6
+helloitsme: @tnix Bye. It was nice knowing you and Meower 
+Discord: cat: 0.7 should just be 1.0 imo
+helloitsme: Gocial = go social/ game social
+Discord: tnix: sgerb social
+helloitsme: @Bloctans you can develop at gocial if you want
+Bloctans: i cant continue to maintain svelte
+helloitsme: @Bloctans @m
+Bloctans: i have no meaning
+zedthehedgehog: Move to other mediums I presume
+helloitsme: What do we do next?
+helloitsme: I guess
+helloitsme: Beta 6 will ban us
+tnix: @ShowierData9978 have a look at this post before spending a ton of time doing that https://wasteof.money/posts/63662f86c20a476c755c40ac
+Bloctans: im crying rn
+helloitsme: So when does this happen
+Discord: ShowierData9978: i just learned bots a supported there
+Discord: ShowierData9978: i want to port some of my meower bots to wasteof.money lol
+zedthehedgehog: Like a full gdpr type thing
+helloitsme: Ok. I guess I’ll go soon.
+zedthehedgehog: Yes
+tnix: @zedthehedgehog not just perma-banning, terminating, erasing their data
+zedthehedgehog: That means perma-banning any known -12 users
+zedthehedgehog: Yeah
+helloitsme: @tnix oh
+zedthehedgehog: I'm sorry to MD, JoshAtticus, and Bloc but we have to do this for legal reasons
+tnix: @helloitsme we have to ban people under 13 when we make new TOS for beta 6
+helloitsme: @tnix what happened
+zedthehedgehog: so this was inevitable
+zedthehedgehog: I understand it's put in place for lazy parents who don't pay attention
+tnix: COPPA good in someways, but COPPA also ****s
+zedthehedgehog: COPPA sucks absolute **** but whatever
+tnix: yeah, we know it's unfortunate, but we have to because of COPPA
+Discord: ShowierData9978: an annoying thing called COPPA
+Discord: cat: rest in peace
+Bloctans: but im a big part of meower dev
+Bloctans: im under 13 too
+helloitsme: @Bloctans what is it
+Bloctans: @zedthehedgehog WHY
+helloitsme: @zedthehedgehog he had to go
+zedthehedgehog: It may concern you
+zedthehedgehog: @MDWalters124 I need you to look at the most recent announcements forum post
+helloitsme: @helloitsme how did he
+helloitsme: @tnix they are from today
+Discord: cat: @MDWalters124#0000 Meower is literally like the second result on google, how did they not find it
+helloitsme: @tnix so these were from yesterday 
+helloitsme: @tnix ah so he got ip banned
+Discord: tnix: the account was terminated though
+Discord: tnix: yeah, he ban evaded yesterday
+helloitsme: But it might be @Roblox888i again
+helloitsme: @helloitsme probably meaning we can’t track who did it
+helloitsme: It happened yesterday 
+helloitsme: @helloitsme annoying gcs are back
+helloitsme: @tnix “ You have been added to the group chat 'Did you miss me?'!” help 
+Discord: ShowierData9978: it used to work
+zedthehedgehog: Oh
+Discord: zedthehedgehog: @helloitsme#0000 test
+helloitsme: @zedthehedgehog he’s used to discord
+zedthehedgehog: Lmao
+zedthehedgehog: *Oh
+zedthehedgehog: Ohb
+helloitsme: @zedthehedgehog discord bridge
+zedthehedgehog: is that like a bettermeower thing
+zedthehedgehog: @tnix why do you use #0000 after usernames
+helloitsme: It’s terrible 
+helloitsme: OH GOD
+helloitsme: @tnix what
+Discord: tnix: @Bloctans#0000 ****, someone just stole the name and startup sound, and then did nothing else with it
+helloitsme: Idk why
+helloitsme: People still use Meower thread, studio
+helloitsme: @MDWalters124 bye
+MDWalters124: gtg
+MDWalters124: 
+reply
+
+qrcool
+Report
+@yeeter2001 Meower is not in scratch. It is a separate site. It does not have to follow scratch rules. I bring up the fact that it is moderated because it is not allowed to link unmoderated sites on scratch.
+8 months ago
+reply
+MDWalters124: @helloitsme yes
+Bloctans: https://scratch.mit.edu/projects/583665262/
+WHAT IS THIS
+helloitsme: There were two threads: old(deprecated as of 2021 I think) , new(shut down by st)
+MDWalters124: i was looking back at the meower media studio
+zedthehedgehog: ???
+MDWalters124: paddle2see's henchmen
+
+reply
+
+yeeter2001
+Report
+@CraySilver cuz they broke the terms by making a live chat
+9 months ago
+reply
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+MDWalters124: idk wasn't around on meower that long
+helloitsme: Forum*
+helloitsme: The og thread/fo****
+helloitsme: @MDWalters124 nono the older one
+helloitsme: @MDWalters124 my old posts are cringy
+MDWalters124: THERE IS LITERALLY A LINK TO ITTTTTTTT
+Meower is still in development!
+Check out our discussion thread for the latest updates!
+https://scratch.mit.edu/discuss/topic/508318
+helloitsme: I think I still have old forum link somewhere
+MDWalters124: they need to read the forums more
+helloitsme: @MDWalters124  bruh do they not know MikeDEV left scratch
+MDWalters124: 
+reply
+
+NobleLife
+Report
+@dozer8383 he hasn't responed in 8 days you should try to continue meower
+8 months ago
+
+@helloitsme yeah they can't
+helloitsme: @MDWalters124 do they?
+helloitsme: @MDWalters124 but they still don’t know how to read
+helloitsme: @MDWalters124 yay
+MDWalters124: jinxYouOweMeASoda
+Report
+@dozer8383 Because... meower is still alive and well, however off scratch?
+3 months ago
+helloitsme: @MDWalters124 that’s why I said it was someone else
+MDWalters124: but that was 8 months ago
+helloitsme: @MDWalters124 i feel tempted to tell them Meower isn’t dead
+MDWalters124: @MikeDEV
+helloitsme: @MDWalters124 that was someone different 
+helloitsme: @MDWalters124 wait no
+helloitsme: @MDWalters124 I REMEMBER THAT lol
+helloitsme: @MDWalters124 they wanted to own Meower 
+MDWalters124: dozer8383
+Report
+I feel obligated to step up and own Meower, since MikeDEV's absence.
+8 months ago
+reply
+
+GlitchedExe
+Report
+@dozer8383 You should not.
+8 months ago
+reply
+
+dozer8383
+Report
+@GlitchedExe Give a good reason why.
+8 months ago
+reply
+
+dozer8383
+Report
+@GlitchedExe Please.
+8 months ago
+reply
+helloitsme: @MDWalters124 ngl it seems kind of cool but I don’t trust random links so much anymore 
+MDWalters124: i found meower lore
+MDWalters124: hi
+Bloctans: hi
+MDWalters124: uh oh looking back at history, they said they want to own meower since "mike was absent"
+helloitsme: @MDWalters124 ok hang on I’m going to check
+MDWalters124: https://scratch.mit.edu/users/dozer8383
+helloitsme: @MDWalters124 who was advertising 
+helloitsme: @MDWalters124 who
+helloitsme: @MDWalters124 I reinstalled python
+MDWalters124: this guy on the meower media studio was advertizing some other social media they made :skull:
+MDWalters124: yeah
+helloitsme: @MDWalters124 weird right?
+MDWalters124: ?
+helloitsme: @MDWalters124 I tried to use pip but it didn’t work 
+MDWalters124: np
+helloitsme: @MDWalters124 ty for helping with python and stuff
+MDWalters124: hi
+helloitsme: @MDWalters124 hi
+helloitsme: A
+Discord: ShowierData9978: A
+helloitsme: A
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+MDWalters124: ok
+Vetzla: back and forward dont worl tho
+Vetzla: i call it pizza browser and im using it rn
+Vetzla: i made my own browser using kodular
+Vetzla: throwback to that one time i tried to scan a qr code but google lens kept giving me "yo kai watch"
+yourmother: yourmother entered the chat
+Discord: cat: hi
+MDWalters124: @cat hi
+MDWalters124: @ShowierData9978 System.out.println("ok")
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Discord: ShowierData9978: im learning java in cs lol
+Discord: tnix: @Vetzla#0000 I used a fork of appinventor (kodular) to make the original meower mobile, surprisingly powerful but can be annoying at times
+Discord: cat: m
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+Vetzla: so yes, very useful app, you can deconstruct some proteins with it
+Vetzla: i made an app named "vetzlagame" and its just a button named "buttone" that leads to a screen that softlocks yo
+Vetzla: i found this website named appinventor
+Vetzla: lmao
+yourmother: yourmother entered the chat
+Bloctans: i have an idea for a horror game with the Indihome Paket Phoenix guys
+Vetzla: writing another suggestio
+MDWalters124: https://scratch.mit.edu/users/MDWalters/#comments-235377113
+MDWalters124: @Bloctans hi
+Vetzla: maybe its like scratch cat looking for clues on an accident about something
+Vetzla: im bored so ill make a horror game (marked nfe)
+Vetzla: nothing
+Bloctans: check shazam
+Bloctans: uh
+Vetzla: https://scratch.mit.edu/projects/364764335/
+Vetzla: seriously does anyone know where this song comes from
+Bloctans: hi
+MDWalters124: banner i made for my reddit profile https://u.cubeupload.com/MDWalters/kCluhD.png
+MDWalters124: error failed because
+error failed because
+error failed because
+MDWalters124: https://cubeupload.com/img/errors/thumb_error.png
+MDWalters124: "Whether you're using Reddit to market your brand or to post a video of your pets playing chess, your karma lets your community know just what kind of redditor you are."
+*replaces reddit with meower* *makes everyone i call anti-furry have -1000 karma*
+MDWalters125: Successfully upvoted @Vetzla! They now have 1 karma.
+MDWalters124: ~karma upvote Vetzla
+MDWalters124: pog
+Vetzla: im gonna use nyan cat as the first ever meowstream video
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Discord: theotherhades: it's like https://github.com/theotherhades/yourmother-meower-bot or something
+Discord: theotherhades: python
+Discord: cat: @theotherhades What language
+MDWalters124: @Nino3245 paddle2see shut down the forums, which was why mike left scratch
+MDWalters124: hi
+Discord: theotherhades: idk what that spike was lol
+Discord: theotherhades: hmm [image.png: https://go.meower.org/5fe146d4]
+Nino3245:  
+Nino3245:                                 ?
+Nino3245:    
+Discord: theotherhades: @yourmother#0000 i think the ram leaks are starting again
+Nino3245: @Agent3 your not online anymore but meower is seperate from scratch and originally started on scratch but mikedev quit scratch and moved meower to here
+yourmother: yourmother entered the chat
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+yourmother: yourmother entered the chat
+yourmother: yourmother entered the chat
+helloitsme: A
+helloitsme: @helloitsme nope I saw it on old forums (scratch discussion forums)
+helloitsme: @helloitsme at least I think that’s still in the tos or something somewhere
+helloitsme: @Agent3 This is not a scratch prototype. Meower is not associated with scratch, scratch team. Anyway, Welcome to Meower!
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Agent3: ~ban mdwalterbad
+MDWalters125: That command doesn't exist! Use ~help to see a list of commands.
+Agent3: bro the heck
+mdwalterbad: daddyyyyyyyyy
+mdwalterbad: hi
+Agent3: see
+Agent3: i heard that this was a sort of a prototype of scratch or smt bc one of the profile pics are scratch cat
+MDWalters124: chatting?
+Agent3: like what is this website used for
+MDWalters124: what?
+Agent3: @MDWalter what is this used for
+Agent3: @MdWalter
+Agent3: kk
+MDWalters124: no spam
+Agent3: its not a family, its a cult -Camman18
+Agent3: its not a family, its a cult -Camman18
+Agent3: its not a family, its a cult -Camman18
+Agent3: its not a family, its a cult -Camman18
+Agent3: its not a family, its a cult -Camman18
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: its not a mistake, its a master piece -JellyBean
+Agent3: aw man >:<
+Agent3: ~mute MDWalter125
+MDWalters125: You don't have the permissions to run this command.
+Agent3: what'
+MDWalters125: You don't have the permissions to run this command.
+Agent3: ~mute MDWalter124
+Agent3: sike
+Agent3: H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̅̈́
+Agent3: me hacker
+Agent3: H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̢͍̺͇͈̗̪͚̅̈́̽̈̐̐̽̚͘͠Ḁ̸̛̰̱͑̀͆H̵̢̛͙͖̠͛̾̃̈͊À̵̛̮͇̆͊̋͌͆̓̾͝H̸̅̈́
+Agent3: HELLOOOO
+Agent3: ofc jk
+Agent3: lol
+Agent3: /ban CodeBot
+Agent3: but chat
+Agent3: is this like omegle
+Agent3: hi
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+PenguinBot: https://pastebin.com/raw/Z6GRhu07
+MDWalters124: p! help
+PenguinBot: ok
+MDWalters125: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits, ~karma, ~mute, ~unmute
+MDWalters124: ~help
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters125: zed's bot abuse chat found https://u.cubeupload.com/MDWalters/klEVTx.png
+MDWalters125: Bot will not respond to commands as someone invited this bot to a chat
+MDWalters124: rip https://www.npmjs.com/package/geo-from-ip
+MDWalters124: https://www.npmjs.com/~eggplantzzz nsfw lover
+MDWalters125: Successfully unmuted @yooit_32!
+MDWalters124: ~unmute yooit_32
+MDWalters125: Successfully muted @yooit_32!
+MDWalters124: ~mute yooit_32
+MDWalters124: @yooit_32 was on a cl 3 clinet
+MDWalters124: @OrangeDragonDEV ok
+OrangeDragonDEV: we have almost 2,000 users!
+MDWalters124: mdwalters125 db
+MDWalters124: {
+    "MDW125-STATUS-m": "I was banned for asking to be un-IP banned",
+    "MDW125-STATUS-Vetzla": "test",
+    "MDW125-KARMA-MDWalters124": 2,
+    "MDW125-STATUS-MDWalters124": "My fingers are cold",
+    "MDW125-STATUS-axestudios": "Meowy",
+    "MDW125-STATUS-yooit_32": "If you see this, I am a Meower veteran.",
+    "MDW125-KARMA-yooit_32": 0
+}
+Webhooks: MDWalters124: e
+MDWalters124: ~! webhook e
+MDWalters124: you don't use discord :cry:
+OrangeDragonDEV: :laugh:?
+MDWalters124: @OrangeDragonDEV ha, it can't read your post correctly rn :laugh:
+MDWalters124: uwu
+PenguinBot: says the furry
+OrangeDragonDEV: k
+MDWalters124: zootopia
+OrangeDragonDEV: what is the best movie ever?
+MDWalters124: test
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: whoever is on a cl 3 client will be muted and reported
+MDWalters124: who is on a cl 3 clinet
+MDWalters125: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: rip
+MDWalters124: reported for saying dang it
+yooit_32: dang it.
+yooit_32: ~karma downvote yooit_32
+MDWalters125: You can't downvote yourself!
+MDWalters125: @yooit_32 has 0 karma.
+MDWalters124: ~karma view yooit_32
+MDWalters124: no
+yooit_32: can i downvote myself?
+MDWalters125: You can't upvote yourself!
+yooit_32: ~karma upvote yooit_32
+MDWalters124: yay
+MDWalters125: Successfully upvoted @MDWalters124! They now have 2 karma.

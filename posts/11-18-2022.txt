@@ -1,0 +1,306 @@
+Bloctans: a
+Bloctans: gn
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Bloctans: soon
+Bloctans: time to make a basic sgerbing client test with python (have only made auth)
+Discord: ShowierData9978: i do not know enough to translate tho
+Discord: ShowierData9978: im learning french in school
+JoshAtticus: hmm
+JoshAtticus: Why is the new notification sound so distorted
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+JoshAtticus: And I have a friend who can't speak english very well, but I want to be able to talk to them on Meower with group chats, so I want to translate meower for them.
+JoshAtticus: i'm learning french on duolingo so it's good experience too
+JoshAtticus: because I want to
+Discord: theotherhades: @joshatticus why french 💀
+JoshAtticus: (I'm translating Meower Svelte into French)
+JoshAtticus: Je traduis Meower Svelte en français
+_turkey_: kmkmkmkmd  vm vm
+_turkey_: im back hi
+helloitsme: Gn
+helloitsme: @helloitsme ok goodnight
+helloitsme: Day 1 of attempting to load gocial client
+helloitsme: @_turkey_ hi
+_turkey_: hi 
+helloitsme: @JoshAtticus Do you think he’s dead
+helloitsme: @Bloctans REEEEEEEEEEE
+JoshAtticus: It's currently local
+helloitsme: @JoshAtticus ok
+JoshAtticus: **ye
+helloitsme: @JoshAtticus wait what
+JoshAtticus: I'm going to to continue working on a french version of Meower Svelte
+helloitsme: https://files.mdwalters.ml/Gocial.sb3
+helloitsme: @Bloctans
+helloitsme: It didn’t ask if I wanted to download also bye
+MDWalters124: gtg
+helloitsme: @MDWalters124 it’s blank
+MDWalters124: np
+helloitsme: @MDWalters124 ty
+MDWalters124: https://files.mdwalters.ml/Gocial.html
+helloitsme: @MDWalters124 we can try
+MDWalters124: idk
+helloitsme: @MDWalters124 can we somehow translate the node into python
+helloitsme: @MDWalters124 just so we can work on client
+helloitsme: @MDWalters124 keep it up pls
+helloitsme: @MDWalters124 uh
+MDWalters124: so i wasted my time writing a server in the wrong language
+helloitsme: Md made client
+helloitsme: @Bloctans https://files.mdwalters.ml/Gocial.sb3 client
+helloitsme: That client could be useful to @Bloctans
+MDWalters124: gtg
+helloitsme: However
+helloitsme: @MDWalters124 u need to turn it into an html and maybe put it on a website or something
+MDWalters124: rip
+helloitsme: @MDWalters124 I’m on mobile
+MDWalters124: load with https://turbowarp.org/editor?extension=https://mikedev101.github.io/turbo_networking.js
+helloitsme: K
+MDWalters124: https://files.mdwalters.ml/Gocial.sb3
+helloitsme: Or no
+helloitsme: Domain
+helloitsme: Maybe u can set up a pages.dev
+helloitsme: Hosted on a website or something
+MDWalters124: ok
+helloitsme: Can I see client
+MDWalters124: ok
+helloitsme: @MDWalters124 keep node server up for now
+MDWalters124: ok, but it connects to the node server though
+helloitsme: That’s interesting 
+helloitsme: I wanna see client tho 
+helloitsme: @MDWalters124 backend has to be python
+MDWalters124: nodejs
+helloitsme: What did you code server in
+helloitsme: Gocial time- 
+MDWalters124: also i made client and server
+helloitsme: Ok
+MDWalters124: i accepted
+helloitsme: @MDWalters124 I invited u to org
+MDWalters124: me when 24 hours ago:
+PenguinBot: e
+MDWalters124: :gun: i want to
+MDWaltersBot: You can't upvote yourself!
+MDWalters124: ~karma upvote MDWalters124
+MDWalters124: aww
+MDWaltersBot: You have 0 karma.
+MDWalters124: ~karma
+MDWalters124: ~help
+MDWaltersBot: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits, ~karma, ~mute, ~unmute
+MDWaltersBot: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: @helloitsme hi
+PenguinBot: hi
+MDWalters124: hi
+helloitsme: Ok nvm I’m gonna do something 
+helloitsme: Where is @Vetzla
+helloitsme: Haha… HAHA 
+helloitsme: Wait…
+helloitsme: Ok bye
+helloitsme: I’m an operating system now lol
+helloitsme: Closed process.
+helloitsme: ^C
+helloitsme: sudo apt-get install updatespackage
+helloitsme: MeowOS 1.0 use “_help” for shell commands
+Bloctans: https://www.youtube.com/watch?v=F5GjEwI8wEA
+GUYS I FOUND THE NEW EMOJI MOVIE CONCPT REAL
+MDWalters124: hi
+Discord: tnix: I haven't used in it ages so I'm not even sure if I know how to generate accounts anymore lmao
+Discord: tnix: you need an API key
+Vetzla: @zedthehedgehog how do you use gomeomerorg???
+Discord: zedthehedgehog: *nostalgia
+Discord: zedthehedgehog: gave me some nostaglia
+Discord: zedthehedgehog: for page info
+Discord: zedthehedgehog: firefox is using some windows vista/7 style icons [image.png: https://go.meower.org/1e17f52b]
+MDWalters124: gtg
+MDWalters124: why is my pfp even tux
+zedthehedgehog: oh you're using bettermeower
+MDWalters124: https://u.cubeupload.com/MDWalters/KKENCk.png tf this url and what bettermeower users see:
+zedthehedgehog: censoring **** is annoying
+Discord: zedthehedgehog: I need mike to restart the server for filter changes
+MDWalters124: all i see is 1 minute ago
+Discord: zedthehedgehog: on discord [image.png: https://go.meower.org/588fbb9c]
+Discord: tnix: ****, Discord delay
+Discord: zedthehedgehog:  [image.png: https://go.meower.org/04f8b572]
+MDWalters124: @zedthehedgehog onosecond
+MDWalters124: @MDWalters124 and the person who i gave it back to said they don't know where it is
+zedthehedgehog: you guys were one second apart
+Discord: tnix: on Discord it doesn't appear that way
+MDWalters124: i said it first
+Discord: tnix: @zedthehedgehog#0000 yeah, cloudready
+MDWalters124: cloudready
+zedthehedgehog: I believe ChromeOS Flex was a continuation of something Neverware was doing before google acquired them
+MDWalters124: welp, time to go grab a screwdriver and unplug the battery
+MDWalters124: it keeps shutting down
+zedthehedgehog: why did you return it in the first place?
+MDWalters124: i regret returning mdwalters-laptop
+zedthehedgehog: I feel bad for you
+zedthehedgehog: ****
+MDWalters124: yes
+PenguinBot: shame on you
+zedthehedgehog: is that your only device
+zedthehedgehog: a school chromebook?
+MDWalters124: @zedthehedgehog ok https://u.cubeupload.com/MDWalters/EZxbwt.png
+MDWalters124: ok
+zedthehedgehog: https://chromeenterprise.google/os/chromeosflex/
+Discord: tnix: "uh... this is chromeos flex"
+MDWalters124: https://u.cubeupload.com/MDWalters/VB8xRe.png
+zedthehedgehog: chromeos flex
+MDWalters124: @tnix what
+zedthehedgehog: yeah
+Discord: tnix: and he's using ChromeOS flex, why not just use linux and not chromeos
+MDWalters124: yeah
+zedthehedgehog: ever heard of crouton?
+zedthehedgehog: @MDWalters124 you can have a linux machine
+zedthehedgehog: @MDWalters124 imagine using chromeos
+MDWalters124: anyway, back to writing gocial server...
+MDWalters124: ok
+Discord: theotherhades: why so many tabs 💀
+MDWalters124: uh... this is chromeos flex :thumbsup: https://u.cubeupload.com/MDWalters/NIx5hD.png
+MDWalters124: i don't own a chromebook
+Discord: tnix: mongodb atlas is their cloud version and you can use it on replit
+MDWalters124: @theotherhades social media
+MDWalters124: i don't have a linux laptop
+MDWalters124: @tnix nah
+Discord: theotherhades: what even is gocial
+Discord: tnix: or use something like mongodb atlas, mongodb atlas is free for 512mb of data
+Discord: theotherhades: if you're gonna use replit use replitdb instead of json files
+Discord: tnix: *at least
+MDWalters124: ok
+Discord: tnix: and you should not store your db in a single json file, and you should raise the bcrypt salt rounds to at 12 or 14
+MDWalters124: @bcrypt cool hashing
+MDWalters124: @tnix all i see is "mdwalters": "sdkghfkhsdgfkdgfkhsdkghskadhgksdgvhdgvkadbvkhadgbndzxbvn,bvjkhsdgfjdgvvfjdfvjdbhj"
+Discord: tnix: replit still has it public
+MDWalters124: i didn't publish it
+Discord: tnix:  [image.png: https://go.meower.org/eed01df0]
+Discord: tnix: from what I can see you have the db public, which is bad, and you're using bcrypt with a low salt rounds of 10
+Bloctans: furriesarecool24
+mds p****
+MDWalters124: i was just joking lol
+Discord: ShowierData9978: why
+Discord: ShowierData9978: BRO
+MDWalters124: @tnix https://u.cubeupload.com/MDWalters/N6CrII.png
+MDWalters124: glocial
+Bloctans: @MDWalters124 well prepare for glocial to have the most unsecure backend erver
+Discord: tnix: @MDWalters124#0000 ?
+MDWalters124: @tnix i do not hash passwords in gocial's db
+MDWalters124: ok
+Discord: ShowierData9978: idk
+MDWalters124: @ShowierData9978 help
+Bloctans: Traceback (most recent call last):
+  File "C:\Users\\Documents\GitHub\My-Qr-Code-Reader\main.py", line 60, in <module>
+    print(imgtoarray[qrcode_start[1]:])
+TypeError: unhashable type: 'slice'
+why does this happen? can someone help?
+Discord: ShowierData9978: discord
+Bloctans: TypeError: unhashable type: 'slice'
+can someone tell me why
+MDWalters124: ok
+PenguinBot: NO TALKING ABOUT OTHER SOCIAL MEDIA ON MEOWER
+MDWalters124: i also made gocial tui
+MDWalters124: that should be the first bot for gocial
+MDWalters124: i just had a good idea: meower to gocial bridge
+MDWalters124: ok
+password: can confirm
+MDWalters124: fun fact: password's password is password
+Discord: tnix: I wouldn't really call it a hack if you have your password public
+MDWalters124: @MikeDEV tnix hacked into my alt
+MDWalters124: ok
+PenguinBot: @MDWalters124 you should have the world's longest password like tnix
+MDWalters124: @tnix i'll just switch to gitlab :thumbsup:
+Bloctans: WHY
+MDWalters124: surious
+Bloctans: @tnix surious?
+MDWalters124: <sup>e</sup>
+Discord: tnix: I hope that's not the same password for more important accounts like github and replit
+MDWalters124: :thumbsup:
+Discord: tnix: and leaked his password while doing it
+MDWalters124: i created gocial server without you
+MDWalters124: hi
+Bloctans: hji
+MDWalters124: both
+Discord: tnix: and do you mean of all-time or only beta 5?
+MDWalters124: rip
+Discord: tnix: @MDWalters124#0000 idk
+MDWalters124: ~help
+MDWaltersBot: Commands: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~credits, ~karma, ~mute, ~unmute
+MDWaltersBot: MDWalters125 is now online! Use ~help to see a list of commands.
+MDWalters124: @tnix what was the first bot on meower?
+MDWalters124: speaking of bots...
+MDWalters124: pov: i should make a gocial bot
+MDWalters124: we need karma
+MDWalters124: noooo
+MDWalters124: ~karma
+MDWaltersBot: That command doesn't exist! Use ~help to see a list of commands.
+MDWalters124: ~help
+MDWaltersBot: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~random, ~credits
+MDWalters124: yay
+MDWalters124: ~shorten e.com
+MDWaltersBot: https://shrtco.de/FIxJeI
+MDWaltersBot: ~hello, ~help, ~amazing, ~uptime, ~uwu, ~8ball, ~motd, ~zen, ~shorten, ~cat, ~status, ~random, ~credits
+MDWalters124: ~help
+MDWaltersBot: MDWalters125 is now online! Use ~help to see a list of commands.
+PenguinBot: cya
+MDWalters124: bye
+JoshAtticus: Gtg bye
+MDWalters124: @JoshAtticus hi josh
+MDWalters124: a window is nsfw i see https://u.cubeupload.com/MDWalters/VafAY9.png
+JoshAtticus: https://gamejolt.com/p/what-the-heck-is-my-cat-doing-yu3zn5tb
+MDWalters124: -1 seconds ago i need to fix
+MDWalters124: @tnix ok
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Discord: ShowierData9978: ello
+Bloctans: hi
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Discord: ShowierData9978: so about 12 per day
+Discord: tnix: but usually it's only a few hundred per day
+Discord: tnix: @MDWalters124#0000 idk, we've hit up to 5k posts in a day, so divide that by 25
+MDWalters124: @tnix how much pages by average is a day's worth of posts?
+MDWalters124: guys josh exploited the filter why isn't he banned https://github.com/mdwalters/Meower-Post-Archive/blob/main/posts/11-17-2022.txt#L7
+MDWalters124: we almost have a week's worth of post archives yay
+MDWalters124: @helloitsme https://u.cubeupload.com/MDWalters/7GyTSr.png
+MDWalters124: @m which one
+m: i can finally say i was hacked
+MDWalters124: oh no
+m: please change it immediately
+m: @MDWalters124 maybe you shouldn't leave your password in a public repl
+MDWalters124: gocial tui https://u.cubeupload.com/MDWalters/i3C3k3.png
+MDWalters124: @Semisol hello
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+Semisol: hi
+MDWalters124: hello
+m: goodbye
+m: hello
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+CodeBot: Prefix: '@CodeBot '
+ Bot info: @CodeBot info bot
+ For Help do 'help 1'
+APIBot: 
+Formaly named Comics
+
+Do '~! Help'
+
+  
+Bloctans: have you heard of school
+Semisol: i am online
+zedthehedgehog: what the hell
+zedthehedgehog: what the hell
+zedthehedgehog: Well looks like there is no one but bots online
+zedthehedgehog: Well looks like there is no one but bots online
+zedthehedgehog: no
+zedthehedgehog: no
+theawesome54321: @--snxwleopxrd no
+Semisol: @--snxwleopxrd maybe
